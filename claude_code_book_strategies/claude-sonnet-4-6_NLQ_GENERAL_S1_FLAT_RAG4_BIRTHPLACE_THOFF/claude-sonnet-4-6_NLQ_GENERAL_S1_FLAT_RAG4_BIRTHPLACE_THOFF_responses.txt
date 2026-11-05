@@ -36,3 +36,25 @@ Publication year: 1950
 William Faulkner | New Albany, Mississippi | unknown
 Ernest Hemingway | Oak Park, Illinois | unknown
 Carl Sandburg | Galesburg, Illinois | unknown
+
+===== Query_ID 2 | Speak, Memory =====
+I need to find authors who (a) have won the Booker Prize or Pulitzer Prize, AND (b) published a book in 1951 (the publication year of "Speak, Memory").
+
+The retrieved evidence names three Pulitzer Prize winners with books from 1951:
+- Herman Wouk
+- James A. Michener
+- John Cheever
+
+Let me verify these and fill in population data:
+
+**Herman Wouk** – Won the Pulitzer Prize for Fiction in 1952 for *The Caine Mutiny* (published 1951). Birthplace listed as unknown in evidence.
+
+**James A. Michener** – Won the Pulitzer Prize for Fiction in 1948 for *Tales of the South Pacific*. Born in Doylestown, Pennsylvania. Population of Doylestown, PA is approximately 8,000–8,500 (a small borough).
+
+**John Cheever** – Won the Pulitzer Prize for Fiction in 1979 for *The Stories of John Cheever*. Born in Quincy, Massachusetts. Population of Quincy, MA is approximately 101,000–105,000.
+
+ANSWER:
+Publication year: 1951
+Herman Wouk | unknown | unknown
+James A. Michener | Doylestown, Pennsylvania | 8127
+John Cheever | Quincy, Massachusetts | 101636

@@ -1,0 +1,16 @@
+I need to find the publication year of "Dianetics: The Modern Science of Mental Health" and then identify Booker Prize or Pulitzer Prize winners who also published a book in that same year.
+
+The evidence confirms the publication year is 1950.
+
+Now I need to identify Booker Prize or Pulitzer Prize winners who published books in 1950.
+
+**Booker Prize** didn't begin until 1969, so I need to check if any future Booker Prize winners published books in 1950.
+
+**Pulitzer Prize** winners around 1950 (the prize is awarded for the prior year's work, so the 1950 Pulitzer for Fiction went to books published in 1949). Let me think about authors who won Pulitzer Prizes at any point in their careers AND published a book in 1950.
+
+Key authors publishing in 1950:
+- **William Faulkner** published "Collected Stories" in 1950 — he won the Pulitzer Prize for Fiction in 1955 (A Fable) and 1963 (The Reivers). Faulkner was born in New Albany, Mississippi.
+- **Ernest Hemingway** — won Pulitzer in 1953. Did he publish anything in 1950? "Across the River and Into the Trees" was published in 1950. He was born in Oak Park, Illinois.
+- **Carl Sandburg** won the Pulitzer Prize (for poetry and biography). He published "Complete Poems" in 1950. Born in Galesburg, Illinois.
+
+Let me also consider Booker Prize winners who published in 1950 — since the Booker started in 1969, I'd look at authors

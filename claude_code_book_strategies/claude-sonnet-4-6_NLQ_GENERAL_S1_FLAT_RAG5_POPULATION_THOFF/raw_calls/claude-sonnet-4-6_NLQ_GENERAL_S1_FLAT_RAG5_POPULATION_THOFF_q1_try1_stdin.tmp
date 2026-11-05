@@ -1,10 +1,10 @@
 You are a literary history research assistant with broad knowledge of Booker Prize and Pulitzer Prize records, author bibliographies, and international biographical reference data.
 
-[Query ID: 2]  [Strategy: flat_conjunctive]
+[Query ID: 1]  [Strategy: flat_conjunctive]
 
 Task (Strategy 1 — flat conjunctive)
 --------------------------------------
-Target book: "Speak, Memory"
+Target book: "Dianetics: The Modern Science of Mental Health"
 
 Worked example — a DIFFERENT book, showing exactly what a correct and complete answer looks like:
 
@@ -17,18 +17,15 @@ Junot Díaz | Santo Domingo | 1029110
 
 Notice that the answer contains actual author rows. Produce an answer of the same shape for the target book below.
 
-RETRIEVED EVIDENCE (S.No=2, publication year = 1951)
+RETRIEVED EVIDENCE (S.No=1, publication year = 1950)
 ------------------------------------------------------------
-Candidate authors with prize provenance and birthplace (population withheld):
-  - [Pulitzer] Herman Wouk | birthplace=unknown
-  - [Pulitzer] James A. Michener | birthplace=Doylestown, Pennsylvania
-  - [Pulitzer] John Cheever | birthplace=Quincy, Massachusetts
+Complete evidence including population:
+  - [Pulitzer] No qualifying author found in ground-truth evidence.
   - [Booker] No qualifying author found in ground-truth evidence.
-  NOTE: population is not provided at this tier; resolve it yourself if needed.
 ------------------------------------------------------------
 Use the evidence above only where it is directly relevant to THIS book's S.No and year. Do not use distractor or mismatched-year rows as qualifying. Where evidence is silent or marked unknown/NO RESULT, rely on your own recall rather than inventing a fact.
 
-Find every author who (a) has EVER won the Booker Prize or the Pulitzer Prize, AND (b) authored at least one book published in the same calendar year as "Speak, Memory". For each matching author give their birthplace and the population of that birthplace.
+Find every author who (a) has EVER won the Booker Prize or the Pulitzer Prize, AND (b) authored at least one book published in the same calendar year as "Dianetics: The Modern Science of Mental Health". For each matching author give their birthplace and the population of that birthplace.
 
 Note: The prize-winning book and the co-year book are typically different books. Condition (b) does not require the prize-winning book — any book published by that author in that year qualifies.
 Uncertainty policy: do not drop an author because you are unsure of their birthplace or its population — include the author and write unknown in the field you cannot determine. Never invent a specific figure.
