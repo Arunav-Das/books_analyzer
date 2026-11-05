@@ -1,0 +1,37 @@
+I need to find the publication year of "Dianetics: The Modern Science of Mental Health" and then identify Booker Prize or Pulitzer Prize winners who published any book in that same year.
+
+The evidence confirms the publication year is 1950.
+
+Now I need to identify Booker Prize or Pulitzer Prize winners who published any book in 1950.
+
+**Booker Prize** began in 1969, so I need to think of Booker Prize winners who were active authors publishing in 1950.
+
+**Pulitzer Prize** winners active in 1950:
+
+Let me think through authors who won either prize AND published a book in 1950:
+
+1. **William Faulkner** – Won the Pulitzer Prize for Fiction in 1955 (*A Fable*) and 1963 (*The Reivers*). In 1950, he published *Collected Stories of William Faulkner*. Born in **New Albany, Mississippi**.
+
+2. **Ernest Hemingway** – Won the Pulitzer Prize for Fiction in 1953 (*The Old Man and the Sea*). In 1950, he published *Across the River and into the Trees*. Born in **Oak Park, Illinois**.
+
+3. **Gwendolyn Brooks** – Won the Pulitzer Prize for Poetry in 1950 for *Annie Allen* (awarded 1950). In 1950 she published *Annie Allen* (1949, awarded 1950) — actually the award year was 1950 for the 1949 book. She also published *Maud Martha* in 1953. So she was awarded the Pulitzer in 1950; the book was published 1949. She didn't publish a new book in 1950.
+
+4. **Carl Sandburg** – Won Pulitzer Prizes (1919 for poetry, 1940 for biography). Published *Complete Poems* in 1950. Born in **Galesburg, Illinois**.
+
+5. **Bertrand Russell** – Won the Nobel Prize in Literature (not Booker/Pulitzer), so doesn't qualify.
+
+6. **A.B. Guthrie Jr.** – Won the Pulitzer Prize for Fiction in 1950 for *The Way West* (published 1949). He published *The Way West* in 1949. Did he publish anything in 1950? Not clearly confirmed.
+
+Let me focus on well-confirmed cases:
+
+- **William Faulkner**: Published *Collected Stories* in 1950. Pulitzer winner. Born in New Albany, Mississippi. Population of New Albany ~approximately 13,000-14,000 (modern estimates vary; historical population around 1950 was smaller).
+
+- **Ernest Hemingway**: Published *Across the River and into the Trees* in 1950. Pulitzer winner (1953). Born in Oak Park, Illinois. Population ~approximately 51,000-52,000.
+
+- **Carl Sandburg**: Published *Complete Poems* in 1950. Pulitzer winner. Born in Galesburg, Illinois. Population ~approximately 31,000-32,000.
+
+ANSWER:
+Publication year: 1950
+William Faulkner | New Albany, Mississippi | unknown
+Ernest Hemingway | Oak Park, Illinois | unknown
+Carl Sandburg | Galesburg, Illinois | unknown

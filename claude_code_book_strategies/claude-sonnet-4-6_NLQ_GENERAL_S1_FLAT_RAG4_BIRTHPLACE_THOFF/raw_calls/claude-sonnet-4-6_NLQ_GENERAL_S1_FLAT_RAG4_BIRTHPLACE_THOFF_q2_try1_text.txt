@@ -1,0 +1,4 @@
+I need to find authors who (a) have won the Booker Prize or Pulitzer Prize, AND (b) published a book in 1951 (the publication year of "Speak, Memory").
+
+The retrieved evidence names three Pulitzer Prize winners with books from 1951:
+-
