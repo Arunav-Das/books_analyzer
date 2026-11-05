@@ -1,3 +1,7 @@
+[SYSTEM]
+You are a helpful assistant. Answer the user's message directly in plain text.
+
+[USER]
 You are a literary history research assistant with broad knowledge of Booker Prize and Pulitzer Prize records, author bibliographies, and international biographical reference data.
 
 [Query ID: 2]  [Strategy: flat_conjunctive]
@@ -19,12 +23,12 @@ Notice that the answer contains actual author rows. Produce an answer of the sam
 
 RETRIEVED EVIDENCE (S.No=2, publication year = 1951)
 ------------------------------------------------------------
-Titles, authors, and prize provenance for this year:
-  - Barbary Shore | Norman Mailer | prize_source=Pulitzer
-  - Lie Down in Darkness (novel) | William Styron | prize_source=Pulitzer
-  - Requiem for a Nun | William Faulkner | prize_source=Pulitzer
-  - The Caine Mutiny | Herman Wouk | prize_source=Pulitzer
-  - The Morning Watch | James Agee | prize_source=Pulitzer
+Candidate authors with prize provenance and birthplace (population withheld):
+  - [Pulitzer] Herman Wouk | birthplace=unknown
+  - [Pulitzer] James A. Michener | birthplace=Doylestown, Pennsylvania
+  - [Pulitzer] John Cheever | birthplace=Quincy, Massachusetts
+  - [Booker] No qualifying author found in ground-truth evidence.
+  NOTE: population is not provided at this tier; resolve it yourself if needed.
 ------------------------------------------------------------
 Use the evidence above only where it is directly relevant to THIS book's S.No and year. Do not use distractor or mismatched-year rows as qualifying. Where evidence is silent or marked unknown/NO RESULT, rely on your own recall rather than inventing a fact.
 
