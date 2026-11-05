@@ -1,0 +1,34 @@
+===== Query_ID 1 | Dianetics: The Modern Science of Mental Health =====
+Now I have comprehensive data. Let me compile the final answer. Here's what I've established:
+
+**Target book:** "Dianetics: The Modern Science of Mental Health" — published **1950** by L. Ron Hubbard.
+
+**Pulitzer Prize winners who published books in 1950:**
+1. **A.B. Guthrie Jr.** — Won Pulitzer 1950 (Fiction, *The Way West*). Published *The Big Sky: An Edition for Young Readers* (1950). Born in **Bedford, Indiana** (pop. ~12,562 in 1950).
+2. **Gwendolyn Brooks** — Won Pulitzer 1950 (Poetry, *Annie Allen*, pub. 1949). Published the essay "Poets Who Are Negroes" in 1950 — but no full *book* published in 1950 beyond *Annie Allen* itself (1949). *Annie Allen* won the 1950 prize but was published 1949. No new 1950 book confirmed.
+3. **Samuel Flagg Bemis** — Won Pulitzer 1950 (Biography). Published *The United States as a World Power: A Diplomatic History, 1900–1950* (Holt, 1950). Born in **Worcester, Massachusetts** (pop. 203,486 in 1950).
+
+**Booker Prize winners who published books in 1950:**
+4. **P.H. Newby** — Won inaugural Booker Prize 1969. Published *The Young May Moon* (Jonathan Cape, 1950). Born in **Crowborough, Sussex, England** (population ~unknown for 1950, estimated in the low thousands based on historical records).
+
+For Gwendolyn Brooks: *Annie Allen* was published in **1949** (not 1950), so she does not qualify under condition (b) unless we count the prize year. The question asks for books published in the same calendar year as "Dianetics" (1950). Brooks had no new book published in 1950.
+
+---
+
+ANSWER:
+Publication year: 1950
+A. B. Guthrie Jr. | Bedford, Indiana | 12562
+Samuel Flagg Bemis | Worcester, Massachusetts | 203486
+P. H. Newby | Crowborough, Sussex, England | unknown
+
+Sources:
+- [1950 Pulitzer Prize – Wikipedia](https://en.wikipedia.org/wiki/1950_Pulitzer_Prize)
+- [A. B. Guthrie Jr. – Wikipedia](https://en.wikipedia.org/wiki/A._B._Guthrie_Jr.)
+- [Samuel Flagg Bemis – Wikipedia](https://en.wikipedia.org/wiki/Samuel_Flagg_Bemis)
+- [P. H. Newby – Wikipedia](https://en.wikipedia.org/wiki/P._H._Newby)
+- [Annie Allen – Wikipedia](https://en.wikipedia.org/wiki/Annie_Allen)
+- [Gwendolyn Brooks – Wikipedia](https://en.wikipedia.org/wiki/Gwendolyn_Brooks)
+- [P. H. Newby Bibliography – phnewby.net](https://phnewby.net/books/)
+- [Bedford, Indiana – Wikipedia](https://en.wikipedia.org/wiki/Bedford,_Indiana)
+- [Worcester, Massachusetts population data – biggestuscities.com](https://www.biggestuscities.com/ma/1950)
+- [Topeka, Kansas – Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Topeka,_Kansas)
