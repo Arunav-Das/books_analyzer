@@ -106,3 +106,4 @@ BOOK AUTHOR ANALYSER - CLAUDE CODE   (script version 2026-11-05.1-books-claude-c
 2026-11-05 07:33:27,199 - INFO - Loaded 500 rows from source.
 2026-11-05 07:33:27,200 - INFO - Processing 2/500 queries (0 already done)  strategy=flat_conjunctive  rag_tier=year_list_only  model=claude-sonnet-4-6  backend=claude_code
 2026-11-05 07:33:27,200 - INFO - [1/500] Q_ID=1 'Dianetics: The Modern Science of Mental Health' year=1950
+2026-11-05 07:33:57,845 - INFO -   [claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG1_TITLES_THOFF_WEB_T30_q1] streaming 31s: text=213 chars  thinking=0 chars

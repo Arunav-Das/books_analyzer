@@ -1465,7 +1465,9 @@ class ClaudeCodeClient:
                 finish = evt.get("stop_reason") or evt.get("subtype")
                 out_tok = _completion_tokens(usage)
                 status = ST_EMPTY if not text else ST_OK
-                if text and ((out_tok == out_tok and out_tok >= 0.98 * mt) or str(finish or "").lower() in ("max_tokens", "length")):
+                # multi-turn (tools): usage.output_tokens is summed over ALL turns, so only the stop reason is a valid cap signal
+                tok_cap = out_tok == out_tok and out_tok >= 0.98 * mt and self.tools_mode == "none"
+                if text and (tok_cap or str(finish or "").lower() in ("max_tokens", "length")):
                     status = ST_TRUNC_LENGTH
                 return dict(base, status=status, finish_reason=None if finish is None else str(finish))
             msg = ("TIMEOUT " if r["timed_out"] else "") + (str(evt.get("result", "")) if evt else "") + " " + r["stderr"][:400]
