@@ -1,0 +1,81 @@
+===== Query_ID 1 | Dianetics: The Modern Science of Mental Health =====
+Now I have the key facts I need. Let me also confirm whether Ernest Hemingway ever won the Pulitzer Prize, and check the evidence block authors.
+
+Based on my research, here is what I've established:
+
+**Publication year of Dianetics:** 1950 — confirmed by multiple sources and also confirmed by the RETRIEVED EVIDENCE (S.No=1, year 1950).
+
+**Authors named in the RETRIEVED EVIDENCE for 1950:**
+- Ernest Hemingway (*Across the River and into the Trees*, 1950)
+- MacKinlay Kantor (*Lee and Grant at Appomattox*, 1950)
+- Conrad Richter (*The Town*, 1950)
+
+**Prize eligibility check:**
+- **Ernest Hemingway**: Won the Pulitzer Prize for Fiction in 1953 (*The Old Man and the Sea*). Born in Oak Park, Illinois. ✅ Qualifies.
+- **MacKinlay Kantor**: Won the Pulitzer Prize for Fiction in 1956 (*Andersonville*). Born in Webster City, Iowa. ✅ Qualifies.
+- **Conrad Richter**: Won the Pulitzer Prize for Fiction in 1951 (*The Town*, published 1950). Born in Pine Grove, Pennsylvania. ✅ Qualifies.
+
+**Additionally, P.H. Newby** (first Booker Prize winner, 1969) published *The Young May Moon* in 1950, and was born in Crowborough, Sussex. ✅ Qualifies.
+
+**Populations:**
+- Oak Park, Illinois: ~52,000 (approx. 51,878 per 2020 census)
+- Webster City, Iowa: ~8,070 (2010 census)
+- Pine Grove, Pennsylvania: ~2,100 (small borough)
+- Crowborough, East Sussex: ~21,688 (2021 census)
+
+ANSWER:
+Publication year: 1950
+Ernest Hemingway | Oak Park, Illinois | 51878
+MacKinlay Kantor | Webster City, Iowa | 8070
+Conrad Richter | Pine Grove, Pennsylvania | 2100
+P. H. Newby | Crowborough, Sussex | 21688
+
+Sources:
+- [Dianetics: The Modern Science of Mental Health - Wikipedia](https://en.wikipedia.org/wiki/Dianetics:_The_Modern_Science_of_Mental_Health)
+- [P. H. Newby - Wikipedia](https://en.wikipedia.org/wiki/P._H._Newby)
+- [Conrad Richter - Wikipedia](https://en.wikipedia.org/wiki/Conrad_Richter)
+- [MacKinlay Kantor - Wikipedia](https://www.wikipedia.org/wiki/MacKinlay_Kantor)
+- [Pulitzer Prize for Fiction - Fantastic Fiction](https://www.fantasticfiction.com/awards/pulitzer-prize/pulitzer-prize-for-fiction/1950.htm)
+- [Crowborough - Wikipedia](https://en.wikipedia.org/wiki/Crowborough)
+- [P. H. Newby Bibliography - phnewby.net](https://phnewby.net/books/)
+
+===== Query_ID 2 | Speak, Memory =====
+The retrieved evidence confirms "Speak, Memory" was first published in **1951**. Now I need to check which authors from the evidence block won Booker or Pulitzer Prizes.
+
+The RETRIEVED EVIDENCE block for S.No=2 (publication year 1951) lists these authors:
+- Norman Mailer
+- William Styron
+- William Faulkner
+- Herman Wouk
+- James Agee
+
+Let me verify their prize-winning status from my knowledge:
+
+- **Herman Wouk** – Won the **Pulitzer Prize for Fiction in 1952** for *The Caine Mutiny* (published 1951). Born in **New York City, New York**.
+- **William Faulkner** – Won the **Pulitzer Prize for Fiction** (1955 for *A Fable*, 1963 for *The Reivers*). Born in **New Albany, Mississippi**.
+- **William Styron** – Won the **Pulitzer Prize for Fiction in 1968** for *The Confessions of Nat Turner*. Born in **Newport News, Virginia**.
+- **Norman Mailer** – Won the **Pulitzer Prize** (1969 for *The Armies of the Night*, 1980 for *The Executioner's Song*). Born in **Long Branch, New Jersey**.
+- **James Agee** – Won the **Pulitzer Prize posthumously in 1958** for *A Death in the Family*. Born in **Knoxville, Tennessee**.
+
+All five authors from the evidence block qualify. Now for populations of their birthplaces:
+
+- New York City: ~8,336,817
+- New Albany, Mississippi: ~13,100
+- Newport News, Virginia: ~186,000
+- Long Branch, New Jersey: ~31,000
+- Knoxville, Tennessee: ~190,000
+
+---
+
+ANSWER:
+Publication year: 1951
+Norman Mailer | Long Branch, New Jersey | 31000
+William Styron | Newport News, Virginia | 186000
+William Faulkner | New Albany, Mississippi | 13100
+Herman Wouk | New York City, New York | 8336817
+James Agee | Knoxville, Tennessee | 190000
+
+Sources:
+- [Speak, Memory – Wikipedia](https://en.wikipedia.com/wiki/Speak,_Memory)
+- [Speak, Memory – Britannica](https://britannica.com/topic/Speak-Memory)
+- [Pulitzer Prize Winners – Penguin Random House](https://global.penguinrandomhouse.com/announcements/penguin-random-house-pulitzer-prize-winners-1917-present/)

@@ -1,0 +1,40 @@
+Now I have all the information needed. Let me compile the answer.
+
+**Summary of findings:**
+
+- **"Speak, Memory"** was first published in 1951 (as *Conclusive Evidence*). The retrieved evidence confirms publication year = 1951.
+
+- The RETRIEVED EVIDENCE names five authors with books published in 1951, all marked `prize_source=Pulitzer`. I need to verify which ones actually won the Pulitzer (or Booker) Prize:
+
+1. **Norman Mailer** – Won two Pulitzer Prizes (*The Armies of the Night*, 1969; *The Executioner's Song*, 1980). Published *Barbary Shore* in 1951. ✓ Birthplace: Long Branch, New Jersey (~32,745)
+
+2. **William Styron** – Won the Pulitzer Prize for Fiction 1968 (*The Confessions of Nat Turner*). Published *Lie Down in Darkness* in 1951. ✓ Birthplace: Newport News, Virginia (~186,247)
+
+3. **William Faulkner** – Won two Pulitzer Prizes (*A Fable*, 1955; *The Reivers*, 1963). Published *Requiem for a Nun* in 1951. ✓ Birthplace: New Albany, Mississippi (~7,706)
+
+4. **Herman Wouk** – Won the Pulitzer Prize for Fiction 1952 (*The Caine Mutiny*, published 1951). ✓ Birthplace: The Bronx, New York (~1,356,476)
+
+5. **James Agee** – Won the Pulitzer Prize posthumously 1958 (*A Death in the Family*). Published *The Morning Watch* in 1951. ✓ Birthplace: Knoxville, Tennessee (~198,162)
+
+---
+
+ANSWER:
+Publication year: 1951
+Norman Mailer | Long Branch, New Jersey | 32745
+William Styron | Newport News, Virginia | 186247
+William Faulkner | New Albany, Mississippi | 7706
+Herman Wouk | The Bronx, New York | 1356476
+James Agee | Knoxville, Tennessee | 198162
+
+Sources:
+- [Speak, Memory – Wikipedia](https://en.wikipedia.com/wiki/Speak,_Memory)
+- [Norman Mailer – Wikipedia](https://en.wikipedia.com/wiki/Norman_Mailer)
+- [William Styron – Wikipedia](https://en.wikipedia.org/wiki/William_Styron)
+- [William Faulkner – Wikipedia](https://en.wikipedia.com/wiki/William_Faulkner)
+- [Herman Wouk – Wikipedia](https://en.wikipedia.org/wiki/Herman_Wouk)
+- [James Agee – Britannica](https://www.britannica.com/biography/James-Agee)
+- [Long Branch, NJ – Census QuickFacts](https://census.gov/quickfacts/fact/table/longbranchcitynewjersey/PST045223)
+- [Newport News, VA – Census QuickFacts](https://census.gov/quickfacts/fact/table/newportnewscityvirginia,chestercdpvirginia/POP010220)
+- [New Albany, MS – Census QuickFacts](https://census.gov/quickfacts/fact/table/newalbanycitymississippi/PST045223)
+- [Bronx County, NY – Census QuickFacts](https://census.gov/quickfacts/fact/table/bronxcountynewyork/PST045223)
+- [Knoxville, TN – Census QuickFacts](https://census.gov/quickfacts/fact/table/knoxvillecitytennessee/PST045223)

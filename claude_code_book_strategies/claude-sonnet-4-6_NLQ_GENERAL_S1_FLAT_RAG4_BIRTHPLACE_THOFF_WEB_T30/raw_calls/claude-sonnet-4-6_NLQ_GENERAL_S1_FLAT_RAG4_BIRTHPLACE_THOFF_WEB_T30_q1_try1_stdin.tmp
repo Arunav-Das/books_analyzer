@@ -19,10 +19,10 @@ Notice that the answer contains actual author rows. Produce an answer of the sam
 
 RETRIEVED EVIDENCE (S.No=1, publication year = 1950)
 ------------------------------------------------------------
-Titles and authors published in this year:
-  - Across the River and into the Trees | Ernest Hemingway
-  - Lee and Grant at Appomattox | MacKinlay Kantor
-  - The Town (Richter novel) | Conrad Richter
+Candidate authors with prize provenance and birthplace (population withheld):
+  - [Pulitzer] No qualifying author found in ground-truth evidence.
+  - [Booker] No qualifying author found in ground-truth evidence.
+  NOTE: population is not provided at this tier; resolve it yourself if needed.
 ------------------------------------------------------------
 Use the evidence above only where it is directly relevant to THIS book's S.No and year. Do not use distractor or mismatched-year rows as qualifying. Where evidence is silent or marked unknown/NO RESULT, rely on your own recall rather than inventing a fact.
 

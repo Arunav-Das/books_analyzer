@@ -1,0 +1,24 @@
+config,rag_tier,cell,calls,errors,q1_no_result_correct,cost_recorded_usd,latency_mean_s,tool_calls_mean,turns_mean,pred_authors_q1,pred_authors_q2,q2_recall,q2_precision,cost_all_attempts_usd,tier_label
+Low effort · no tools,full_with_birthplace,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG4_BIRTHPLACE_EFFLOW,2,0,True,0.022746,4.039,0.0,1.0,0.0,3.0,1.0,1.0,0.022746,RAG4 +birthplace
+Low effort · no tools,full_with_distractors,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG6_DISTRACTORS_EFFLOW,2,0,True,0.024984,3.639,0.0,1.0,0.0,3.0,1.0,1.0,0.024984,RAG6 +distractors
+Low effort · no tools,full_with_population,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG5_POPULATION_EFFLOW,2,0,True,0.022518,4.7010000000000005,0.0,1.0,0.0,3.0,1.0,1.0,0.022518,RAG5 +population
+Low effort · no tools,no_evidence,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_EFFLOW,2,0,False,0.05892599999999999,20.33,0.0,1.0,5.0,4.0,0.6666666666666666,0.5,0.05892599999999999,RAG0 none
+Low effort · no tools,titles_authors,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG2_AUTHORS_EFFLOW,2,0,False,0.032013,8.0435,0.0,1.0,3.0,5.0,0.3333333333333333,0.2,0.032013,RAG2 +authors
+Low effort · no tools,titles_authors_prize,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG3_PRIZE_EFFLOW,2,0,False,0.03144,8.4925,0.0,1.0,3.0,5.0,0.3333333333333333,0.2,0.03144,RAG3 +prize
+Low effort · no tools,year_list_only,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG1_TITLES_EFFLOW,2,0,False,0.036291000000000004,10.3005,0.0,1.0,3.0,5.0,0.3333333333333333,0.2,0.036291000000000004,RAG1 titles
+Thinking off · no tools,full_with_birthplace,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG4_BIRTHPLACE_THOFF,2,0,False,0.037989,12.237,0.0,1.0,3.0,3.0,1.0,1.0,0.037989,RAG4 +birthplace
+Thinking off · no tools,full_with_distractors,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG6_DISTRACTORS_THOFF,2,0,True,0.036321,10.1615,0.0,1.0,0.0,3.0,1.0,1.0,0.036321,RAG6 +distractors
+Thinking off · no tools,full_with_population,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG5_POPULATION_THOFF,2,0,True,0.036345,12.308,0.0,1.0,0.0,3.0,1.0,1.0,0.036345,RAG5 +population
+Thinking off · no tools,no_evidence,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_THOFF,2,0,False,0.048138,16.3475,0.0,1.0,6.0,3.0,0.3333333333333333,0.3333333333333333,0.048138,RAG0 none
+Thinking off · no tools,titles_authors,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG2_AUTHORS_THOFF,2,0,False,0.036015,9.6415,0.0,1.0,3.0,5.0,0.3333333333333333,0.2,0.036015,RAG2 +authors
+Thinking off · no tools,titles_authors_prize,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG3_PRIZE_THOFF,2,0,False,0.03744600000000001,10.9205,0.0,1.0,3.0,5.0,0.3333333333333333,0.2,0.03744600000000001,RAG3 +prize
+Thinking off · no tools,year_list_only,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG1_TITLES_THOFF,2,0,False,0.037749000000000005,12.456499999999998,0.0,1.0,4.0,4.0,0.3333333333333333,0.25,0.037749000000000005,RAG1 titles
+"Thinking off · web, 10 turns",full_with_birthplace,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG4_BIRTHPLACE_THOFF_WEB,2,0,False,0.46523139999999996,42.0925,10.0,11.0,1.0,3.0,1.0,1.0,0.46523139999999996,RAG4 +birthplace
+"Thinking off · web, 10 turns",no_evidence,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_THOFF_WEB,2,1,False,0.5339005,46.466,23.0,24.0,7.0,,,,2.8884475000000003,RAG0 none
+"Thinking off · web, 10 turns",titles_authors,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG2_AUTHORS_THOFF_WEB,2,0,False,0.4939618,40.218,11.0,12.0,4.0,5.0,0.3333333333333333,0.2,0.4939618,RAG2 +authors
+"Thinking off · web, 10 turns",titles_authors_prize,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG3_PRIZE_THOFF_WEB,2,0,False,0.5326059999999999,45.183,11.5,12.5,3.0,5.0,0.3333333333333333,0.2,0.5326059999999999,RAG3 +prize
+"Thinking off · web, 10 turns",year_list_only,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG1_TITLES_THOFF_WEB,2,0,False,0.42592,49.1255,9.0,10.0,1.0,2.0,0.3333333333333333,0.5,0.42592,RAG1 titles
+"Thinking off · web, 30 turns",no_evidence,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_THOFF_WEB_T30,2,0,False,1.7438964000000001,167.642,36.5,37.5,8.0,3.0,0.3333333333333333,0.3333333333333333,1.7438964000000001,RAG0 none
+"Thinking off · web, 30 turns",titles_authors,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG2_AUTHORS_THOFF_WEB_T30,2,0,False,0.35768690000000003,41.516999999999996,7.0,8.0,4.0,5.0,0.3333333333333333,0.2,0.35768690000000003,RAG2 +authors
+"Thinking off · web, 30 turns",titles_authors_prize,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG3_PRIZE_THOFF_WEB_T30,2,0,False,0.6511829,65.4275,14.0,15.0,4.0,5.0,0.3333333333333333,0.2,0.6511829,RAG3 +prize
+"Thinking off · web, 30 turns",year_list_only,claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG1_TITLES_THOFF_WEB_T30,2,0,False,0.5771579,64.4045,11.5,12.5,2.0,4.0,0.3333333333333333,0.25,0.5771579,RAG1 titles

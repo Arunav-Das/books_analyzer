@@ -1,0 +1,34 @@
+Now I have enough information to compile my answer. Let me also note the retrieved evidence from the task includes three authors connected to the Pulitzer Prize in 1950: Ernest Hemingway, MacKinlay Kantor, and Conrad Richter. The retrieved evidence lists their books as "prize_source=Pulitzer."
+
+Let me synthesize all the findings:
+
+**"Dianetics: The Modern Science of Mental Health"** was published in **1950** by L. Ron Hubbard.
+
+From the retrieved evidence, three authors are listed for 1950 with Pulitzer Prize connection:
+1. **Ernest Hemingway** — *Across the River and into the Trees* (published 1950). Hemingway won the Pulitzer in 1953 for *The Old Man and the Sea*. Born in Oak Park, Illinois.
+2. **MacKinlay Kantor** — *Lee and Grant at Appomattox* (published 1950). Kantor won the Pulitzer in 1956 for *Andersonville*. Born in Webster City, Iowa.
+3. **Conrad Richter** — *The Town* (published 1950, won the Pulitzer Prize for Fiction). Born in Pine Grove, Pennsylvania.
+
+Additionally from broader research:
+- **P.H. Newby** — won the inaugural Booker Prize (1969); *The Young May Moon* published 1950. Born in Crowborough, Sussex.
+- **Gwendolyn Brooks** — won the 1950 Pulitzer Prize for Poetry for *Annie Allen* (published 1949). No new book published in 1950.
+- **A.B. Guthrie Jr.** — won the 1950 Pulitzer Prize for Fiction for *The Way West* (published 1949), no separate 1950 book confirmed.
+
+The grounding requirement directs me to include all authors named in the retrieved evidence block. The task also asks for Booker/Pulitzer prize winners who published a book in the same year (1950).
+
+ANSWER:
+Publication year: 1950
+Ernest Hemingway | Oak Park, Illinois | 54583
+MacKinlay Kantor | Webster City, Iowa | 7825
+Conrad Richter | Pine Grove, Pennsylvania | 2054
+P. H. Newby | Crowborough, Sussex, England | 21688
+
+Sources:
+- [Ernest Hemingway – Wikipedia](https://en.wikipedia.org/wiki/Ernest_Hemingway)
+- [MacKinlay Kantor – Wikipedia](https://en.wikipedia.org/wiki/MacKinlay_Kantor)
+- [Conrad Richter – Wikipedia](https://en.wikipedia.org/wiki/Conrad_Richter)
+- [P. H. Newby – Wikipedia](https://en.wikipedia.org/wiki/P._H._Newby)
+- [Webster City, Iowa – Wikipedia](https://en.wikipedia.org/wiki/Webster_City,_Iowa)
+- [Pine Grove, Schuylkill County, Pennsylvania – Wikipedia](https://wikipedia.com/wiki/Pine_Grove,_Schuylkill_County,_Pennsylvania)
+- [Oak Park, Illinois – Wikipedia](https://en.wikipedia.com/wiki/Oak_Park,_IL)
+- [Crowborough – Wikipedia](https://en.wikipedia.org/wiki/Crowborough)
