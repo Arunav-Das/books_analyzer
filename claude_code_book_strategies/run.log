@@ -423,3 +423,14 @@
 2026-11-05 07:26:51,868 - INFO - Loaded 500 rows from source.
 2026-11-05 07:26:51,869 - INFO - Processing 2/500 queries (0 already done)  strategy=flat_conjunctive  rag_tier=full_with_population  model=claude-sonnet-4-6  backend=claude_code
 2026-11-05 07:26:51,869 - INFO - [1/500] Q_ID=1 'Dianetics: The Modern Science of Mental Health' year=1950
+2026-11-05 07:27:44,438 - INFO - === run started: book_analyzer_inf.py --model claude-sonnet-4-6 --strategy flat_conjunctive --rag_tier no_evidence --thinking off --tools_mode web --max_turns 30 --max_queries 2 --max_new_tokens 3000 --timeout 600 --no-resume --no_analysis (script version 2026-11-05.1-books-claude-code) ===
+2026-11-05 07:27:44,515 - INFO - GroundTruthStore loaded 3078 rows from 'df_books_modified.csv' spanning 500 distinct S.No entries (1938 fully-populated, 201 marked NO RESULT).
+2026-11-05 07:27:44,516 - INFO - FewShotExemplarStore: 486 usable S.No entries; primary exemplar S.No=133 ('Flights (novel)', 13 rows).
+2026-11-05 07:27:44,517 - INFO - ClaudeCodeClient ready  alias=claude-sonnet-4-6  model=claude-sonnet-4-6  bin=/opt/node22/bin/claude  max_output_tokens=3000  max_thinking_tokens=0  thinking=off  tools_mode=web  max_turns=30  system_mode=neutral
+2026-11-05 07:27:44,517 - INFO - Validating Claude Code access  alias=claude-sonnet-4-6  model=claude-sonnet-4-6 ...
+2026-11-05 07:27:47,734 - INFO - Validation OK - response: 'OK'
+2026-11-05 07:27:47,734 - INFO - No existing results file found. Starting fresh.
+2026-11-05 07:27:47,734 - INFO - Loading source: source_books_writers.csv
+2026-11-05 07:27:47,740 - INFO - Loaded 500 rows from source.
+2026-11-05 07:27:47,741 - INFO - Processing 2/500 queries (0 already done)  strategy=flat_conjunctive  rag_tier=no_evidence  model=claude-sonnet-4-6  backend=claude_code
+2026-11-05 07:27:47,741 - INFO - [1/500] Q_ID=1 'Dianetics: The Modern Science of Mental Health' year=1950
