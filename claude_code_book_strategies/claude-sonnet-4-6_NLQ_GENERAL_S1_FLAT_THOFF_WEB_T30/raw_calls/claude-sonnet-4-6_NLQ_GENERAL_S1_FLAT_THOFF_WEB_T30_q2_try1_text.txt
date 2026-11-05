@@ -1,0 +1,87 @@
+Now I have all the information needed. Let me compile the complete answer.
+
+---
+
+## Research Summary
+
+**YEAR:** "Speak, Memory" by Vladimir Nabokov was first published in 1951 (as "Conclusive Evidence: A Memoir" in the US and "Speak, Memory" in the UK, both in 1951). **Confident.**
+
+---
+
+**PRIZE WINNERS** (authors who have ever won the Booker or Pulitzer Prize):
+
+William Faulkner
+Ernest Hemingway
+Herman Wouk
+Conrad Richter
+Carl Sandburg
+Marianne Moore
+Samuel Beckett
+J.D. Salinger
+James Jones
+Margaret Atwood
+Toni Morrison
+Alice Munro
+
+---
+
+**CO-YEAR CHECK** (did each publish any book in 1951?):
+
+William Faulkner - yes *(Requiem for a Nun, 1951)*
+Ernest Hemingway - no *(The Old Man and the Sea was written 1951 but published 1952)*
+Herman Wouk - yes *(The Caine Mutiny published 1951)*
+Conrad Richter - no *(The Town was published in 1950; his Pulitzer was awarded in 1951 for that 1950 book)*
+Carl Sandburg - no *(Complete Poems published 1950; Pulitzer awarded 1951 for it)*
+Marianne Moore - yes *(Collected Poems published 1951)*
+Samuel Beckett - yes *(Molloy published 1951)*
+J.D. Salinger - yes *(The Catcher in the Rye published 1951)*
+James Jones - yes *(From Here to Eternity published February 1951)*
+Margaret Atwood - no *(born 1939; no published book in 1951)*
+Toni Morrison - no *(born 1931; no published book in 1951)*
+Alice Munro - no *(born 1931; no published book in 1951)*
+
+---
+
+**REFUSAL GATE:** Multiple candidates are marked `yes`, so they must all appear in the ANSWER.
+
+**Note on prizes:**
+- William Faulkner: Pulitzer Prize for Fiction (1955 for *A Fable*; 1963 for *The Reivers*); Nobel Prize in Literature (1949)
+- Herman Wouk: Pulitzer Prize for Fiction (1952 for *The Caine Mutiny*)
+- Marianne Moore: Pulitzer Prize for Poetry (1952 for *Collected Poems*)
+- Carl Sandburg: Pulitzer Prize for Poetry (multiple times); note his book was 1950 so marked no
+- Samuel Beckett: Nobel Prize in Literature (1969) — Nobel counts as a major international prize but NOT Booker or Pulitzer specifically
+- J.D. Salinger: Did NOT win Pulitzer or Booker Prize — excluded
+- James Jones: Did NOT win Pulitzer or Booker Prize (won National Book Award) — excluded
+
+Refining: Only Booker Prize or Pulitzer Prize winners qualify. Samuel Beckett won the Nobel but NOT the Booker or Pulitzer — excluded. J.D. Salinger and James Jones won neither Booker nor Pulitzer — excluded.
+
+Final qualifying authors with 1951 publications:
+- **William Faulkner** – Pulitzer Prize winner, published *Requiem for a Nun* in 1951
+- **Herman Wouk** – Pulitzer Prize winner, published *The Caine Mutiny* in 1951
+- **Marianne Moore** – Pulitzer Prize winner, published *Collected Poems* in 1951
+
+---
+
+ANSWER:
+Publication year: 1951
+William Faulkner | New Albany, Mississippi | 7626
+Herman Wouk | The Bronx, New York | 1472654
+Marianne Moore | Kirkwood, Missouri | 29461
+
+---
+
+Sources:
+- [Speak, Memory – Wikipedia](https://en.wikipedia.org/wiki/Speak,_Memory)
+- [1951 in literature – Wikipedia](https://en.wikipedia.org/wiki/1951_in_literature)
+- [Pulitzer Prize for Fiction – Wikipedia](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction)
+- [William Faulkner – Britannica](https://www.britannica.com/biography/William-faulkner)
+- [New Albany, Mississippi – Wikipedia](https://en.wikipedia.org/wiki/New_Albany,_Mississippi)
+- [Herman Wouk – Wikipedia](https://en.wikipedia.org/wiki/Herman_Wouk)
+- [The Caine Mutiny – Wikipedia/SparkNotes](https://www.sparknotes.com/lit/cainemutiny/context)
+- [Demographics of the Bronx – Wikipedia](https://en.wikipedia.org/wiki/Demographics_of_the_Bronx)
+- [Marianne Moore – Wikipedia](https://en.wikipedia.org/wiki/Marianne_Moore)
+- [Kirkwood, Missouri – Wikipedia](https://en.wikipedia.org/wiki/Kirkwood,_Missouri)
+- [Conrad Richter – Wikipedia](https://en.wikipedia.org/wiki/Conrad_Richter)
+- [Ernest Hemingway – Wikipedia](https://en.wikipedia.org/wiki/Ernest_Hemingway)
+- [Samuel Beckett – Britannica](https://britannica.com/biography/Samuel-Beckett)
+- [The Old Man and the Sea – Wikipedia](https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea)

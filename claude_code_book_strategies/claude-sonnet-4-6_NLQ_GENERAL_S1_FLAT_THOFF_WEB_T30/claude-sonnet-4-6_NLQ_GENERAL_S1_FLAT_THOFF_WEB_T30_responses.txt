@@ -1,0 +1,156 @@
+===== Query_ID 1 | Dianetics: The Modern Science of Mental Health =====
+Now I have all the data I need. Let me compile the working and answer.
+
+---
+
+## YEAR:
+**1950** — confident. *Dianetics: The Modern Science of Mental Health* by L. Ron Hubbard was first published on May 9, 1950, by Hermitage House.
+
+---
+
+## PRIZE WINNERS (career-wide Booker or Pulitzer winners):
+
+1. Ernest Hemingway (Pulitzer 1953)
+2. William Faulkner (Pulitzer 1955, 1963)
+3. John Steinbeck (Pulitzer 1940)
+4. Conrad Richter (Pulitzer 1951)
+5. Robert Penn Warren (Pulitzer 1947, 1958, 1979)
+6. A. B. Guthrie Jr. (Pulitzer 1950)
+7. P. H. Newby (Booker Prize 1969)
+8. James A. Michener (Pulitzer 1948)
+9. Gwendolyn Brooks (Pulitzer 1950 — Poetry)
+10. Herman Wouk (Pulitzer 1952)
+
+---
+
+## CO-YEAR CHECK (did each publish any book in 1950?):
+
+- Ernest Hemingway - **yes** (*Across the River and Into the Trees*, 1950)
+- William Faulkner - **yes** (*Collected Stories of William Faulkner*, 1950)
+- John Steinbeck - **yes** (*Burning Bright*, 1950)
+- Conrad Richter - **yes** (*The Town*, 1950)
+- Robert Penn Warren - **yes** (*World Enough and Time*, 1950)
+- A. B. Guthrie Jr. - **yes** (*The Big Sky: An Edition for Young Readers*, 1950)
+- P. H. Newby - **yes** (*The Young May Moon*, 1950)
+- James A. Michener - **unsure** (*Return to Paradise* variously dated 1950 or 1951)
+- Gwendolyn Brooks - **no** (*Annie Allen* was published 1949; no confirmed 1950 book found)
+- Herman Wouk - **no** (*The Caine Mutiny* was 1951; no confirmed 1950 book found)
+
+---
+
+ANSWER:
+Publication year: 1950
+Ernest Hemingway | Oak Park, Illinois | 53,292
+William Faulkner | New Albany, Mississippi | 7,706
+John Steinbeck | Salinas, California | 160,783
+Conrad Richter | Pine Grove, Pennsylvania | 2,054
+Robert Penn Warren | Guthrie, Kentucky | 1,330
+A. B. Guthrie Jr. | Bedford, Indiana | 13,853
+P. H. Newby | Crowborough, East Sussex, England | 21,688
+James A. Michener | unknown | unknown
+
+---
+
+Sources:
+- [Dianetics: The Modern Science of Mental Health – Wikipedia](https://en.wikipedia.org/wiki/Dianetics:_The_Modern_Science_of_Mental_Health)
+- [Pulitzer Prize for Fiction – Wikipedia](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction)
+- [List of winners and nominated authors of the Booker Prize – Wikipedia](https://en.wikipedia.org/wiki/List_of_winners_and_nominated_authors_of_the_Booker_Prize)
+- [Ernest Hemingway Birthplace and Museum – Atlas Obscura](https://www.atlasobscura.com/places/ernest-hemingway-birthplace-and-museum)
+- [Collected Stories of William Faulkner – Wikipedia](https://en.wikipedia.org/wiki/Collected_Stories_of_William_Faulkner)
+- [John Steinbeck bibliography – Wikipedia](https://en.wikipedia.org/wiki/John_Steinbeck_bibliography)
+- [Conrad Richter – Wikipedia](https://en.wikipedia.org/wiki/Conrad_Richter)
+- [Robert Penn Warren birthplace – Poets.org](https://poets.org/listing/robert-penn-warren-birthplace-museum)
+- [A. B. Guthrie Jr. – Wikipedia](https://en.wikipedia.org/wiki/A._B._Guthrie_Jr.)
+- [P. H. Newby – Wikipedia](https://en.wikipedia.org/wiki/P._H._Newby)
+- [James A. Michener – Wikipedia](https://en.wikipedia.org/wiki/James_A._Michener)
+- [Gwendolyn Brooks – Wikipedia](https://en.wikipedia.org/wiki/Gwendolyn_Brooks)
+- [The Booker Prize 1969 – thebookerprizes.com](https://thebookerprizes.com/the-booker-library/prize-years/1969)
+
+===== Query_ID 2 | Speak, Memory =====
+Now I have all the information needed. Let me compile the complete answer.
+
+---
+
+## Research Summary
+
+**YEAR:** "Speak, Memory" by Vladimir Nabokov was first published in 1951 (as "Conclusive Evidence: A Memoir" in the US and "Speak, Memory" in the UK, both in 1951). **Confident.**
+
+---
+
+**PRIZE WINNERS** (authors who have ever won the Booker or Pulitzer Prize):
+
+William Faulkner
+Ernest Hemingway
+Herman Wouk
+Conrad Richter
+Carl Sandburg
+Marianne Moore
+Samuel Beckett
+J.D. Salinger
+James Jones
+Margaret Atwood
+Toni Morrison
+Alice Munro
+
+---
+
+**CO-YEAR CHECK** (did each publish any book in 1951?):
+
+William Faulkner - yes *(Requiem for a Nun, 1951)*
+Ernest Hemingway - no *(The Old Man and the Sea was written 1951 but published 1952)*
+Herman Wouk - yes *(The Caine Mutiny published 1951)*
+Conrad Richter - no *(The Town was published in 1950; his Pulitzer was awarded in 1951 for that 1950 book)*
+Carl Sandburg - no *(Complete Poems published 1950; Pulitzer awarded 1951 for it)*
+Marianne Moore - yes *(Collected Poems published 1951)*
+Samuel Beckett - yes *(Molloy published 1951)*
+J.D. Salinger - yes *(The Catcher in the Rye published 1951)*
+James Jones - yes *(From Here to Eternity published February 1951)*
+Margaret Atwood - no *(born 1939; no published book in 1951)*
+Toni Morrison - no *(born 1931; no published book in 1951)*
+Alice Munro - no *(born 1931; no published book in 1951)*
+
+---
+
+**REFUSAL GATE:** Multiple candidates are marked `yes`, so they must all appear in the ANSWER.
+
+**Note on prizes:**
+- William Faulkner: Pulitzer Prize for Fiction (1955 for *A Fable*; 1963 for *The Reivers*); Nobel Prize in Literature (1949)
+- Herman Wouk: Pulitzer Prize for Fiction (1952 for *The Caine Mutiny*)
+- Marianne Moore: Pulitzer Prize for Poetry (1952 for *Collected Poems*)
+- Carl Sandburg: Pulitzer Prize for Poetry (multiple times); note his book was 1950 so marked no
+- Samuel Beckett: Nobel Prize in Literature (1969) — Nobel counts as a major international prize but NOT Booker or Pulitzer specifically
+- J.D. Salinger: Did NOT win Pulitzer or Booker Prize — excluded
+- James Jones: Did NOT win Pulitzer or Booker Prize (won National Book Award) — excluded
+
+Refining: Only Booker Prize or Pulitzer Prize winners qualify. Samuel Beckett won the Nobel but NOT the Booker or Pulitzer — excluded. J.D. Salinger and James Jones won neither Booker nor Pulitzer — excluded.
+
+Final qualifying authors with 1951 publications:
+- **William Faulkner** – Pulitzer Prize winner, published *Requiem for a Nun* in 1951
+- **Herman Wouk** – Pulitzer Prize winner, published *The Caine Mutiny* in 1951
+- **Marianne Moore** – Pulitzer Prize winner, published *Collected Poems* in 1951
+
+---
+
+ANSWER:
+Publication year: 1951
+William Faulkner | New Albany, Mississippi | 7626
+Herman Wouk | The Bronx, New York | 1472654
+Marianne Moore | Kirkwood, Missouri | 29461
+
+---
+
+Sources:
+- [Speak, Memory – Wikipedia](https://en.wikipedia.org/wiki/Speak,_Memory)
+- [1951 in literature – Wikipedia](https://en.wikipedia.org/wiki/1951_in_literature)
+- [Pulitzer Prize for Fiction – Wikipedia](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction)
+- [William Faulkner – Britannica](https://www.britannica.com/biography/William-faulkner)
+- [New Albany, Mississippi – Wikipedia](https://en.wikipedia.org/wiki/New_Albany,_Mississippi)
+- [Herman Wouk – Wikipedia](https://en.wikipedia.org/wiki/Herman_Wouk)
+- [The Caine Mutiny – Wikipedia/SparkNotes](https://www.sparknotes.com/lit/cainemutiny/context)
+- [Demographics of the Bronx – Wikipedia](https://en.wikipedia.org/wiki/Demographics_of_the_Bronx)
+- [Marianne Moore – Wikipedia](https://en.wikipedia.org/wiki/Marianne_Moore)
+- [Kirkwood, Missouri – Wikipedia](https://en.wikipedia.org/wiki/Kirkwood,_Missouri)
+- [Conrad Richter – Wikipedia](https://en.wikipedia.org/wiki/Conrad_Richter)
+- [Ernest Hemingway – Wikipedia](https://en.wikipedia.org/wiki/Ernest_Hemingway)
+- [Samuel Beckett – Britannica](https://britannica.com/biography/Samuel-Beckett)
+- [The Old Man and the Sea – Wikipedia](https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea)
