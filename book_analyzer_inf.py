@@ -353,6 +353,7 @@ def gt_pop_to_str(raw: Any) -> str:
 
 ST_OK, ST_TRUNC_LENGTH = "ok", "truncated_length"
 ST_TRUNC_REASONING, ST_EMPTY = "truncated_in_reasoning", "empty"
+ST_MAX_TURNS = "max_turns_reached"          # tool loop hit --max-turns: deterministic, stored, NOT retried
 
 
 # ---------------------------------------------------------------------------
@@ -1455,6 +1456,10 @@ class ClaudeCodeClient:
                 logger.warning(f"  [{self.call_label}] hit the {mt}-token output cap after {r['latency']:.0f}s "
                                f"(text={len(text)} chars, thinking={r['thinking_chars']} chars). Not retried. Raw: {r['files'][1]}")
                 return dict(base, status=ST_TRUNC_LENGTH, finish_reason="output_token_cap")
+            if evt.get("subtype") == "error_max_turns":     # deterministic for the config: do NOT retry; keep partial text
+                logger.warning(f"  [{self.call_label}] reached --max-turns {self.max_turns} after {r['latency']:.0f}s "
+                               f"(tool calls={len(r['tool_uses'])}, partial text={len(text)} chars). Not retried. Raw: {r['files'][1]}")
+                return dict(base, status=ST_MAX_TURNS, finish_reason="error_max_turns")
             ok = r["returncode"] == 0 and bool(evt) and not evt.get("is_error") and not r["timed_out"]
             if ok:
                 finish = evt.get("stop_reason") or evt.get("subtype")
@@ -1540,7 +1545,7 @@ class BookAuthorAnalyser:
         extra = f"_{RAG_TIER_SUFFIX[rag_tier]}" if rag_tier != RAG_TIER_NO_EVIDENCE else ""
         sysdef = "_SYSDEF" if client.system_mode_requested == "default" else ""
         sysdef += {"default": "", "off": "_THOFF"}.get(client.thinking, f"_EFF{client.thinking.upper()}")
-        sysdef += "_WEB" if client.tools_mode == "web" else ""
+        sysdef += f"_WEB_T{client.max_turns}" if client.tools_mode == "web" and client.max_turns != 10 else ("_WEB" if client.tools_mode == "web" else "")
         flags = ("_NOSCAF" if not recall_scaffold else "") + ("_NOFEW" if fewshot_store is None else "")
         self.suffix = f"{MODE_SUFFIX[self.mode]}_{STRATEGY_SUFFIX[strategy]}{extra}{flags}{sysdef}"
         self.output_dir = OUTPUT_ROOT / f"{self.model_slug}_{self.suffix}"
@@ -1693,7 +1698,7 @@ class BookAuthorAnalyser:
                 record.update(LATENT_NONE)
                 results.append(record)
                 new_count += 1
-                bad = res["status"] in (ST_TRUNC_LENGTH, ST_TRUNC_REASONING)
+                bad = res["status"] in (ST_TRUNC_LENGTH, ST_TRUNC_REASONING, ST_MAX_TURNS)
                 pd_ = fields["parse_diagnostics"]
                 real = [r for r in fields["Parsed_Rows"] if not is_sentinel_author(r["Author"])]
                 logger.info(f"  OK {res['latency_sec']:.2f}s  status={res['status']}  [{pd_.get('outcome')}/rows={pd_.get('pipe_lines_seen', 0)}]  "

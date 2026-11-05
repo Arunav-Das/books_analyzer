@@ -1,1 +1,29 @@
-I'll research this query about "Dianetics: The Modern Science of Mental Health" and find Booker/Pulitzer Prize winners who published books in the same year.
+Now I have all the information needed. Let me compile the findings.
+
+**Summary of research:**
+
+- **"Dianetics: The Modern Science of Mental Health"** was published in **1950**.
+- The **Booker Prize** did not exist until 1969, so no Booker Prize winners published books in 1950 as prize winners.
+- **1950 Pulitzer Prize** winners and their books:
+  - **A.B. Guthrie Jr.** — Won Pulitzer Fiction 1950 for *The Way West* (published 1949, not 1950). No confirmed 1950 book.
+  - **Gwendolyn Brooks** — Won Pulitzer Poetry 1950 for *Annie Allen* (published **1949**, not 1950). No confirmed 1950 publication.
+  - **Samuel Flagg Bemis** — Won Pulitzer Biography 1950 for *John Quincy Adams and the Foundations of American Foreign Policy* (published **1949**, not 1950). No confirmed 1950 publication.
+  - **P.H. Newby** — Won the first Booker Prize (1969), and published *The Young May Moon* in **1950**. ✅
+
+P.H. Newby is the only confirmed match: a future Booker Prize winner (1969) who published a book (*The Young May Moon*) in 1950, the same year as *Dianetics*.
+
+---
+
+ANSWER:
+Publication year: 1950
+P. H. Newby | Crowborough, Sussex, England | 21688
+
+Sources:
+- [Dianetics: The Modern Science of Mental Health – Wikipedia](https://en.wikipedia.org/wiki/Dianetics:_The_Modern_Science_of_Mental_Health)
+- [1950 Pulitzer Prize – IPFS mirror](https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/1950_Pulitzer_Prize.html)
+- [P. H. Newby – Wikipedia](https://en.wikipedia.org/wiki/P._H._Newby)
+- [Annie Allen – Wikipedia](https://en.wikipedia.org/wiki/Annie_Allen)
+- [Samuel Flagg Bemis – Wikipedia](https://en.wikipedia.org/wiki/Samuel_Flagg_Bemis)
+- [A. B. Guthrie Jr. – Wikipedia](https://en.wikipedia.org/wiki/A._B._Guthrie_Jr.)
+- [Gwendolyn Brooks – Wikipedia](https://en.wikipedia.org/wiki/Gwendolyn_Brooks)
+- [Crowborough – Wikipedia](https://en.wikipedia.org/wiki/Crowborough)
