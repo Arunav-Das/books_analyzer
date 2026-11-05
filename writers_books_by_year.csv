@@ -1,0 +1,879 @@
+Year,Prize,Title,Author,TitleURI,AuthorURI
+1926,Pulitzer,Soldiers' Pay,William Faulkner,http://dbpedia.org/resource/Soldiers'_Pay,http://dbpedia.org/resource/William_Faulkner
+1927,Pulitzer,Flags in the Dust,William Faulkner,http://dbpedia.org/resource/Flags_in_the_Dust,http://dbpedia.org/resource/William_Faulkner
+1927,Pulitzer,Mosquitoes (novel),William Faulkner,http://dbpedia.org/resource/Mosquitoes_(novel),http://dbpedia.org/resource/William_Faulkner
+1929,Pulitzer,Sartoris,William Faulkner,http://dbpedia.org/resource/Sartoris,http://dbpedia.org/resource/William_Faulkner
+1929,Pulitzer,The Sound and the Fury,William Faulkner,http://dbpedia.org/resource/The_Sound_and_the_Fury,http://dbpedia.org/resource/William_Faulkner
+1930,Pulitzer,As I Lay Dying,William Faulkner,http://dbpedia.org/resource/As_I_Lay_Dying,http://dbpedia.org/resource/William_Faulkner
+1931,Pulitzer,Sanctuary (Faulkner novel),William Faulkner,http://dbpedia.org/resource/Sanctuary_(Faulkner_novel),http://dbpedia.org/resource/William_Faulkner
+1932,Pulitzer,Light in August,William Faulkner,http://dbpedia.org/resource/Light_in_August,http://dbpedia.org/resource/William_Faulkner
+1936,Pulitzer,"Absalom, Absalom!",William Faulkner,"http://dbpedia.org/resource/Absalom,_Absalom!",http://dbpedia.org/resource/William_Faulkner
+1937,Pulitzer,To Have and Have Not,Ernest Hemingway,http://dbpedia.org/resource/To_Have_and_Have_Not,http://dbpedia.org/resource/Ernest_Hemingway
+1938,Pulitzer,The Unvanquished,William Faulkner,http://dbpedia.org/resource/The_Unvanquished,http://dbpedia.org/resource/William_Faulkner
+1940,Pulitzer,For Whom the Bell Tolls,Ernest Hemingway,http://dbpedia.org/resource/For_Whom_the_Bell_Tolls,http://dbpedia.org/resource/Ernest_Hemingway
+1940,Pulitzer,The Hamlet,William Faulkner,http://dbpedia.org/resource/The_Hamlet,http://dbpedia.org/resource/William_Faulkner
+1940,Pulitzer,The Trees (Richter novel),Conrad Richter,http://dbpedia.org/resource/The_Trees_(Richter_novel),http://dbpedia.org/resource/Conrad_Richter
+1942,Pulitzer,The Just and the Unjust,James Gould Cozzens,http://dbpedia.org/resource/The_Just_and_the_Unjust,http://dbpedia.org/resource/James_Gould_Cozzens
+1942,Pulitzer,The Robber Bridegroom (novella),Eudora Welty,http://dbpedia.org/resource/The_Robber_Bridegroom_(novella),http://dbpedia.org/resource/Eudora_Welty
+1944,Pulitzer,Boston Adventure,Jean Stafford,http://dbpedia.org/resource/Boston_Adventure,http://dbpedia.org/resource/Jean_Stafford
+1944,Pulitzer,Dangling Man,Saul Bellow,http://dbpedia.org/resource/Dangling_Man,http://dbpedia.org/resource/Saul_Bellow
+1946,Pulitzer,The Fields (novel),Conrad Richter,http://dbpedia.org/resource/The_Fields_(novel),http://dbpedia.org/resource/Conrad_Richter
+1947,Pulitzer,South Pacific (novel),James A. Michener,http://dbpedia.org/resource/South_Pacific_(novel),http://dbpedia.org/resource/James_A._Michener
+1947,Pulitzer,The Big Sky (novel),A. B. Guthrie Jr.,http://dbpedia.org/resource/The_Big_Sky_(novel),http://dbpedia.org/resource/A._B._Guthrie_Jr.
+1947,Pulitzer,The Mountain Lion,Jean Stafford,http://dbpedia.org/resource/The_Mountain_Lion,http://dbpedia.org/resource/Jean_Stafford
+1947,Pulitzer,The Victim (novel),Saul Bellow,http://dbpedia.org/resource/The_Victim_(novel),http://dbpedia.org/resource/Saul_Bellow
+1948,Pulitzer,City Boy: The Adventures of Herbie Bookbinder,Herman Wouk,http://dbpedia.org/resource/City_Boy:_The_Adventures_of_Herbie_Bookbinder,http://dbpedia.org/resource/Herman_Wouk
+1948,Pulitzer,Guard of Honor,James Gould Cozzens,http://dbpedia.org/resource/Guard_of_Honor,http://dbpedia.org/resource/James_Gould_Cozzens
+1948,Pulitzer,Intruder in the Dust,William Faulkner,http://dbpedia.org/resource/Intruder_in_the_Dust,http://dbpedia.org/resource/William_Faulkner
+1948,Pulitzer,The Naked and the Dead,Norman Mailer,http://dbpedia.org/resource/The_Naked_and_the_Dead,http://dbpedia.org/resource/Norman_Mailer
+1949,Pulitzer,The Fires of Spring,James A. Michener,http://dbpedia.org/resource/The_Fires_of_Spring,http://dbpedia.org/resource/James_A._Michener
+1949,Pulitzer,The Way West,A. B. Guthrie Jr.,http://dbpedia.org/resource/The_Way_West,http://dbpedia.org/resource/A._B._Guthrie_Jr.
+1950,Pulitzer,Across the River and into the Trees,Ernest Hemingway,http://dbpedia.org/resource/Across_the_River_and_into_the_Trees,http://dbpedia.org/resource/Ernest_Hemingway
+1950,Pulitzer,Lee and Grant at Appomattox,MacKinlay Kantor,http://dbpedia.org/resource/Lee_and_Grant_at_Appomattox,http://dbpedia.org/resource/MacKinlay_Kantor
+1950,Pulitzer,The Town (Richter novel),Conrad Richter,http://dbpedia.org/resource/The_Town_(Richter_novel),http://dbpedia.org/resource/Conrad_Richter
+1951,Pulitzer,Barbary Shore,Norman Mailer,http://dbpedia.org/resource/Barbary_Shore,http://dbpedia.org/resource/Norman_Mailer
+1951,Pulitzer,Lie Down in Darkness (novel),William Styron,http://dbpedia.org/resource/Lie_Down_in_Darkness_(novel),http://dbpedia.org/resource/William_Styron
+1951,Pulitzer,Requiem for a Nun,William Faulkner,http://dbpedia.org/resource/Requiem_for_a_Nun,http://dbpedia.org/resource/William_Faulkner
+1951,Pulitzer,The Caine Mutiny,Herman Wouk,http://dbpedia.org/resource/The_Caine_Mutiny,http://dbpedia.org/resource/Herman_Wouk
+1951,Pulitzer,The Morning Watch,James Agee,http://dbpedia.org/resource/The_Morning_Watch,http://dbpedia.org/resource/James_Agee
+1952,Pulitzer,The Long March (novel),William Styron,http://dbpedia.org/resource/The_Long_March_(novel),http://dbpedia.org/resource/William_Styron
+1952,Pulitzer,The Natural,Bernard Malamud,http://dbpedia.org/resource/The_Natural,http://dbpedia.org/resource/Bernard_Malamud
+1952,Pulitzer,The Old Man and the Sea,Ernest Hemingway,http://dbpedia.org/resource/The_Old_Man_and_the_Sea,http://dbpedia.org/resource/Ernest_Hemingway
+1953,Pulitzer,The Adventures of Augie March,Saul Bellow,http://dbpedia.org/resource/The_Adventures_of_Augie_March,http://dbpedia.org/resource/Saul_Bellow
+1953,Pulitzer,The Bridges at Toko-ri (novel),James A. Michener,http://dbpedia.org/resource/The_Bridges_at_Toko-ri_(novel),http://dbpedia.org/resource/James_A._Michener
+1953,Pulitzer,The Light in the Forest,Conrad Richter,http://dbpedia.org/resource/The_Light_in_the_Forest,http://dbpedia.org/resource/Conrad_Richter
+1953,Booker,The Lying Days,Nadine Gordimer,http://dbpedia.org/resource/The_Lying_Days,http://dbpedia.org/resource/Nadine_Gordimer
+1953,Pulitzer,The Ponder Heart,Eudora Welty,http://dbpedia.org/resource/The_Ponder_Heart,http://dbpedia.org/resource/Eudora_Welty
+1954,Pulitzer,A Fable,William Faulkner,http://dbpedia.org/resource/A_Fable,http://dbpedia.org/resource/William_Faulkner
+1954,Booker,Lord of the Flies,William Golding,http://dbpedia.org/resource/Lord_of_the_Flies,http://dbpedia.org/resource/William_Golding
+1954,Booker,Lucky Jim,Kingsley Amis,http://dbpedia.org/resource/Lucky_Jim,http://dbpedia.org/resource/Kingsley_Amis
+1954,Pulitzer,Sayonara (novel),James A. Michener,http://dbpedia.org/resource/Sayonara_(novel),http://dbpedia.org/resource/James_A._Michener
+1954,Booker,Under the Net,Iris Murdoch,http://dbpedia.org/resource/Under_the_Net,http://dbpedia.org/resource/Iris_Murdoch
+1955,Pulitzer,Andersonville (novel),MacKinlay Kantor,http://dbpedia.org/resource/Andersonville_(novel),http://dbpedia.org/resource/MacKinlay_Kantor
+1955,Pulitzer,Marjorie Morningstar (novel),Herman Wouk,http://dbpedia.org/resource/Marjorie_Morningstar_(novel),http://dbpedia.org/resource/Herman_Wouk
+1955,Pulitzer,The Deer Park,Norman Mailer,http://dbpedia.org/resource/The_Deer_Park,http://dbpedia.org/resource/Norman_Mailer
+1955,Booker,The Inheritors (Golding novel),William Golding,http://dbpedia.org/resource/The_Inheritors_(Golding_novel),http://dbpedia.org/resource/William_Golding
+1955,Booker,The Picnic at Sakkara,P. H. Newby,http://dbpedia.org/resource/The_Picnic_at_Sakkara,http://dbpedia.org/resource/P._H._Newby
+1956,Booker,Pincher Martin,William Golding,http://dbpedia.org/resource/Pincher_Martin,http://dbpedia.org/resource/William_Golding
+1956,Pulitzer,Seize the Day (novel),Saul Bellow,http://dbpedia.org/resource/Seize_the_Day_(novel),http://dbpedia.org/resource/Saul_Bellow
+1956,Booker,The Flight from the Enchanter,Iris Murdoch,http://dbpedia.org/resource/The_Flight_from_the_Enchanter,http://dbpedia.org/resource/Iris_Murdoch
+1956,Pulitzer,The Last Hurrah,Edwin O'Connor,http://dbpedia.org/resource/The_Last_Hurrah,http://dbpedia.org/resource/Edwin_O'Connor
+1956,Pulitzer,The Man Who Studied Yoga,Norman Mailer,http://dbpedia.org/resource/The_Man_Who_Studied_Yoga,http://dbpedia.org/resource/Norman_Mailer
+1957,Pulitzer,A Death in the Family,James Agee,http://dbpedia.org/resource/A_Death_in_the_Family,http://dbpedia.org/resource/James_Agee
+1957,Pulitzer,By Love Possessed (novel),James Gould Cozzens,http://dbpedia.org/resource/By_Love_Possessed_(novel),http://dbpedia.org/resource/James_Gould_Cozzens
+1957,Pulitzer,The Assistant (Malamud novel),Bernard Malamud,http://dbpedia.org/resource/The_Assistant_(novel),http://dbpedia.org/resource/Bernard_Malamud
+1957,Pulitzer,The Assistant (novel),Bernard Malamud,http://dbpedia.org/resource/The_Assistant_(novel),http://dbpedia.org/resource/Bernard_Malamud
+1957,Booker,The Mystic Masseur (novel),V. S. Naipaul,http://dbpedia.org/resource/The_Mystic_Masseur_(novel),http://dbpedia.org/resource/V._S._Naipaul
+1957,Booker,The Sandcastle (novel),Iris Murdoch,http://dbpedia.org/resource/The_Sandcastle_(novel),http://dbpedia.org/resource/Iris_Murdoch
+1957,Pulitzer,The Town (Faulkner novel),William Faulkner,http://dbpedia.org/resource/The_Town_(Faulkner_novel),http://dbpedia.org/resource/William_Faulkner
+1957,Pulitzer,The Wapshot Chronicle,John Cheever,http://dbpedia.org/resource/The_Wapshot_Chronicle,http://dbpedia.org/resource/John_Cheever
+1958,Booker,A World of Strangers,Nadine Gordimer,http://dbpedia.org/resource/A_World_of_Strangers,http://dbpedia.org/resource/Nadine_Gordimer
+1958,Booker,The Bell (novel),Iris Murdoch,http://dbpedia.org/resource/The_Bell_(novel),http://dbpedia.org/resource/Iris_Murdoch
+1958,Booker,The Suffrage of Elvira,V. S. Naipaul,http://dbpedia.org/resource/The_Suffrage_of_Elvira,http://dbpedia.org/resource/V._S._Naipaul
+1958,Pulitzer,The Travels of Jaimie McPheeters,Robert Lewis Taylor,http://dbpedia.org/resource/The_Travels_of_Jaimie_McPheeters,http://dbpedia.org/resource/Robert_Lewis_Taylor
+1959,Pulitzer,Advise and Consent,Allen Drury,http://dbpedia.org/resource/Advise_and_Consent,http://dbpedia.org/resource/Allen_Drury
+1959,Booker,Free Fall (Golding novel),William Golding,http://dbpedia.org/resource/Free_Fall_(Golding_novel),http://dbpedia.org/resource/William_Golding
+1959,Pulitzer,Hawaii (novel),James A. Michener,http://dbpedia.org/resource/Hawaii_(novel),http://dbpedia.org/resource/James_A._Michener
+1959,Pulitzer,Henderson the Rain King,Saul Bellow,http://dbpedia.org/resource/Henderson_the_Rain_King,http://dbpedia.org/resource/Saul_Bellow
+1959,Pulitzer,The Mansion (novel),William Faulkner,http://dbpedia.org/resource/The_Mansion_(novel),http://dbpedia.org/resource/William_Faulkner
+1959,Pulitzer,The Poorhouse Fair,John Updike,http://dbpedia.org/resource/The_Poorhouse_Fair,http://dbpedia.org/resource/John_Updike
+1960,Pulitzer,"Rabbit, Run",John Updike,"http://dbpedia.org/resource/Rabbit,_Run",http://dbpedia.org/resource/John_Updike
+1960,Pulitzer,Set This House on Fire,William Styron,http://dbpedia.org/resource/Set_This_House_on_Fire,http://dbpedia.org/resource/William_Styron
+1960,Booker,Take a Girl Like You,Kingsley Amis,http://dbpedia.org/resource/Take_a_Girl_Like_You,http://dbpedia.org/resource/Kingsley_Amis
+1960,Booker,The Householder (novel),Ruth Prawer Jhabvala,http://dbpedia.org/resource/The_Householder_(novel),http://dbpedia.org/resource/Ruth_Prawer_Jhabvala
+1960,Pulitzer,To Kill a Mockingbird,Harper Lee,http://dbpedia.org/resource/To_Kill_a_Mockingbird,http://dbpedia.org/resource/Harper_Lee
+1961,Booker,A House for Mr Biswas,V. S. Naipaul,http://dbpedia.org/resource/A_House_for_Mr_Biswas,http://dbpedia.org/resource/V._S._Naipaul
+1961,Pulitzer,A New Life (novel),Bernard Malamud,http://dbpedia.org/resource/A_New_Life_(novel),http://dbpedia.org/resource/Bernard_Malamud
+1961,Booker,A Severed Head,Iris Murdoch,http://dbpedia.org/resource/A_Severed_Head,http://dbpedia.org/resource/Iris_Murdoch
+1961,Booker,Double Persephone,Margaret Atwood,http://dbpedia.org/resource/Double_Persephone,http://dbpedia.org/resource/Margaret_Atwood
+1961,Pulitzer,"Horseman, Pass By",Larry McMurtry,"http://dbpedia.org/resource/Horseman,_Pass_By",http://dbpedia.org/resource/Larry_McMurtry
+1961,Pulitzer,Spirit Lake (book),MacKinlay Kantor,http://dbpedia.org/resource/Spirit_Lake_(book),http://dbpedia.org/resource/MacKinlay_Kantor
+1961,Pulitzer,The Edge of Sadness,Edwin O'Connor,http://dbpedia.org/resource/The_Edge_of_Sadness,http://dbpedia.org/resource/Edwin_O'Connor
+1962,Pulitzer,A Shade of Difference,Allen Drury,http://dbpedia.org/resource/A_Shade_of_Difference,http://dbpedia.org/resource/Allen_Drury
+1962,Booker,An Unofficial Rose,Iris Murdoch,http://dbpedia.org/resource/An_Unofficial_Rose,http://dbpedia.org/resource/Iris_Murdoch
+1962,Pulitzer,Leaving Cheyenne,Larry McMurtry,http://dbpedia.org/resource/Leaving_Cheyenne,http://dbpedia.org/resource/Larry_McMurtry
+1962,Pulitzer,Letting Go (novel),Philip Roth,http://dbpedia.org/resource/Letting_Go_(novel),http://dbpedia.org/resource/Philip_Roth
+1962,Pulitzer,Ship of Fools (Porter novel),Katherine Anne Porter,http://dbpedia.org/resource/Ship_of_Fools_(Porter_novel),http://dbpedia.org/resource/Katherine_Anne_Porter
+1962,Pulitzer,The Reivers,William Faulkner,http://dbpedia.org/resource/The_Reivers,http://dbpedia.org/resource/William_Faulkner
+1962,Pulitzer,Youngblood Hawke,Herman Wouk,http://dbpedia.org/resource/Youngblood_Hawke,http://dbpedia.org/resource/Herman_Wouk
+1963,Pulitzer,Caravans (novel),James A. Michener,http://dbpedia.org/resource/Caravans_(novel),http://dbpedia.org/resource/James_A._Michener
+1963,Booker,Occasion for Loving,Nadine Gordimer,http://dbpedia.org/resource/Occasion_for_Loving,http://dbpedia.org/resource/Nadine_Gordimer
+1963,Pulitzer,The Centaur,John Updike,http://dbpedia.org/resource/The_Centaur,http://dbpedia.org/resource/John_Updike
+1963,Pulitzer,The Presidential Papers,Norman Mailer,http://dbpedia.org/resource/The_Presidential_Papers,http://dbpedia.org/resource/Norman_Mailer
+1963,Booker,The Unicorn (novel),Iris Murdoch,http://dbpedia.org/resource/The_Unicorn_(novel),http://dbpedia.org/resource/Iris_Murdoch
+1964,Pulitzer,Herzog (novel),Saul Bellow,http://dbpedia.org/resource/Herzog_(novel),http://dbpedia.org/resource/Saul_Bellow
+1964,Pulitzer,If Morning Ever Comes,Anne Tyler,http://dbpedia.org/resource/If_Morning_Ever_Comes,http://dbpedia.org/resource/Anne_Tyler
+1964,Booker,The Italian Girl,Iris Murdoch,http://dbpedia.org/resource/The_Italian_Girl,http://dbpedia.org/resource/Iris_Murdoch
+1964,Pulitzer,The Keepers of the House,Shirley Ann Grau,http://dbpedia.org/resource/The_Keepers_of_the_House,http://dbpedia.org/resource/Shirley_Ann_Grau
+1964,Booker,The Place at Whitton,Thomas Keneally,http://dbpedia.org/resource/The_Place_at_Whitton,http://dbpedia.org/resource/Thomas_Keneally
+1964,Booker,The Spire,William Golding,http://dbpedia.org/resource/The_Spire,http://dbpedia.org/resource/William_Golding
+1965,Pulitzer,An American Dream (novel),Norman Mailer,http://dbpedia.org/resource/An_American_Dream_(novel),http://dbpedia.org/resource/Norman_Mailer
+1965,Pulitzer,Don't Stop the Carnival (novel),Herman Wouk,http://dbpedia.org/resource/Don't_Stop_the_Carnival_(novel),http://dbpedia.org/resource/Herman_Wouk
+1965,Pulitzer,Of the Farm,John Updike,http://dbpedia.org/resource/Of_the_Farm,http://dbpedia.org/resource/John_Updike
+1965,Pulitzer,That Summer (Drury novel),Allen Drury,http://dbpedia.org/resource/That_Summer_(Drury_novel),http://dbpedia.org/resource/Allen_Drury
+1965,Booker,The Fear (Keneally novel),Thomas Keneally,http://dbpedia.org/resource/The_Fear_(Keneally_novel),http://dbpedia.org/resource/Thomas_Keneally
+1965,Pulitzer,The Orchard Keeper,Cormac McCarthy,http://dbpedia.org/resource/The_Orchard_Keeper,http://dbpedia.org/resource/Cormac_McCarthy
+1965,Booker,The Red and the Green,Iris Murdoch,http://dbpedia.org/resource/The_Red_and_the_Green,http://dbpedia.org/resource/Iris_Murdoch
+1965,Pulitzer,The Source (novel),James A. Michener,http://dbpedia.org/resource/The_Source_(novel),http://dbpedia.org/resource/James_A._Michener
+1965,Pulitzer,The Tin Can Tree,Anne Tyler,http://dbpedia.org/resource/The_Tin_Can_Tree,http://dbpedia.org/resource/Anne_Tyler
+1966,Pulitzer,Capable of Honor,Allen Drury,http://dbpedia.org/resource/Capable_of_Honor,http://dbpedia.org/resource/Allen_Drury
+1966,Booker,The Anti-Death League,Kingsley Amis,http://dbpedia.org/resource/The_Anti-Death_League,http://dbpedia.org/resource/Kingsley_Amis
+1966,Pulitzer,The Awakening Land trilogy,Conrad Richter,http://dbpedia.org/resource/The_Awakening_Land_trilogy,http://dbpedia.org/resource/Conrad_Richter
+1966,Pulitzer,The Fixer (novel),Bernard Malamud,http://dbpedia.org/resource/The_Fixer_(novel),http://dbpedia.org/resource/Bernard_Malamud
+1966,Booker,The Jewel in the Crown (novel),Paul Scott (novelist),http://dbpedia.org/resource/The_Jewel_in_the_Crown_(novel),http://dbpedia.org/resource/Paul_Scott_(novelist)
+1966,Pulitzer,The Last Picture Show (novel),Larry McMurtry,http://dbpedia.org/resource/The_Last_Picture_Show_(novel),http://dbpedia.org/resource/Larry_McMurtry
+1966,Booker,The Late Bourgeois World,Nadine Gordimer,http://dbpedia.org/resource/The_Late_Bourgeois_World,http://dbpedia.org/resource/Nadine_Gordimer
+1966,Booker,The Time of the Angels,Iris Murdoch,http://dbpedia.org/resource/The_Time_of_the_Angels,http://dbpedia.org/resource/Iris_Murdoch
+1967,Booker,Bring Larks and Heroes,Thomas Keneally,http://dbpedia.org/resource/Bring_Larks_and_Heroes,http://dbpedia.org/resource/Thomas_Keneally
+1967,Pulitzer,By-Line: Ernest Hemingway,Ernest Hemingway,http://dbpedia.org/resource/By-Line:_Ernest_Hemingway,http://dbpedia.org/resource/Ernest_Hemingway
+1967,Pulitzer,The Confessions of Nat Turner,William Styron,http://dbpedia.org/resource/The_Confessions_of_Nat_Turner,http://dbpedia.org/resource/William_Styron
+1967,Booker,The Greeks Have a Word For It,Barry Unsworth,http://dbpedia.org/resource/The_Greeks_Have_a_Word_For_It,http://dbpedia.org/resource/Barry_Unsworth
+1967,Booker,The Mimic Men,V. S. Naipaul,http://dbpedia.org/resource/The_Mimic_Men,http://dbpedia.org/resource/V._S._Naipaul
+1967,Booker,The Pyramid (Golding novel),William Golding,http://dbpedia.org/resource/The_Pyramid_(Golding_novel),http://dbpedia.org/resource/William_Golding
+1967,Pulitzer,When She Was Good,Philip Roth,http://dbpedia.org/resource/When_She_Was_Good,http://dbpedia.org/resource/Philip_Roth
+1967,Pulitzer,Why Are We in Vietnam?,Norman Mailer,http://dbpedia.org/resource/Why_Are_We_in_Vietnam%3F,http://dbpedia.org/resource/Norman_Mailer
+1968,Booker,Colonel Sun,Kingsley Amis,http://dbpedia.org/resource/Colonel_Sun,http://dbpedia.org/resource/Kingsley_Amis
+1968,Pulitzer,Couples (novel),John Updike,http://dbpedia.org/resource/Couples_(novel),http://dbpedia.org/resource/John_Updike
+1968,Pulitzer,House Made of Dawn,N. Scott Momaday,http://dbpedia.org/resource/House_Made_of_Dawn,http://dbpedia.org/resource/N._Scott_Momaday
+1968,Pulitzer,In a Narrow Grave: Essays on Texas,Larry McMurtry,http://dbpedia.org/resource/In_a_Narrow_Grave:_Essays_on_Texas,http://dbpedia.org/resource/Larry_McMurtry
+1968,Pulitzer,Miami and the Siege of Chicago,Norman Mailer,http://dbpedia.org/resource/Miami_and_the_Siege_of_Chicago,http://dbpedia.org/resource/Norman_Mailer
+1968,Pulitzer,Outer Dark,Cormac McCarthy,http://dbpedia.org/resource/Outer_Dark,http://dbpedia.org/resource/Cormac_McCarthy
+1968,Pulitzer,Preserve and Protect,Allen Drury,http://dbpedia.org/resource/Preserve_and_Protect,http://dbpedia.org/resource/Allen_Drury
+1968,Booker,Something to Answer For,P. H. Newby,http://dbpedia.org/resource/Something_to_Answer_For,http://dbpedia.org/resource/P._H._Newby
+1968,Pulitzer,The Armies of the Night,Norman Mailer,http://dbpedia.org/resource/The_Armies_of_the_Night,http://dbpedia.org/resource/Norman_Mailer
+1968,Booker,The Day of the Scorpion,Paul Scott (novelist),http://dbpedia.org/resource/The_Day_of_the_Scorpion,http://dbpedia.org/resource/Paul_Scott_(novelist)
+1968,Booker,The Nice and the Good,Iris Murdoch,http://dbpedia.org/resource/The_Nice_and_the_Good,http://dbpedia.org/resource/Iris_Murdoch
+1968,Booker,Three Cheers for the Paraclete,Thomas Keneally,http://dbpedia.org/resource/Three_Cheers_for_the_Paraclete,http://dbpedia.org/resource/Thomas_Keneally
+1969,Booker,Bruno's Dream,Iris Murdoch,http://dbpedia.org/resource/Bruno's_Dream,http://dbpedia.org/resource/Iris_Murdoch
+1969,Pulitzer,Bullet Park,John Cheever,http://dbpedia.org/resource/Bullet_Park,http://dbpedia.org/resource/John_Cheever
+1969,Pulitzer,Pictures of Fidelman,Bernard Malamud,http://dbpedia.org/resource/Pictures_of_Fidelman,http://dbpedia.org/resource/Bernard_Malamud
+1969,Pulitzer,Portnoy's Complaint,Philip Roth,http://dbpedia.org/resource/Portnoy's_Complaint,http://dbpedia.org/resource/Philip_Roth
+1969,Booker,The Edible Woman,Margaret Atwood,http://dbpedia.org/resource/The_Edible_Woman,http://dbpedia.org/resource/Margaret_Atwood
+1969,Booker,The Elected Member,Bernice Rubens,http://dbpedia.org/resource/The_Elected_Member,http://dbpedia.org/resource/Bernice_Rubens
+1969,Booker,The Survivor (Keneally novel),Thomas Keneally,http://dbpedia.org/resource/The_Survivor_(Keneally_novel),http://dbpedia.org/resource/Thomas_Keneally
+1970,Booker,A Fairly Honourable Defeat,Iris Murdoch,http://dbpedia.org/resource/A_Fairly_Honourable_Defeat,http://dbpedia.org/resource/Iris_Murdoch
+1970,Booker,A Guest of Honour (novel),Nadine Gordimer,http://dbpedia.org/resource/A_Guest_of_Honour_(novel),http://dbpedia.org/resource/Nadine_Gordimer
+1970,Pulitzer,A Slipping-Down Life (novel),Anne Tyler,http://dbpedia.org/resource/A_Slipping-Down_Life_(novel),http://dbpedia.org/resource/Anne_Tyler
+1970,Pulitzer,Islands in the Stream (novel),Ernest Hemingway,http://dbpedia.org/resource/Islands_in_the_Stream_(novel),http://dbpedia.org/resource/Ernest_Hemingway
+1970,Pulitzer,Moving On (novel),Larry McMurtry,http://dbpedia.org/resource/Moving_On_(novel),http://dbpedia.org/resource/Larry_McMurtry
+1970,Pulitzer,Mr. Sammler's Planet,Saul Bellow,http://dbpedia.org/resource/Mr._Sammler's_Planet,http://dbpedia.org/resource/Saul_Bellow
+1970,Booker,Saville (novel),David Storey,http://dbpedia.org/resource/Saville_(novel),http://dbpedia.org/resource/David_Storey
+1970,Pulitzer,The Bluest Eye,Toni Morrison,http://dbpedia.org/resource/The_Bluest_Eye,http://dbpedia.org/resource/Toni_Morrison
+1970,Booker,The Collected Works of Billy the Kid: Left-Handed Poems,Michael Ondaatje,http://dbpedia.org/resource/The_Collected_Works_of_Billy_the_Kid:_Left-Handed_Poems,http://dbpedia.org/resource/Michael_Ondaatje
+1970,Booker,The Journals of Susanna Moodie,Margaret Atwood,http://dbpedia.org/resource/The_Journals_of_Susanna_Moodie,http://dbpedia.org/resource/Margaret_Atwood
+1970,Pulitzer,The Third Life of Grange Copeland,Alice Walker,http://dbpedia.org/resource/The_Third_Life_of_Grange_Copeland,http://dbpedia.org/resource/Alice_Walker
+1970,Booker,Troubles (novel),J. G. Farrell,http://dbpedia.org/resource/Troubles_(novel),http://dbpedia.org/resource/J._G._Farrell
+1971,Booker,A Dutiful Daughter,Thomas Keneally,http://dbpedia.org/resource/A_Dutiful_Daughter,http://dbpedia.org/resource/Thomas_Keneally
+1971,Booker,An Accidental Man,Iris Murdoch,http://dbpedia.org/resource/An_Accidental_Man,http://dbpedia.org/resource/Iris_Murdoch
+1971,Pulitzer,Angle of Repose,Wallace Stegner,http://dbpedia.org/resource/Angle_of_Repose,http://dbpedia.org/resource/Wallace_Stegner
+1971,Booker,"Girl, 20",Kingsley Amis,"http://dbpedia.org/resource/Girl,_20",http://dbpedia.org/resource/Kingsley_Amis
+1971,Booker,In a Free State,V. S. Naipaul,http://dbpedia.org/resource/In_a_Free_State,http://dbpedia.org/resource/V._S._Naipaul
+1971,Pulitzer,Our Gang (novel),Philip Roth,http://dbpedia.org/resource/Our_Gang_(novel),http://dbpedia.org/resource/Philip_Roth
+1971,Booker,Power Politics (poetry collection),Margaret Atwood,http://dbpedia.org/resource/Power_Politics_(poetry_collection),http://dbpedia.org/resource/Margaret_Atwood
+1971,Pulitzer,Rabbit Redux,John Updike,http://dbpedia.org/resource/Rabbit_Redux,http://dbpedia.org/resource/John_Updike
+1971,Pulitzer,The Drifters (novel),James A. Michener,http://dbpedia.org/resource/The_Drifters_(novel),http://dbpedia.org/resource/James_A._Michener
+1971,Pulitzer,The Tenants (novel),Bernard Malamud,http://dbpedia.org/resource/The_Tenants_(novel),http://dbpedia.org/resource/Bernard_Malamud
+1971,Pulitzer,The Throne of Saturn (novel),Allen Drury,http://dbpedia.org/resource/The_Throne_of_Saturn_(novel),http://dbpedia.org/resource/Allen_Drury
+1971,Booker,The Towers of Silence,Paul Scott (novelist),http://dbpedia.org/resource/The_Towers_of_Silence,http://dbpedia.org/resource/Paul_Scott_(novelist)
+1971,Pulitzer,The Winds of War,Herman Wouk,http://dbpedia.org/resource/The_Winds_of_War,http://dbpedia.org/resource/Herman_Wouk
+1972,Pulitzer,All My Friends Are Going to Be Strangers,Larry McMurtry,http://dbpedia.org/resource/All_My_Friends_Are_Going_to_Be_Strangers,http://dbpedia.org/resource/Larry_McMurtry
+1972,Pulitzer,Edwin Mullhouse,Steven Millhauser,http://dbpedia.org/resource/Edwin_Mullhouse,http://dbpedia.org/resource/Steven_Millhauser
+1972,Booker,G. (novel),John Berger,http://dbpedia.org/resource/G._(novel),http://dbpedia.org/resource/John_Berger
+1972,Booker,Pasmore (novel),David Storey,http://dbpedia.org/resource/Pasmore_(novel),http://dbpedia.org/resource/David_Storey
+1972,Booker,Surfacing (novel),Margaret Atwood,http://dbpedia.org/resource/Surfacing_(novel),http://dbpedia.org/resource/Margaret_Atwood
+1972,Pulitzer,The Breast,Philip Roth,http://dbpedia.org/resource/The_Breast,http://dbpedia.org/resource/Philip_Roth
+1972,Booker,The Chant of Jimmie Blacksmith,Thomas Keneally,http://dbpedia.org/resource/The_Chant_of_Jimmie_Blacksmith,http://dbpedia.org/resource/Thomas_Keneally
+1972,Pulitzer,The Clock Winder,Anne Tyler,http://dbpedia.org/resource/The_Clock_Winder,http://dbpedia.org/resource/Anne_Tyler
+1972,Pulitzer,The Optimist's Daughter,Eudora Welty,http://dbpedia.org/resource/The_Optimist's_Daughter,http://dbpedia.org/resource/Eudora_Welty
+1972,Booker,Ways of Seeing,John Berger,http://dbpedia.org/resource/Ways_of_Seeing,http://dbpedia.org/resource/John_Berger
+1973,Pulitzer,Child of God,Cormac McCarthy,http://dbpedia.org/resource/Child_of_God,http://dbpedia.org/resource/Cormac_McCarthy
+1973,Pulitzer,Flags in the Dust,William Faulkner,http://dbpedia.org/resource/Flags_in_the_Dust,http://dbpedia.org/resource/William_Faulkner
+1973,Pulitzer,Sula (novel),Toni Morrison,http://dbpedia.org/resource/Sula_(novel),http://dbpedia.org/resource/Toni_Morrison
+1973,Booker,The Black Prince (novel),Iris Murdoch,http://dbpedia.org/resource/The_Black_Prince_(novel),http://dbpedia.org/resource/Iris_Murdoch
+1973,Booker,The Ghost of Thomas Kempe,Penelope Lively,http://dbpedia.org/resource/The_Ghost_of_Thomas_Kempe,http://dbpedia.org/resource/Penelope_Lively
+1973,Pulitzer,The Great American Novel (Roth novel),Philip Roth,http://dbpedia.org/resource/The_Great_American_Novel_(Roth_novel),http://dbpedia.org/resource/Philip_Roth
+1973,Booker,The Siege of Krishnapur,J. G. Farrell,http://dbpedia.org/resource/The_Siege_of_Krishnapur,http://dbpedia.org/resource/J._G._Farrell
+1974,Booker,"Blood Red, Sister Rose",Thomas Keneally,"http://dbpedia.org/resource/Blood_Red,_Sister_Rose",http://dbpedia.org/resource/Thomas_Keneally
+1974,Pulitzer,Celestial Navigation (novel),Anne Tyler,http://dbpedia.org/resource/Celestial_Navigation_(novel),http://dbpedia.org/resource/Anne_Tyler
+1974,Pulitzer,Centennial (novel),James A. Michener,http://dbpedia.org/resource/Centennial_(novel),http://dbpedia.org/resource/James_A._Michener
+1974,Booker,Dusklands,J. M. Coetzee,http://dbpedia.org/resource/Dusklands,http://dbpedia.org/resource/J._M._Coetzee
+1974,Booker,Holiday (novel),Stanley Middleton,http://dbpedia.org/resource/Holiday_(novel),http://dbpedia.org/resource/Stanley_Middleton
+1974,Pulitzer,My Life as a Man,Philip Roth,http://dbpedia.org/resource/My_Life_as_a_Man,http://dbpedia.org/resource/Philip_Roth
+1974,Booker,The Conservationist,Nadine Gordimer,http://dbpedia.org/resource/The_Conservationist,http://dbpedia.org/resource/Nadine_Gordimer
+1974,Pulitzer,The Killer Angels,Michael Shaara,http://dbpedia.org/resource/The_Killer_Angels,http://dbpedia.org/resource/Michael_Shaara
+1974,Booker,The Sacred and Profane Love Machine,Iris Murdoch,http://dbpedia.org/resource/The_Sacred_and_Profane_Love_Machine,http://dbpedia.org/resource/Iris_Murdoch
+1974,Pulitzer,The War Between the Tates,Alison Lurie,http://dbpedia.org/resource/The_War_Between_the_Tates,http://dbpedia.org/resource/Alison_Lurie
+1974,Booker,You Are Happy,Margaret Atwood,http://dbpedia.org/resource/You_Are_Happy,http://dbpedia.org/resource/Margaret_Atwood
+1975,Booker,A Division of the Spoils,Paul Scott (novelist),http://dbpedia.org/resource/A_Division_of_the_Spoils,http://dbpedia.org/resource/Paul_Scott_(novelist)
+1975,Booker,A Word Child,Iris Murdoch,http://dbpedia.org/resource/A_Word_Child,http://dbpedia.org/resource/Iris_Murdoch
+1975,Booker,Gossip from the Forest,Thomas Keneally,http://dbpedia.org/resource/Gossip_from_the_Forest,http://dbpedia.org/resource/Thomas_Keneally
+1975,Booker,Grimus,Salman Rushdie,http://dbpedia.org/resource/Grimus,http://dbpedia.org/resource/Salman_Rushdie
+1975,Booker,Guerrillas (novel),V. S. Naipaul,http://dbpedia.org/resource/Guerrillas_(novel),http://dbpedia.org/resource/V._S._Naipaul
+1975,Booker,Heat and Dust,Ruth Prawer Jhabvala,http://dbpedia.org/resource/Heat_and_Dust,http://dbpedia.org/resource/Ruth_Prawer_Jhabvala
+1975,Pulitzer,Humboldt's Gift,Saul Bellow,http://dbpedia.org/resource/Humboldt's_Gift,http://dbpedia.org/resource/Saul_Bellow
+1975,Pulitzer,Legs (novel),William Kennedy (author),http://dbpedia.org/resource/Legs_(novel),http://dbpedia.org/resource/William_Kennedy_(author)
+1975,Booker,Moses the Lawgiver (novel),Thomas Keneally,http://dbpedia.org/resource/Moses_the_Lawgiver_(novel),http://dbpedia.org/resource/Thomas_Keneally
+1975,Pulitzer,Reading Myself and Others,Philip Roth,http://dbpedia.org/resource/Reading_Myself_and_Others,http://dbpedia.org/resource/Philip_Roth
+1975,Pulitzer,Searching for Caleb,Anne Tyler,http://dbpedia.org/resource/Searching_for_Caleb,http://dbpedia.org/resource/Anne_Tyler
+1975,Pulitzer,Terms of Endearment (novel),Larry McMurtry,http://dbpedia.org/resource/Terms_of_Endearment_(novel),http://dbpedia.org/resource/Larry_McMurtry
+1976,Pulitzer,A God Against the Gods,Allen Drury,http://dbpedia.org/resource/A_God_Against_the_Gods,http://dbpedia.org/resource/Allen_Drury
+1976,Booker,A Stitch in Time (Lively novel),Penelope Lively,http://dbpedia.org/resource/A_Stitch_in_Time_(Lively_novel),http://dbpedia.org/resource/Penelope_Lively
+1976,Booker,Coming Through Slaughter,Michael Ondaatje,http://dbpedia.org/resource/Coming_Through_Slaughter,http://dbpedia.org/resource/Michael_Ondaatje
+1976,Booker,Henry and Cato,Iris Murdoch,http://dbpedia.org/resource/Henry_and_Cato,http://dbpedia.org/resource/Iris_Murdoch
+1976,Booker,Lady Oracle,Margaret Atwood,http://dbpedia.org/resource/Lady_Oracle,http://dbpedia.org/resource/Margaret_Atwood
+1976,Pulitzer,Marry Me (novel),John Updike,http://dbpedia.org/resource/Marry_Me_(novel),http://dbpedia.org/resource/John_Updike
+1976,Pulitzer,Meridian (novel),Alice Walker,http://dbpedia.org/resource/Meridian_(novel),http://dbpedia.org/resource/Alice_Walker
+1976,Booker,Season in Purgatory,Thomas Keneally,http://dbpedia.org/resource/Season_in_Purgatory,http://dbpedia.org/resource/Thomas_Keneally
+1976,Pulitzer,Small Ceremonies,Carol Shields,http://dbpedia.org/resource/Small_Ceremonies,http://dbpedia.org/resource/Carol_Shields
+1976,Booker,The Alteration,Kingsley Amis,http://dbpedia.org/resource/The_Alteration,http://dbpedia.org/resource/Kingsley_Amis
+1977,Booker,A Victim of the Aurora,Thomas Keneally,http://dbpedia.org/resource/A_Victim_of_the_Aurora,http://dbpedia.org/resource/Thomas_Keneally
+1977,Pulitzer,Anna Hastings,Allen Drury,http://dbpedia.org/resource/Anna_Hastings,http://dbpedia.org/resource/Allen_Drury
+1977,Pulitzer,Earthly Possessions (novel),Anne Tyler,http://dbpedia.org/resource/Earthly_Possessions_(novel),http://dbpedia.org/resource/Anne_Tyler
+1977,Pulitzer,Falconer (novel),John Cheever,http://dbpedia.org/resource/Falconer_(novel),http://dbpedia.org/resource/John_Cheever
+1977,Booker,In the Heart of the Country,J. M. Coetzee,http://dbpedia.org/resource/In_the_Heart_of_the_Country,http://dbpedia.org/resource/J._M._Coetzee
+1977,Pulitzer,Song of Solomon (novel),Toni Morrison,http://dbpedia.org/resource/Song_of_Solomon_(novel),http://dbpedia.org/resource/Toni_Morrison
+1977,Booker,Staying On,Paul Scott (novelist),http://dbpedia.org/resource/Staying_On,http://dbpedia.org/resource/Paul_Scott_(novelist)
+1977,Pulitzer,The Professor of Desire,Philip Roth,http://dbpedia.org/resource/The_Professor_of_Desire,http://dbpedia.org/resource/Philip_Roth
+1977,Booker,The Road to Lichfield,Penelope Lively,http://dbpedia.org/resource/The_Road_to_Lichfield,http://dbpedia.org/resource/Penelope_Lively
+1978,Pulitzer,Billy Phelan's Greatest Game,William Kennedy (author),http://dbpedia.org/resource/Billy_Phelan's_Greatest_Game,http://dbpedia.org/resource/William_Kennedy_(author)
+1978,Pulitzer,Chesapeake (novel),James A. Michener,http://dbpedia.org/resource/Chesapeake_(novel),http://dbpedia.org/resource/James_A._Michener
+1978,Pulitzer,Somebody's Darling (novel),Larry McMurtry,http://dbpedia.org/resource/Somebody's_Darling_(novel),http://dbpedia.org/resource/Larry_McMurtry
+1978,Booker,The Bookshop,Penelope Fitzgerald,http://dbpedia.org/resource/The_Bookshop,http://dbpedia.org/resource/Penelope_Fitzgerald
+1978,Booker,The Cement Garden,Ian McEwan,http://dbpedia.org/resource/The_Cement_Garden,http://dbpedia.org/resource/Ian_McEwan
+1978,Pulitzer,The Coup (novel),John Updike,http://dbpedia.org/resource/The_Coup_(novel),http://dbpedia.org/resource/John_Updike
+1978,Booker,"The Sea, the Sea",Iris Murdoch,"http://dbpedia.org/resource/The_Sea,_the_Sea",http://dbpedia.org/resource/Iris_Murdoch
+1978,Booker,The Singapore Grip,J. G. Farrell,http://dbpedia.org/resource/The_Singapore_Grip,http://dbpedia.org/resource/J._G._Farrell
+1978,Booker,The Voyage of QV66,Penelope Lively,http://dbpedia.org/resource/The_Voyage_of_QV66,http://dbpedia.org/resource/Penelope_Lively
+1978,Pulitzer,War and Remembrance,Herman Wouk,http://dbpedia.org/resource/War_and_Remembrance,http://dbpedia.org/resource/Herman_Wouk
+1979,Booker,A Bend in the River,V. S. Naipaul,http://dbpedia.org/resource/A_Bend_in_the_River,http://dbpedia.org/resource/V._S._Naipaul
+1979,Booker,Burger's Daughter,Nadine Gordimer,http://dbpedia.org/resource/Burger's_Daughter,http://dbpedia.org/resource/Nadine_Gordimer
+1979,Pulitzer,Complete Poems,Ernest Hemingway,http://dbpedia.org/resource/Complete_Poems,http://dbpedia.org/resource/Ernest_Hemingway
+1979,Booker,Confederates (novel),Thomas Keneally,http://dbpedia.org/resource/Confederates_(novel),http://dbpedia.org/resource/Thomas_Keneally
+1979,Booker,Darkness Visible (novel),William Golding,http://dbpedia.org/resource/Darkness_Visible_(novel),http://dbpedia.org/resource/William_Golding
+1979,Pulitzer,Dubin's Lives,Bernard Malamud,http://dbpedia.org/resource/Dubin's_Lives,http://dbpedia.org/resource/Bernard_Malamud
+1979,Booker,Life Before Man,Margaret Atwood,http://dbpedia.org/resource/Life_Before_Man,http://dbpedia.org/resource/Margaret_Atwood
+1979,Pulitzer,"Mark Coffin, U.S.S.",Allen Drury,"http://dbpedia.org/resource/Mark_Coffin,_U.S.S.",http://dbpedia.org/resource/Allen_Drury
+1979,Booker,Offshore (novel),Penelope Fitzgerald,http://dbpedia.org/resource/Offshore_(novel),http://dbpedia.org/resource/Penelope_Fitzgerald
+1979,Booker,Passenger (Keneally novel),Thomas Keneally,http://dbpedia.org/resource/Passenger_(Keneally_novel),http://dbpedia.org/resource/Thomas_Keneally
+1979,Booker,Pig Earth,John Berger,http://dbpedia.org/resource/Pig_Earth,http://dbpedia.org/resource/John_Berger
+1979,Pulitzer,Sophie's Choice (novel),William Styron,http://dbpedia.org/resource/Sophie's_Choice_(novel),http://dbpedia.org/resource/William_Styron
+1979,Pulitzer,Suttree,Cormac McCarthy,http://dbpedia.org/resource/Suttree,http://dbpedia.org/resource/Cormac_McCarthy
+1979,Pulitzer,The Executioner's Song,Norman Mailer,http://dbpedia.org/resource/The_Executioner's_Song,http://dbpedia.org/resource/Norman_Mailer
+1979,Pulitzer,The Ghost Writer,Philip Roth,http://dbpedia.org/resource/The_Ghost_Writer,http://dbpedia.org/resource/Philip_Roth
+1979,Pulitzer,The Watermen,James A. Michener,http://dbpedia.org/resource/The_Watermen,http://dbpedia.org/resource/James_A._Michener
+1979,Booker,War Crimes (short story collection),Peter Carey (novelist),http://dbpedia.org/resource/War_Crimes_(short_story_collection),http://dbpedia.org/resource/Peter_Carey_(novelist)
+1980,Pulitzer,A Confederacy of Dunces,John Kennedy Toole,http://dbpedia.org/resource/A_Confederacy_of_Dunces,http://dbpedia.org/resource/John_Kennedy_Toole
+1980,Booker,Duffy (novel),Julian Barnes,http://dbpedia.org/resource/Duffy_(novel),http://dbpedia.org/resource/Julian_Barnes
+1980,Pulitzer,Housekeeping (novel),Marilynne Robinson,http://dbpedia.org/resource/Housekeeping_(novel),http://dbpedia.org/resource/Marilynne_Robinson
+1980,Booker,Human Voices,Penelope Fitzgerald,http://dbpedia.org/resource/Human_Voices,http://dbpedia.org/resource/Penelope_Fitzgerald
+1980,Booker,Metroland (novel),Julian Barnes,http://dbpedia.org/resource/Metroland_(novel),http://dbpedia.org/resource/Julian_Barnes
+1980,Pulitzer,Morgan's Passing,Anne Tyler,http://dbpedia.org/resource/Morgan's_Passing,http://dbpedia.org/resource/Anne_Tyler
+1980,Booker,Nuns and Soldiers,Iris Murdoch,http://dbpedia.org/resource/Nuns_and_Soldiers,http://dbpedia.org/resource/Iris_Murdoch
+1980,Booker,Pascali's Island (novel),Barry Unsworth,http://dbpedia.org/resource/Pascali's_Island_(novel),http://dbpedia.org/resource/Barry_Unsworth
+1980,Pulitzer,The Covenant (novel),James A. Michener,http://dbpedia.org/resource/The_Covenant_(novel),http://dbpedia.org/resource/James_A._Michener
+1980,Booker,The Cut-Rate Kingdom,Thomas Keneally,http://dbpedia.org/resource/The_Cut-Rate_Kingdom,http://dbpedia.org/resource/Thomas_Keneally
+1980,Booker,The Sweet-Shop Owner,Graham Swift,http://dbpedia.org/resource/The_Sweet-Shop_Owner,http://dbpedia.org/resource/Graham_Swift
+1980,Booker,Waiting for the Barbarians,J. M. Coetzee,http://dbpedia.org/resource/Waiting_for_the_Barbarians,http://dbpedia.org/resource/J._M._Coetzee
+1981,Booker,A Start in Life (Brookner novel),Anita Brookner,http://dbpedia.org/resource/A_Start_in_Life_(Brookner_novel),http://dbpedia.org/resource/Anita_Brookner
+1981,Booker,Bliss (novel),Peter Carey (novelist),http://dbpedia.org/resource/Bliss_(novel),http://dbpedia.org/resource/Peter_Carey_(novelist)
+1981,Booker,Bodily Harm (novel),Margaret Atwood,http://dbpedia.org/resource/Bodily_Harm_(novel),http://dbpedia.org/resource/Margaret_Atwood
+1981,Booker,Fiddle City,Julian Barnes,http://dbpedia.org/resource/Fiddle_City,http://dbpedia.org/resource/Julian_Barnes
+1981,Booker,Midnight's Children,Salman Rushdie,http://dbpedia.org/resource/Midnight's_Children,http://dbpedia.org/resource/Salman_Rushdie
+1981,Pulitzer,Poland (novel),James A. Michener,http://dbpedia.org/resource/Poland_(novel),http://dbpedia.org/resource/James_A._Michener
+1981,Pulitzer,Rabbit Is Rich,John Updike,http://dbpedia.org/resource/Rabbit_Is_Rich,http://dbpedia.org/resource/John_Updike
+1981,Booker,Shuttlecock (novel),Graham Swift,http://dbpedia.org/resource/Shuttlecock_(novel),http://dbpedia.org/resource/Graham_Swift
+1981,Pulitzer,Tar Baby (novel),Toni Morrison,http://dbpedia.org/resource/Tar_Baby_(novel),http://dbpedia.org/resource/Toni_Morrison
+1981,Pulitzer,The Alleys of Eden,Robert Olen Butler,http://dbpedia.org/resource/The_Alleys_of_Eden,http://dbpedia.org/resource/Robert_Olen_Butler
+1981,Booker,The Comfort of Strangers,Ian McEwan,http://dbpedia.org/resource/The_Comfort_of_Strangers,http://dbpedia.org/resource/Ian_McEwan
+1981,Booker,The Landscapes Within,Ben Okri,http://dbpedia.org/resource/The_Landscapes_Within,http://dbpedia.org/resource/Ben_Okri
+1981,Pulitzer,The Noah Conspiracy,Michael Shaara,http://dbpedia.org/resource/The_Noah_Conspiracy,http://dbpedia.org/resource/Michael_Shaara
+1981,Pulitzer,Zuckerman Unbound,Philip Roth,http://dbpedia.org/resource/Zuckerman_Unbound,http://dbpedia.org/resource/Philip_Roth
+1982,Booker,A Pale View of Hills,Kazuo Ishiguro,http://dbpedia.org/resource/A_Pale_View_of_Hills,http://dbpedia.org/resource/Kazuo_Ishiguro
+1982,Booker,A Sinless Season,Damon Galgut,http://dbpedia.org/resource/A_Sinless_Season,http://dbpedia.org/resource/Damon_Galgut
+1982,Booker,At Freddie's,Penelope Fitzgerald,http://dbpedia.org/resource/At_Freddie's,http://dbpedia.org/resource/Penelope_Fitzgerald
+1982,Booker,Before She Met Me,Julian Barnes,http://dbpedia.org/resource/Before_She_Met_Me,http://dbpedia.org/resource/Julian_Barnes
+1982,Pulitzer,Cadillac Jack,Larry McMurtry,http://dbpedia.org/resource/Cadillac_Jack,http://dbpedia.org/resource/Larry_McMurtry
+1982,Pulitzer,Dinner at the Homesick Restaurant,Anne Tyler,http://dbpedia.org/resource/Dinner_at_the_Homesick_Restaurant,http://dbpedia.org/resource/Anne_Tyler
+1982,Booker,July's People,Nadine Gordimer,http://dbpedia.org/resource/July's_People,http://dbpedia.org/resource/Nadine_Gordimer
+1982,Pulitzer,Oh What a Paradise It Seems,John Cheever,http://dbpedia.org/resource/Oh_What_a_Paradise_It_Seems,http://dbpedia.org/resource/John_Cheever
+1982,Booker,Schindler's Ark,Thomas Keneally,http://dbpedia.org/resource/Schindler's_Ark,http://dbpedia.org/resource/Thomas_Keneally
+1982,Pulitzer,Space (Michener novel),James A. Michener,http://dbpedia.org/resource/Space_(Michener_novel),http://dbpedia.org/resource/James_A._Michener
+1982,Pulitzer,The Color Purple,Alice Walker,http://dbpedia.org/resource/The_Color_Purple,http://dbpedia.org/resource/Alice_Walker
+1982,Pulitzer,The Dean's December,Saul Bellow,http://dbpedia.org/resource/The_Dean's_December,http://dbpedia.org/resource/Saul_Bellow
+1982,Booker,Union Street (novel),Pat Barker,http://dbpedia.org/resource/Union_Street_(novel),http://dbpedia.org/resource/Pat_Barker
+1983,Pulitzer,Ancient Evenings,Norman Mailer,http://dbpedia.org/resource/Ancient_Evenings,http://dbpedia.org/resource/Norman_Mailer
+1983,Pulitzer,Decision (novel),Allen Drury,http://dbpedia.org/resource/Decision_(novel),http://dbpedia.org/resource/Allen_Drury
+1983,Pulitzer,God's Grace,Bernard Malamud,http://dbpedia.org/resource/God's_Grace,http://dbpedia.org/resource/Bernard_Malamud
+1983,Pulitzer,Ironweed (novel),William Kennedy (author),http://dbpedia.org/resource/Ironweed_(novel),http://dbpedia.org/resource/William_Kennedy_(author)
+1983,Booker,Life & Times of Michael K,J. M. Coetzee,http://dbpedia.org/resource/Life_&_Times_of_Michael_K,http://dbpedia.org/resource/J._M._Coetzee
+1983,Booker,Shame (Rushdie novel),Salman Rushdie,http://dbpedia.org/resource/Shame_(Rushdie_novel),http://dbpedia.org/resource/Salman_Rushdie
+1983,Pulitzer,The Anatomy Lesson (Roth novel),Philip Roth,http://dbpedia.org/resource/The_Anatomy_Lesson_(Roth_novel),http://dbpedia.org/resource/Philip_Roth
+1983,Pulitzer,The Desert Rose,Larry McMurtry,http://dbpedia.org/resource/The_Desert_Rose,http://dbpedia.org/resource/Larry_McMurtry
+1983,Booker,The Last Testament of Oscar Wilde,Peter Ackroyd,http://dbpedia.org/resource/The_Last_Testament_of_Oscar_Wilde,http://dbpedia.org/resource/Peter_Ackroyd
+1983,Booker,The Philosopher's Pupil,Iris Murdoch,http://dbpedia.org/resource/The_Philosopher's_Pupil,http://dbpedia.org/resource/Iris_Murdoch
+1983,Booker,Waterland (novel),Graham Swift,http://dbpedia.org/resource/Waterland_(novel),http://dbpedia.org/resource/Graham_Swift
+1984,Booker,According to Mark,Penelope Lively,http://dbpedia.org/resource/According_to_Mark,http://dbpedia.org/resource/Penelope_Lively
+1984,Booker,Blow Your House Down,Pat Barker,http://dbpedia.org/resource/Blow_Your_House_Down,http://dbpedia.org/resource/Pat_Barker
+1984,Booker,Flaubert's Parrot,Julian Barnes,http://dbpedia.org/resource/Flaubert's_Parrot,http://dbpedia.org/resource/Julian_Barnes
+1984,Pulitzer,Foreign Affairs (novel),Alison Lurie,http://dbpedia.org/resource/Foreign_Affairs_(novel),http://dbpedia.org/resource/Alison_Lurie
+1984,Booker,Hotel du Lac,Anita Brookner,http://dbpedia.org/resource/Hotel_du_Lac,http://dbpedia.org/resource/Anita_Brookner
+1984,Pulitzer,Jacklight,Louise Erdrich,http://dbpedia.org/resource/Jacklight,http://dbpedia.org/resource/Louise_Erdrich
+1984,Pulitzer,Love Medicine,Louise Erdrich,http://dbpedia.org/resource/Love_Medicine,http://dbpedia.org/resource/Louise_Erdrich
+1984,Booker,Stanley and the Women (novel),Kingsley Amis,http://dbpedia.org/resource/Stanley_and_the_Women_(novel),http://dbpedia.org/resource/Kingsley_Amis
+1984,Booker,The Bone People,Keri Hulme,http://dbpedia.org/resource/The_Bone_People,http://dbpedia.org/resource/Keri_Hulme
+1984,Booker,The Paper Men,William Golding,http://dbpedia.org/resource/The_Paper_Men,http://dbpedia.org/resource/William_Golding
+1984,Pulitzer,Tough Guys Don't Dance (novel),Norman Mailer,http://dbpedia.org/resource/Tough_Guys_Don't_Dance_(novel),http://dbpedia.org/resource/Norman_Mailer
+1985,Booker,A Chancer,James Kelman,http://dbpedia.org/resource/A_Chancer,http://dbpedia.org/resource/James_Kelman
+1985,Booker,A Family Madness,Thomas Keneally,http://dbpedia.org/resource/A_Family_Madness,http://dbpedia.org/resource/Thomas_Keneally
+1985,Pulitzer,Blood Meridian,Cormac McCarthy,http://dbpedia.org/resource/Blood_Meridian,http://dbpedia.org/resource/Cormac_McCarthy
+1985,Pulitzer,Dateline: Toronto,Ernest Hemingway,http://dbpedia.org/resource/Dateline:_Toronto,http://dbpedia.org/resource/Ernest_Hemingway
+1985,Booker,Every Day Is Mother's Day,Hilary Mantel,http://dbpedia.org/resource/Every_Day_Is_Mother's_Day,http://dbpedia.org/resource/Hilary_Mantel
+1985,Booker,Hawksmoor (novel),Peter Ackroyd,http://dbpedia.org/resource/Hawksmoor_(novel),http://dbpedia.org/resource/Peter_Ackroyd
+1985,Booker,Illywhacker,Peter Carey (novelist),http://dbpedia.org/resource/Illywhacker,http://dbpedia.org/resource/Peter_Carey_(novelist)
+1985,Pulitzer,"Inside, Outside",Herman Wouk,"http://dbpedia.org/resource/Inside,_Outside",http://dbpedia.org/resource/Herman_Wouk
+1985,Pulitzer,Lonesome Dove,Larry McMurtry,http://dbpedia.org/resource/Lonesome_Dove,http://dbpedia.org/resource/Larry_McMurtry
+1985,Booker,Still Life (Byatt novel),A. S. Byatt,http://dbpedia.org/resource/Still_Life_(Byatt_novel),http://dbpedia.org/resource/A._S._Byatt
+1985,Pulitzer,Texas (novel),James A. Michener,http://dbpedia.org/resource/Texas_(novel),http://dbpedia.org/resource/James_A._Michener
+1985,Pulitzer,The Accidental Tourist,Anne Tyler,http://dbpedia.org/resource/The_Accidental_Tourist,http://dbpedia.org/resource/Anne_Tyler
+1985,Booker,The Good Apprentice,Iris Murdoch,http://dbpedia.org/resource/The_Good_Apprentice,http://dbpedia.org/resource/Iris_Murdoch
+1985,Pulitzer,The Prague Orgy,Philip Roth,http://dbpedia.org/resource/The_Prague_Orgy,http://dbpedia.org/resource/Philip_Roth
+1986,Pulitzer,A Summons to Memphis,Peter Taylor (writer),http://dbpedia.org/resource/A_Summons_to_Memphis,http://dbpedia.org/resource/Peter_Taylor_(writer)
+1986,Booker,An Artist of the Floating World,Kazuo Ishiguro,http://dbpedia.org/resource/An_Artist_of_the_Floating_World,http://dbpedia.org/resource/Kazuo_Ishiguro
+1986,Booker,Foe (Coetzee novel),J. M. Coetzee,http://dbpedia.org/resource/Foe_(Coetzee_novel),http://dbpedia.org/resource/J._M._Coetzee
+1986,Pulitzer,From the Realm of Morpheus,Steven Millhauser,http://dbpedia.org/resource/From_the_Realm_of_Morpheus,http://dbpedia.org/resource/Steven_Millhauser
+1986,Booker,Innocence (Fitzgerald novel),Penelope Fitzgerald,http://dbpedia.org/resource/Innocence_(Fitzgerald_novel),http://dbpedia.org/resource/Penelope_Fitzgerald
+1986,Pulitzer,Mohawk (novel),Richard Russo,http://dbpedia.org/resource/Mohawk_(novel),http://dbpedia.org/resource/Richard_Russo
+1986,Pulitzer,Pentagon (novel),Allen Drury,http://dbpedia.org/resource/Pentagon_(novel),http://dbpedia.org/resource/Allen_Drury
+1986,Pulitzer,Roger's Version,John Updike,http://dbpedia.org/resource/Roger's_Version,http://dbpedia.org/resource/John_Updike
+1986,Booker,Staring at the Sun (novel),Julian Barnes,http://dbpedia.org/resource/Staring_at_the_Sun_(novel),http://dbpedia.org/resource/Julian_Barnes
+1986,Booker,The Century's Daughter,Pat Barker,http://dbpedia.org/resource/The_Century's_Daughter,http://dbpedia.org/resource/Pat_Barker
+1986,Pulitzer,The Counterlife,Philip Roth,http://dbpedia.org/resource/The_Counterlife,http://dbpedia.org/resource/Philip_Roth
+1986,Pulitzer,The Garden of Eden (novel),Ernest Hemingway,http://dbpedia.org/resource/The_Garden_of_Eden_(novel),http://dbpedia.org/resource/Ernest_Hemingway
+1986,Pulitzer,The Sportswriter,Richard Ford,http://dbpedia.org/resource/The_Sportswriter,http://dbpedia.org/resource/Richard_Ford
+1986,Booker,Vacant Possession (novel),Hilary Mantel,http://dbpedia.org/resource/Vacant_Possession_(novel),http://dbpedia.org/resource/Hilary_Mantel
+1987,Booker,A Sport of Nature,Nadine Gordimer,http://dbpedia.org/resource/A_Sport_of_Nature,http://dbpedia.org/resource/Nadine_Gordimer
+1987,Pulitzer,Beloved (novel),Toni Morrison,http://dbpedia.org/resource/Beloved_(novel),http://dbpedia.org/resource/Toni_Morrison
+1987,Pulitzer,Crossing to Safety,Wallace Stegner,http://dbpedia.org/resource/Crossing_to_Safety,http://dbpedia.org/resource/Wallace_Stegner
+1987,Pulitzer,Film Flam: Essays on Hollywood,Larry McMurtry,http://dbpedia.org/resource/Film_Flam:_Essays_on_Hollywood,http://dbpedia.org/resource/Larry_McMurtry
+1987,Booker,In the Skin of a Lion,Michael Ondaatje,http://dbpedia.org/resource/In_the_Skin_of_a_Lion,http://dbpedia.org/resource/Michael_Ondaatje
+1987,Pulitzer,Legacy (Michener novel),James A. Michener,http://dbpedia.org/resource/Legacy_(Michener_novel),http://dbpedia.org/resource/James_A._Michener
+1987,Booker,Moon Tiger,Penelope Lively,http://dbpedia.org/resource/Moon_Tiger,http://dbpedia.org/resource/Penelope_Lively
+1987,Pulitzer,More Die of Heartbreak,Saul Bellow,http://dbpedia.org/resource/More_Die_of_Heartbreak,http://dbpedia.org/resource/Saul_Bellow
+1987,Pulitzer,Swann: A Mystery,Carol Shields,http://dbpedia.org/resource/Swann:_A_Mystery,http://dbpedia.org/resource/Carol_Shields
+1987,Pulitzer,Texasville (novel),Larry McMurtry,http://dbpedia.org/resource/Texasville_(novel),http://dbpedia.org/resource/Larry_McMurtry
+1987,Booker,The Book and the Brotherhood,Iris Murdoch,http://dbpedia.org/resource/The_Book_and_the_Brotherhood,http://dbpedia.org/resource/Iris_Murdoch
+1987,Booker,The Child in Time,Ian McEwan,http://dbpedia.org/resource/The_Child_in_Time,http://dbpedia.org/resource/Ian_McEwan
+1987,Booker,The Commitments (novel),Roddy Doyle,http://dbpedia.org/resource/The_Commitments_(novel),http://dbpedia.org/resource/Roddy_Doyle
+1987,Booker,The Enigma of Arrival,V. S. Naipaul,http://dbpedia.org/resource/The_Enigma_of_Arrival,http://dbpedia.org/resource/V._S._Naipaul
+1987,Booker,The Playmaker (novel),Thomas Keneally,http://dbpedia.org/resource/The_Playmaker,http://dbpedia.org/resource/Thomas_Keneally
+1988,Booker,Act of Grace (novel),Thomas Keneally,http://dbpedia.org/resource/Act_of_Grace_(novel),http://dbpedia.org/resource/Thomas_Keneally
+1988,Pulitzer,Alaska (novel),James A. Michener,http://dbpedia.org/resource/Alaska_(novel),http://dbpedia.org/resource/James_A._Michener
+1988,Pulitzer,Anything for Billy,Larry McMurtry,http://dbpedia.org/resource/Anything_for_Billy,http://dbpedia.org/resource/Larry_McMurtry
+1988,Pulitzer,Breathing Lessons,Anne Tyler,http://dbpedia.org/resource/Breathing_Lessons,http://dbpedia.org/resource/Anne_Tyler
+1988,Booker,Cat's Eye (novel),Margaret Atwood,http://dbpedia.org/resource/Cat's_Eye_(novel),http://dbpedia.org/resource/Margaret_Atwood
+1988,Booker,Eight Months on Ghazzah Street,Hilary Mantel,http://dbpedia.org/resource/Eight_Months_on_Ghazzah_Street,http://dbpedia.org/resource/Hilary_Mantel
+1988,Pulitzer,Journey (novel),James A. Michener,http://dbpedia.org/resource/Journey_(novel),http://dbpedia.org/resource/James_A._Michener
+1988,Booker,Oscar and Lucinda,Peter Carey (novelist),http://dbpedia.org/resource/Oscar_and_Lucinda,http://dbpedia.org/resource/Peter_Carey_(novelist)
+1988,Booker,Out of This World (Swift novel),Graham Swift,http://dbpedia.org/resource/Out_of_This_World_(Swift_novel),http://dbpedia.org/resource/Graham_Swift
+1988,Pulitzer,Prisoner's Dilemma (novel),Richard Powers,http://dbpedia.org/resource/Prisoner's_Dilemma_(novel),http://dbpedia.org/resource/Richard_Powers
+1988,Pulitzer,The Bean Trees,Barbara Kingsolver,http://dbpedia.org/resource/The_Bean_Trees,http://dbpedia.org/resource/Barbara_Kingsolver
+1988,Booker,The Beginning of Spring,Penelope Fitzgerald,http://dbpedia.org/resource/The_Beginning_of_Spring,http://dbpedia.org/resource/Penelope_Fitzgerald
+1988,Pulitzer,The Greenlanders,Jane Smiley,http://dbpedia.org/resource/The_Greenlanders,http://dbpedia.org/resource/Jane_Smiley
+1988,Pulitzer,The Mysteries of Pittsburgh,Michael Chabon,http://dbpedia.org/resource/The_Mysteries_of_Pittsburgh,http://dbpedia.org/resource/Michael_Chabon
+1988,Pulitzer,The Risk Pool,Richard Russo,http://dbpedia.org/resource/The_Risk_Pool,http://dbpedia.org/resource/Richard_Russo
+1988,Booker,The Satanic Verses,Salman Rushdie,http://dbpedia.org/resource/The_Satanic_Verses,http://dbpedia.org/resource/Salman_Rushdie
+1988,Booker,The Swimming-Pool Library,Alan Hollinghurst,http://dbpedia.org/resource/The_Swimming-Pool_Library,http://dbpedia.org/resource/Alan_Hollinghurst
+1988,Pulitzer,Tracks (novel),Louise Erdrich,http://dbpedia.org/resource/Tracks_(novel),http://dbpedia.org/resource/Louise_Erdrich
+1989,Booker,A Disaffection,James Kelman,http://dbpedia.org/resource/A_Disaffection,http://dbpedia.org/resource/James_Kelman
+1989,Booker,A History of the World in 10½ Chapters,Julian Barnes,http://dbpedia.org/resource/A_History_of_the_World_in_10½_Chapters,http://dbpedia.org/resource/Julian_Barnes
+1989,Pulitzer,A Theft,Saul Bellow,http://dbpedia.org/resource/A_Theft,http://dbpedia.org/resource/Saul_Bellow
+1989,Pulitzer,Caribbean (novel),James A. Michener,http://dbpedia.org/resource/Caribbean_(novel),http://dbpedia.org/resource/James_A._Michener
+1989,Booker,Flowers and Shadows,Ben Okri,http://dbpedia.org/resource/Flowers_and_Shadows,http://dbpedia.org/resource/Ben_Okri
+1989,Booker,Fludd (novel),Hilary Mantel,http://dbpedia.org/resource/Fludd_(novel),http://dbpedia.org/resource/Hilary_Mantel
+1989,Booker,Passing On,Penelope Lively,http://dbpedia.org/resource/Passing_On,http://dbpedia.org/resource/Penelope_Lively
+1989,Pulitzer,Some Can Whistle,Larry McMurtry,http://dbpedia.org/resource/Some_Can_Whistle,http://dbpedia.org/resource/Larry_McMurtry
+1989,Pulitzer,The Bellarosa Connection,Saul Bellow,http://dbpedia.org/resource/The_Bellarosa_Connection,http://dbpedia.org/resource/Saul_Bellow
+1989,Booker,The Book of Evidence,John Banville,http://dbpedia.org/resource/The_Book_of_Evidence,http://dbpedia.org/resource/John_Banville
+1989,Booker,The Man Who Wasn't There (Barker novel),Pat Barker,http://dbpedia.org/resource/The_Man_Who_Wasn't_There_(Barker_novel),http://dbpedia.org/resource/Pat_Barker
+1989,Booker,The Message to the Planet,Iris Murdoch,http://dbpedia.org/resource/The_Message_to_the_Planet,http://dbpedia.org/resource/Iris_Murdoch
+1989,Pulitzer,The Neon Bible,John Kennedy Toole,http://dbpedia.org/resource/The_Neon_Bible,http://dbpedia.org/resource/John_Kennedy_Toole
+1989,Booker,The Remains of the Day,Kazuo Ishiguro,http://dbpedia.org/resource/The_Remains_of_the_Day,http://dbpedia.org/resource/Kazuo_Ishiguro
+1989,Pulitzer,The Temple of My Familiar,Alice Walker,http://dbpedia.org/resource/The_Temple_of_My_Familiar,http://dbpedia.org/resource/Alice_Walker
+1989,Booker,Towards Asmara,Thomas Keneally,http://dbpedia.org/resource/Towards_Asmara,http://dbpedia.org/resource/Thomas_Keneally
+1990,Pulitzer,A Home at the End of the World (novel),Michael Cunningham,http://dbpedia.org/resource/A_Home_at_the_End_of_the_World_(novel),http://dbpedia.org/resource/Michael_Cunningham
+1990,Booker,Age of Iron,J. M. Coetzee,http://dbpedia.org/resource/Age_of_Iron,http://dbpedia.org/resource/J._M._Coetzee
+1990,Pulitzer,Animal Dreams,Barbara Kingsolver,http://dbpedia.org/resource/Animal_Dreams,http://dbpedia.org/resource/Barbara_Kingsolver
+1990,Pulitzer,Buffalo Girls,Larry McMurtry,http://dbpedia.org/resource/Buffalo_Girls,http://dbpedia.org/resource/Larry_McMurtry
+1990,Pulitzer,Deception (novel),Philip Roth,http://dbpedia.org/resource/Deception_(novel),http://dbpedia.org/resource/Philip_Roth
+1990,Booker,Haroun and the Sea of Stories,Salman Rushdie,http://dbpedia.org/resource/Haroun_and_the_Sea_of_Stories,http://dbpedia.org/resource/Salman_Rushdie
+1990,Booker,My Son's Story,Nadine Gordimer,http://dbpedia.org/resource/My_Son's_Story,http://dbpedia.org/resource/Nadine_Gordimer
+1990,Booker,Possession (Byatt novel),A. S. Byatt,http://dbpedia.org/resource/Possession_(Byatt_novel),http://dbpedia.org/resource/A._S._Byatt
+1990,Pulitzer,Rabbit at Rest,John Updike,http://dbpedia.org/resource/Rabbit_at_Rest,http://dbpedia.org/resource/John_Updike
+1990,Pulitzer,The Eagle and the Raven,James A. Michener,http://dbpedia.org/resource/The_Eagle_and_the_Raven,http://dbpedia.org/resource/James_A._Michener
+1990,Booker,The Folks That Live on the Hill,Kingsley Amis,http://dbpedia.org/resource/The_Folks_That_Live_on_the_Hill,http://dbpedia.org/resource/Kingsley_Amis
+1990,Booker,The Gate of Angels,Penelope Fitzgerald,http://dbpedia.org/resource/The_Gate_of_Angels,http://dbpedia.org/resource/Penelope_Fitzgerald
+1990,Booker,The Innocent (McEwan novel),Ian McEwan,http://dbpedia.org/resource/The_Innocent_(McEwan_novel),http://dbpedia.org/resource/Ian_McEwan
+1990,Pulitzer,The Mambo Kings Play Songs of Love,Oscar Hijuelos,http://dbpedia.org/resource/The_Mambo_Kings_Play_Songs_of_Love,http://dbpedia.org/resource/Oscar_Hijuelos
+1990,Booker,The Snapper (novel),Roddy Doyle,http://dbpedia.org/resource/The_Snapper_(novel),http://dbpedia.org/resource/Roddy_Doyle
+1990,Pulitzer,Wildlife (novel),Richard Ford,http://dbpedia.org/resource/Wildlife_(novel),http://dbpedia.org/resource/Richard_Ford
+1991,Booker,A Solitary Grief,Bernice Rubens,http://dbpedia.org/resource/A_Solitary_Grief,http://dbpedia.org/resource/Bernice_Rubens
+1991,Pulitzer,A Thousand Acres,Jane Smiley,http://dbpedia.org/resource/A_Thousand_Acres,http://dbpedia.org/resource/Jane_Smiley
+1991,Booker,Chief of Staff (novel),Thomas Keneally,http://dbpedia.org/resource/Chief_of_Staff_(novel),http://dbpedia.org/resource/Thomas_Keneally
+1991,Booker,City of the Mind,Penelope Lively,http://dbpedia.org/resource/City_of_the_Mind,http://dbpedia.org/resource/Penelope_Lively
+1991,Booker,Flying Hero Class,Thomas Keneally,http://dbpedia.org/resource/Flying_Hero_Class,http://dbpedia.org/resource/Thomas_Keneally
+1991,Pulitzer,For Love of the Game,Michael Shaara,http://dbpedia.org/resource/For_Love_of_the_Game,http://dbpedia.org/resource/Michael_Shaara
+1991,Pulitzer,Harlot's Ghost,Norman Mailer,http://dbpedia.org/resource/Harlot's_Ghost,http://dbpedia.org/resource/Norman_Mailer
+1991,Booker,Regeneration (novel),Pat Barker,http://dbpedia.org/resource/Regeneration_(novel),http://dbpedia.org/resource/Pat_Barker
+1991,Pulitzer,Saint Maybe,Anne Tyler,http://dbpedia.org/resource/Saint_Maybe,http://dbpedia.org/resource/Anne_Tyler
+1991,Booker,Talking It Over,Julian Barnes,http://dbpedia.org/resource/Talking_It_Over,http://dbpedia.org/resource/Julian_Barnes
+1991,Booker,The Famished Road,Ben Okri,http://dbpedia.org/resource/The_Famished_Road,http://dbpedia.org/resource/Ben_Okri
+1991,Pulitzer,The Gold Bug Variations,Richard Powers,http://dbpedia.org/resource/The_Gold_Bug_Variations,http://dbpedia.org/resource/Richard_Powers
+1991,Pulitzer,The Novel,James A. Michener,http://dbpedia.org/resource/The_Novel,http://dbpedia.org/resource/James_A._Michener
+1991,Booker,The Tax Inspector,Peter Carey (novelist),http://dbpedia.org/resource/The_Tax_Inspector,http://dbpedia.org/resource/Peter_Carey_(novelist)
+1991,Booker,The Van (novel),Roddy Doyle,http://dbpedia.org/resource/The_Van_(novel),http://dbpedia.org/resource/Roddy_Doyle
+1992,Booker,A Place of Greater Safety,Hilary Mantel,http://dbpedia.org/resource/A_Place_of_Greater_Safety,http://dbpedia.org/resource/Hilary_Mantel
+1992,Pulitzer,All the Pretty Horses (novel),Cormac McCarthy,http://dbpedia.org/resource/All_the_Pretty_Horses_(novel),http://dbpedia.org/resource/Cormac_McCarthy
+1992,Booker,Black Dogs,Ian McEwan,http://dbpedia.org/resource/Black_Dogs,http://dbpedia.org/resource/Ian_McEwan
+1992,Booker,Ever After (novel),Graham Swift,http://dbpedia.org/resource/Ever_After_(novel),http://dbpedia.org/resource/Graham_Swift
+1992,Pulitzer,Jazz (novel),Toni Morrison,http://dbpedia.org/resource/Jazz_(novel),http://dbpedia.org/resource/Toni_Morrison
+1992,Pulitzer,Memories of the Ford Administration,John Updike,http://dbpedia.org/resource/Memories_of_the_Ford_Administration,http://dbpedia.org/resource/John_Updike
+1992,Pulitzer,Mexico (novel),James A. Michener,http://dbpedia.org/resource/Mexico_(novel),http://dbpedia.org/resource/James_A._Michener
+1992,Booker,Morpho Eugenia,A. S. Byatt,http://dbpedia.org/resource/Morpho_Eugenia,http://dbpedia.org/resource/A._S._Byatt
+1992,Pulitzer,Possessing the Secret of Joy,Alice Walker,http://dbpedia.org/resource/Possessing_the_Secret_of_Joy,http://dbpedia.org/resource/Alice_Walker
+1992,Pulitzer,Postcards (novel),Annie Proulx,http://dbpedia.org/resource/Postcards_(novel),http://dbpedia.org/resource/Annie_Proulx
+1992,Booker,Sacred Hunger,Barry Unsworth,http://dbpedia.org/resource/Sacred_Hunger,http://dbpedia.org/resource/Barry_Unsworth
+1992,Booker,The English Patient,Michael Ondaatje,http://dbpedia.org/resource/The_English_Patient,http://dbpedia.org/resource/Michael_Ondaatje
+1992,Pulitzer,The Evening Star (novel),Larry McMurtry,http://dbpedia.org/resource/The_Evening_Star_(novel),http://dbpedia.org/resource/Larry_McMurtry
+1992,Booker,The Porcupine,Julian Barnes,http://dbpedia.org/resource/The_Porcupine,http://dbpedia.org/resource/Julian_Barnes
+1992,Booker,The Russian Girl,Kingsley Amis,http://dbpedia.org/resource/The_Russian_Girl,http://dbpedia.org/resource/Kingsley_Amis
+1992,Pulitzer,The Secret History,Donna Tartt,http://dbpedia.org/resource/The_Secret_History,http://dbpedia.org/resource/Donna_Tartt
+1992,Booker,Woman of the Inner Sea,Thomas Keneally,http://dbpedia.org/resource/Woman_of_the_Inner_Sea,http://dbpedia.org/resource/Thomas_Keneally
+1993,Booker,Ghosts (Banville novel),John Banville,http://dbpedia.org/resource/Ghosts_(Banville_novel),http://dbpedia.org/resource/John_Banville
+1993,Booker,Jacko (novel),Thomas Keneally,http://dbpedia.org/resource/Jacko_(novel),http://dbpedia.org/resource/Thomas_Keneally
+1993,Pulitzer,Little Kingdoms: Three Novellas,Steven Millhauser,http://dbpedia.org/resource/Little_Kingdoms:_Three_Novellas,http://dbpedia.org/resource/Steven_Millhauser
+1993,Pulitzer,Nobody's Fool (novel),Richard Russo,http://dbpedia.org/resource/Nobody's_Fool_(novel),http://dbpedia.org/resource/Richard_Russo
+1993,Pulitzer,Operation Shylock,Philip Roth,http://dbpedia.org/resource/Operation_Shylock,http://dbpedia.org/resource/Philip_Roth
+1993,Pulitzer,Operation Wandering Soul (novel),Richard Powers,http://dbpedia.org/resource/Operation_Wandering_Soul_(novel),http://dbpedia.org/resource/Richard_Powers
+1993,Booker,Paddy Clarke Ha Ha Ha,Roddy Doyle,http://dbpedia.org/resource/Paddy_Clarke_Ha_Ha_Ha,http://dbpedia.org/resource/Roddy_Doyle
+1993,Booker,Songs of Enchantment,Ben Okri,http://dbpedia.org/resource/Songs_of_Enchantment,http://dbpedia.org/resource/Ben_Okri
+1993,Pulitzer,Streets of Laredo (novel),Larry McMurtry,http://dbpedia.org/resource/Streets_of_Laredo_(novel),http://dbpedia.org/resource/Larry_McMurtry
+1993,Booker,The Eye in the Door,Pat Barker,http://dbpedia.org/resource/The_Eye_in_the_Door,http://dbpedia.org/resource/Pat_Barker
+1993,Booker,The Green Knight (novel),Iris Murdoch,http://dbpedia.org/resource/The_Green_Knight_(novel),http://dbpedia.org/resource/Iris_Murdoch
+1993,Pulitzer,The Hope (novel),Herman Wouk,http://dbpedia.org/resource/The_Hope_(novel),http://dbpedia.org/resource/Herman_Wouk
+1993,Booker,The House of Doctor Dee,Peter Ackroyd,http://dbpedia.org/resource/The_House_of_Doctor_Dee,http://dbpedia.org/resource/Peter_Ackroyd
+1993,Booker,The Robber Bride,Margaret Atwood,http://dbpedia.org/resource/The_Robber_Bride,http://dbpedia.org/resource/Margaret_Atwood
+1993,Pulitzer,The Shipping News,Annie Proulx,http://dbpedia.org/resource/The_Shipping_News,http://dbpedia.org/resource/Annie_Proulx
+1993,Pulitzer,The Stone Diaries,Carol Shields,http://dbpedia.org/resource/The_Stone_Diaries,http://dbpedia.org/resource/Carol_Shields
+1993,Pulitzer,The Virgin Suicides,Jeffrey Eugenides,http://dbpedia.org/resource/The_Virgin_Suicides,http://dbpedia.org/resource/Jeffrey_Eugenides
+1994,Booker,A Change of Climate,Hilary Mantel,http://dbpedia.org/resource/A_Change_of_Climate,http://dbpedia.org/resource/Hilary_Mantel
+1994,Pulitzer,Brazil (novel),John Updike,http://dbpedia.org/resource/Brazil_(novel),http://dbpedia.org/resource/John_Updike
+1994,Booker,Dan Leno and the Limehouse Golem,Peter Ackroyd,http://dbpedia.org/resource/Dan_Leno_and_the_Limehouse_Golem,http://dbpedia.org/resource/Peter_Ackroyd
+1994,Booker,Death of a River Guide,Richard Flanagan,http://dbpedia.org/resource/Death_of_a_River_Guide,http://dbpedia.org/resource/Richard_Flanagan
+1994,Booker,"How Late It Was, How Late",James Kelman,"http://dbpedia.org/resource/How_Late_It_Was,_How_Late",http://dbpedia.org/resource/James_Kelman
+1994,Pulitzer,Pigs in Heaven,Barbara Kingsolver,http://dbpedia.org/resource/Pigs_in_Heaven,http://dbpedia.org/resource/Barbara_Kingsolver
+1994,Pulitzer,Pretty Boy Floyd (novel),Larry McMurtry,http://dbpedia.org/resource/Pretty_Boy_Floyd_(novel),http://dbpedia.org/resource/Larry_McMurtry
+1994,Pulitzer,Recessional (novel),James A. Michener,http://dbpedia.org/resource/Recessional_(novel),http://dbpedia.org/resource/James_A._Michener
+1994,Pulitzer,The Bingo Palace,Louise Erdrich,http://dbpedia.org/resource/The_Bingo_Palace,http://dbpedia.org/resource/Louise_Erdrich
+1994,Pulitzer,The Crossing (McCarthy novel),Cormac McCarthy,http://dbpedia.org/resource/The_Crossing_(McCarthy_novel),http://dbpedia.org/resource/Cormac_McCarthy
+1994,Booker,The Folding Star,Alan Hollinghurst,http://dbpedia.org/resource/The_Folding_Star,http://dbpedia.org/resource/Alan_Hollinghurst
+1994,Pulitzer,The Glory,Herman Wouk,http://dbpedia.org/resource/The_Glory,http://dbpedia.org/resource/Herman_Wouk
+1994,Booker,The Master of Petersburg,J. M. Coetzee,http://dbpedia.org/resource/The_Master_of_Petersburg,http://dbpedia.org/resource/J._M._Coetzee
+1994,Booker,The Unusual Life of Tristan Smith,Peter Carey (novelist),http://dbpedia.org/resource/The_Unusual_Life_of_Tristan_Smith,http://dbpedia.org/resource/Peter_Carey_(novelist)
+1995,Booker,A River Town,Thomas Keneally,http://dbpedia.org/resource/A_River_Town,http://dbpedia.org/resource/Thomas_Keneally
+1995,Pulitzer,A Thing of State,Allen Drury,http://dbpedia.org/resource/A_Thing_of_State,http://dbpedia.org/resource/Allen_Drury
+1995,Booker,An Experiment in Love,Hilary Mantel,http://dbpedia.org/resource/An_Experiment_in_Love,http://dbpedia.org/resource/Hilary_Mantel
+1995,Booker,Astonishing the Gods,Ben Okri,http://dbpedia.org/resource/Astonishing_the_Gods,http://dbpedia.org/resource/Ben_Okri
+1995,Pulitzer,Dead Man's Walk,Larry McMurtry,http://dbpedia.org/resource/Dead_Man's_Walk,http://dbpedia.org/resource/Larry_McMurtry
+1995,Pulitzer,Galatea 2.2,Richard Powers,http://dbpedia.org/resource/Galatea_2.2,http://dbpedia.org/resource/Richard_Powers
+1995,Pulitzer,Independence Day (Ford novel),Richard Ford,http://dbpedia.org/resource/Independence_Day_(Ford_novel),http://dbpedia.org/resource/Richard_Ford
+1995,Booker,Jackson's Dilemma,Iris Murdoch,http://dbpedia.org/resource/Jackson's_Dilemma,http://dbpedia.org/resource/Iris_Murdoch
+1995,Pulitzer,Ladder of Years,Anne Tyler,http://dbpedia.org/resource/Ladder_of_Years,http://dbpedia.org/resource/Anne_Tyler
+1995,Pulitzer,Miracle in Seville,James A. Michener,http://dbpedia.org/resource/Miracle_in_Seville,http://dbpedia.org/resource/James_A._Michener
+1995,Pulitzer,Moo (novel),Jane Smiley,http://dbpedia.org/resource/Moo_(novel),http://dbpedia.org/resource/Jane_Smiley
+1995,Booker,Morality Play (novel),Barry Unsworth,http://dbpedia.org/resource/Morality_Play_(novel),http://dbpedia.org/resource/Barry_Unsworth
+1995,Pulitzer,Sabbath's Theater,Philip Roth,http://dbpedia.org/resource/Sabbath's_Theater,http://dbpedia.org/resource/Philip_Roth
+1995,Booker,The Blue Flower,Penelope Fitzgerald,http://dbpedia.org/resource/The_Blue_Flower,http://dbpedia.org/resource/Penelope_Fitzgerald
+1995,Booker,The Double Tongue,William Golding,http://dbpedia.org/resource/The_Double_Tongue,http://dbpedia.org/resource/William_Golding
+1995,Booker,The Ghost Road,Pat Barker,http://dbpedia.org/resource/The_Ghost_Road,http://dbpedia.org/resource/Pat_Barker
+1995,Pulitzer,The Late Child,Larry McMurtry,http://dbpedia.org/resource/The_Late_Child,http://dbpedia.org/resource/Larry_McMurtry
+1995,Booker,The Moor's Last Sigh,Salman Rushdie,http://dbpedia.org/resource/The_Moor's_Last_Sigh,http://dbpedia.org/resource/Salman_Rushdie
+1995,Booker,The Unconsoled,Kazuo Ishiguro,http://dbpedia.org/resource/The_Unconsoled,http://dbpedia.org/resource/Kazuo_Ishiguro
+1995,Pulitzer,Wonder Boys,Michael Chabon,http://dbpedia.org/resource/Wonder_Boys,http://dbpedia.org/resource/Michael_Chabon
+1996,Pulitzer,Accordion Crimes,Annie Proulx,http://dbpedia.org/resource/Accordion_Crimes,http://dbpedia.org/resource/Annie_Proulx
+1996,Booker,Alias Grace,Margaret Atwood,http://dbpedia.org/resource/Alias_Grace,http://dbpedia.org/resource/Margaret_Atwood
+1996,Booker,Dangerous Love (novel),Ben Okri,http://dbpedia.org/resource/Dangerous_Love_(novel),http://dbpedia.org/resource/Ben_Okri
+1996,Pulitzer,In the Beauty of the Lilies,John Updike,http://dbpedia.org/resource/In_the_Beauty_of_the_Lilies,http://dbpedia.org/resource/John_Updike
+1996,Booker,Last Orders,Graham Swift,http://dbpedia.org/resource/Last_Orders,http://dbpedia.org/resource/Graham_Swift
+1996,Pulitzer,Martin Dressler,Steven Millhauser,http://dbpedia.org/resource/Martin_Dressler,http://dbpedia.org/resource/Steven_Millhauser
+1996,Booker,Self (novel),Yann Martel,http://dbpedia.org/resource/Self_(novel),http://dbpedia.org/resource/Yann_Martel
+1996,Pulitzer,The Gardener's Son (screenplay),Cormac McCarthy,http://dbpedia.org/resource/The_Gardener's_Son_(screenplay),http://dbpedia.org/resource/Cormac_McCarthy
+1996,Booker,The White Boy Shuffle,Paul Beatty,http://dbpedia.org/resource/The_White_Boy_Shuffle,http://dbpedia.org/resource/Paul_Beatty
+1996,Booker,The Woman Who Walked into Doors,Roddy Doyle,http://dbpedia.org/resource/The_Woman_Who_Walked_into_Doors,http://dbpedia.org/resource/Roddy_Doyle
+1997,Pulitzer,American Pastoral,Philip Roth,http://dbpedia.org/resource/American_Pastoral,http://dbpedia.org/resource/Philip_Roth
+1997,Booker,Boyhood: Scenes from Provincial Life,J. M. Coetzee,http://dbpedia.org/resource/Boyhood:_Scenes_from_Provincial_Life,http://dbpedia.org/resource/J._M._Coetzee
+1997,Pulitzer,Comanche Moon,Larry McMurtry,http://dbpedia.org/resource/Comanche_Moon,http://dbpedia.org/resource/Larry_McMurtry
+1997,Booker,Jack Maggs,Peter Carey (novelist),http://dbpedia.org/resource/Jack_Maggs,http://dbpedia.org/resource/Peter_Carey_(novelist)
+1997,Booker,Lara (novel),Bernardine Evaristo,http://dbpedia.org/resource/Lara_(novel),http://dbpedia.org/resource/Bernardine_Evaristo
+1997,Pulitzer,Larry's Party,Carol Shields,http://dbpedia.org/resource/Larry's_Party,http://dbpedia.org/resource/Carol_Shields
+1997,Pulitzer,Paradise (Morrison novel),Toni Morrison,http://dbpedia.org/resource/Paradise_(Morrison_novel),http://dbpedia.org/resource/Toni_Morrison
+1997,Pulitzer,Straight Man,Richard Russo,http://dbpedia.org/resource/Straight_Man,http://dbpedia.org/resource/Richard_Russo
+1997,Pulitzer,The Actual (novel),Saul Bellow,http://dbpedia.org/resource/The_Actual_(novel),http://dbpedia.org/resource/Saul_Bellow
+1997,Booker,The God of Small Things,Arundhati Roy,http://dbpedia.org/resource/The_God_of_Small_Things,http://dbpedia.org/resource/Arundhati_Roy
+1997,Pulitzer,The Gospel According to the Son,Norman Mailer,http://dbpedia.org/resource/The_Gospel_According_to_the_Son,http://dbpedia.org/resource/Norman_Mailer
+1997,Booker,The Sound of One Hand Clapping (novel),Richard Flanagan,http://dbpedia.org/resource/The_Sound_of_One_Hand_Clapping_(novel),http://dbpedia.org/resource/Richard_Flanagan
+1997,Pulitzer,Zeke and Ned,Larry McMurtry,http://dbpedia.org/resource/Zeke_and_Ned,http://dbpedia.org/resource/Larry_McMurtry
+1998,Pulitzer,A Patchwork Planet,Anne Tyler,http://dbpedia.org/resource/A_Patchwork_Planet,http://dbpedia.org/resource/Anne_Tyler
+1998,Booker,Amsterdam (novel),Ian McEwan,http://dbpedia.org/resource/Amsterdam_(novel),http://dbpedia.org/resource/Ian_McEwan
+1998,Pulitzer,Amy and Isabelle,Elizabeth Strout,http://dbpedia.org/resource/Amy_and_Isabelle,http://dbpedia.org/resource/Elizabeth_Strout
+1998,Booker,Another World (novel),Pat Barker,http://dbpedia.org/resource/Another_World_(novel),http://dbpedia.org/resource/Pat_Barker
+1998,Pulitzer,Cities of the Plain (novel),Cormac McCarthy,http://dbpedia.org/resource/Cities_of_the_Plain_(novel),http://dbpedia.org/resource/Cormac_McCarthy
+1998,Booker,"England, England",Julian Barnes,"http://dbpedia.org/resource/England,_England",http://dbpedia.org/resource/Julian_Barnes
+1998,Pulitzer,Gain (novel),Richard Powers,http://dbpedia.org/resource/Gain_(novel),http://dbpedia.org/resource/Richard_Powers
+1998,Booker,Hullabaloo in the Guava Orchard,Kiran Desai,http://dbpedia.org/resource/Hullabaloo_in_the_Guava_Orchard,http://dbpedia.org/resource/Kiran_Desai
+1998,Pulitzer,I Married a Communist,Philip Roth,http://dbpedia.org/resource/I_Married_a_Communist,http://dbpedia.org/resource/Philip_Roth
+1998,Booker,Infinite Riches,Ben Okri,http://dbpedia.org/resource/Infinite_Riches,http://dbpedia.org/resource/Ben_Okri
+1998,Booker,"The Giant, O'Brien",Hilary Mantel,"http://dbpedia.org/resource/The_Giant,_O'Brien",http://dbpedia.org/resource/Hilary_Mantel
+1998,Pulitzer,The Hours (novel),Michael Cunningham,http://dbpedia.org/resource/The_Hours_(novel),http://dbpedia.org/resource/Michael_Cunningham
+1998,Booker,The House Gun,Nadine Gordimer,http://dbpedia.org/resource/The_House_Gun,http://dbpedia.org/resource/Nadine_Gordimer
+1998,Pulitzer,The Poisonwood Bible,Barbara Kingsolver,http://dbpedia.org/resource/The_Poisonwood_Bible,http://dbpedia.org/resource/Barbara_Kingsolver
+1998,Booker,The Spell (novel),Alan Hollinghurst,http://dbpedia.org/resource/The_Spell_(novel),http://dbpedia.org/resource/Alan_Hollinghurst
+1998,Pulitzer,The Time of Our Time,Norman Mailer,http://dbpedia.org/resource/The_Time_of_Our_Time,http://dbpedia.org/resource/Norman_Mailer
+1999,Booker,A Star Called Henry,Roddy Doyle,http://dbpedia.org/resource/A_Star_Called_Henry,http://dbpedia.org/resource/Roddy_Doyle
+1999,Pulitzer,Crazy Horse: A Life,Larry McMurtry,http://dbpedia.org/resource/Crazy_Horse:_A_Life,http://dbpedia.org/resource/Larry_McMurtry
+1999,Booker,Disgrace,J. M. Coetzee,http://dbpedia.org/resource/Disgrace,http://dbpedia.org/resource/J._M._Coetzee
+1999,Pulitzer,Duane's Depressed,Larry McMurtry,http://dbpedia.org/resource/Duane's_Depressed,http://dbpedia.org/resource/Larry_McMurtry
+1999,Booker,Losing Nelson,Barry Unsworth,http://dbpedia.org/resource/Losing_Nelson,http://dbpedia.org/resource/Barry_Unsworth
+1999,Booker,Something Special (short story),Iris Murdoch,http://dbpedia.org/resource/Something_Special_(short_story),http://dbpedia.org/resource/Iris_Murdoch
+1999,Pulitzer,The Birchbark House,Louise Erdrich,http://dbpedia.org/resource/The_Birchbark_House,http://dbpedia.org/resource/Louise_Erdrich
+1999,Booker,The Ground Beneath Her Feet,Salman Rushdie,http://dbpedia.org/resource/The_Ground_Beneath_Her_Feet,http://dbpedia.org/resource/Salman_Rushdie
+1999,Pulitzer,The Intuitionist,Colson Whitehead,http://dbpedia.org/resource/The_Intuitionist,http://dbpedia.org/resource/Colson_Whitehead
+1999,Booker,The Lives of Animals,J. M. Coetzee,http://dbpedia.org/resource/The_Lives_of_Animals,http://dbpedia.org/resource/J._M._Coetzee
+1999,Pulitzer,Walter Benjamin at the Dairy Queen: Reflections on Sixty and Beyond,Larry McMurtry,http://dbpedia.org/resource/Walter_Benjamin_at_the_Dairy_Queen:_Reflections_on_Sixty_and_Beyond,http://dbpedia.org/resource/Larry_McMurtry
+2000,Booker,Anil's Ghost,Michael Ondaatje,http://dbpedia.org/resource/Anil's_Ghost,http://dbpedia.org/resource/Michael_Ondaatje
+2000,Booker,Bettany's Book,Thomas Keneally,http://dbpedia.org/resource/Bettany's_Book,http://dbpedia.org/resource/Thomas_Keneally
+2000,Pulitzer,Boone's Lick (novel),Larry McMurtry,http://dbpedia.org/resource/Boone's_Lick_(novel),http://dbpedia.org/resource/Larry_McMurtry
+2000,Booker,Eclipse (Banville novel),John Banville,http://dbpedia.org/resource/Eclipse_(Banville_novel),http://dbpedia.org/resource/John_Banville
+2000,Pulitzer,Gertrude and Claudius,John Updike,http://dbpedia.org/resource/Gertrude_and_Claudius,http://dbpedia.org/resource/John_Updike
+2000,Pulitzer,Horse Heaven (novel),Jane Smiley,http://dbpedia.org/resource/Horse_Heaven_(novel),http://dbpedia.org/resource/Jane_Smiley
+2000,Booker,"Love, Etc (novel)",Julian Barnes,"http://dbpedia.org/resource/Love,_Etc_(novel)",http://dbpedia.org/resource/Julian_Barnes
+2000,Pulitzer,Plowing the Dark,Richard Powers,http://dbpedia.org/resource/Plowing_the_Dark,http://dbpedia.org/resource/Richard_Powers
+2000,Pulitzer,Prodigal Summer,Barbara Kingsolver,http://dbpedia.org/resource/Prodigal_Summer,http://dbpedia.org/resource/Barbara_Kingsolver
+2000,Pulitzer,Ravelstein,Saul Bellow,http://dbpedia.org/resource/Ravelstein,http://dbpedia.org/resource/Saul_Bellow
+2000,Pulitzer,Roads: Driving America's Great Highways,Larry McMurtry,http://dbpedia.org/resource/Roads:_Driving_America's_Great_Highways,http://dbpedia.org/resource/Larry_McMurtry
+2000,Pulitzer,The Amazing Adventures of Kavalier & Clay,Michael Chabon,http://dbpedia.org/resource/The_Amazing_Adventures_of_Kavalier_&_Clay,http://dbpedia.org/resource/Michael_Chabon
+2000,Booker,The Blind Assassin,Margaret Atwood,http://dbpedia.org/resource/The_Blind_Assassin,http://dbpedia.org/resource/Margaret_Atwood
+2000,Pulitzer,The Human Stain,Philip Roth,http://dbpedia.org/resource/The_Human_Stain,http://dbpedia.org/resource/Philip_Roth
+2000,Booker,The Very Persistent Gappers of Frip,George Saunders,http://dbpedia.org/resource/The_Very_Persistent_Gappers_of_Frip,http://dbpedia.org/resource/George_Saunders
+2000,Booker,True History of the Kelly Gang,Peter Carey (novelist),http://dbpedia.org/resource/True_History_of_the_Kelly_Gang,http://dbpedia.org/resource/Peter_Carey_(novelist)
+2000,Booker,When We Were Orphans,Kazuo Ishiguro,http://dbpedia.org/resource/When_We_Were_Orphans,http://dbpedia.org/resource/Kazuo_Ishiguro
+2001,Booker,Atonement (novel),Ian McEwan,http://dbpedia.org/resource/Atonement_(novel),http://dbpedia.org/resource/Ian_McEwan
+2001,Pulitzer,Back When We Were Grownups,Anne Tyler,http://dbpedia.org/resource/Back_When_We_Were_Grownups,http://dbpedia.org/resource/Anne_Tyler
+2001,Booker,Border Crossing (novel),Pat Barker,http://dbpedia.org/resource/Border_Crossing_(novel),http://dbpedia.org/resource/Pat_Barker
+2001,Pulitzer,Empire Falls,Richard Russo,http://dbpedia.org/resource/Empire_Falls,http://dbpedia.org/resource/Richard_Russo
+2001,Pulitzer,Erasure (novel),Percival Everett,http://dbpedia.org/resource/Erasure_(novel),http://dbpedia.org/resource/Percival_Everett
+2001,Booker,Fury (Rushdie novel),Salman Rushdie,http://dbpedia.org/resource/Fury_(Rushdie_novel),http://dbpedia.org/resource/Salman_Rushdie
+2001,Booker,Gould's Book of Fish,Richard Flanagan,http://dbpedia.org/resource/Gould's_Book_of_Fish,http://dbpedia.org/resource/Richard_Flanagan
+2001,Booker,Half a Life (novel),V. S. Naipaul,http://dbpedia.org/resource/Half_a_Life_(novel),http://dbpedia.org/resource/V._S._Naipaul
+2001,Pulitzer,John Henry Days,Colson Whitehead,http://dbpedia.org/resource/John_Henry_Days,http://dbpedia.org/resource/Colson_Whitehead
+2001,Booker,Life of Pi,Yann Martel,http://dbpedia.org/resource/Life_of_Pi,http://dbpedia.org/resource/Yann_Martel
+2001,Pulitzer,Look at Me (novel),Jennifer Egan,http://dbpedia.org/resource/Look_at_Me_(novel),http://dbpedia.org/resource/Jennifer_Egan
+2001,Booker,No Bones,Anna Burns,http://dbpedia.org/resource/No_Bones,http://dbpedia.org/resource/Anna_Burns
+2001,Booker,The Biographer's Tale,A. S. Byatt,http://dbpedia.org/resource/The_Biographer's_Tale,http://dbpedia.org/resource/A._S._Byatt
+2001,Pulitzer,The Dying Animal,Philip Roth,http://dbpedia.org/resource/The_Dying_Animal,http://dbpedia.org/resource/Philip_Roth
+2001,Booker,The Emperor's Babe,Bernardine Evaristo,http://dbpedia.org/resource/The_Emperor's_Babe,http://dbpedia.org/resource/Bernardine_Evaristo
+2001,Pulitzer,The Last Report on the Miracles at Little No Horse,Louise Erdrich,http://dbpedia.org/resource/The_Last_Report_on_the_Miracles_at_Little_No_Horse,http://dbpedia.org/resource/Louise_Erdrich
+2001,Booker,The Pickup,Nadine Gordimer,http://dbpedia.org/resource/The_Pickup,http://dbpedia.org/resource/Nadine_Gordimer
+2001,Booker,Translated Accounts,James Kelman,http://dbpedia.org/resource/Translated_Accounts,http://dbpedia.org/resource/James_Kelman
+2001,Pulitzer,Year of Wonders,Geraldine Brooks (writer),http://dbpedia.org/resource/Year_of_Wonders,http://dbpedia.org/resource/Geraldine_Brooks_(writer)
+2002,Booker,A Whistling Woman,A. S. Byatt,http://dbpedia.org/resource/A_Whistling_Woman,http://dbpedia.org/resource/A._S._Byatt
+2002,Booker,An Angel in Australia,Thomas Keneally,http://dbpedia.org/resource/An_Angel_in_Australia,http://dbpedia.org/resource/Thomas_Keneally
+2002,Booker,As It Happened (novel),David Storey,http://dbpedia.org/resource/As_It_Happened_(novel),http://dbpedia.org/resource/David_Storey
+2002,Booker,In Arcadia,Ben Okri,http://dbpedia.org/resource/In_Arcadia,http://dbpedia.org/resource/Ben_Okri
+2002,Pulitzer,Middlesex (novel),Jeffrey Eugenides,http://dbpedia.org/resource/Middlesex_(novel),http://dbpedia.org/resource/Jeffrey_Eugenides
+2002,Pulitzer,Roscoe (novel),William Kennedy (author),http://dbpedia.org/resource/Roscoe_(novel),http://dbpedia.org/resource/William_Kennedy_(author)
+2002,Booker,Shroud (novel),John Banville,http://dbpedia.org/resource/Shroud_(novel),http://dbpedia.org/resource/John_Banville
+2002,Pulitzer,Sin Killer,Larry McMurtry,http://dbpedia.org/resource/Sin_Killer,http://dbpedia.org/resource/Larry_McMurtry
+2002,Pulitzer,Summerland (novel),Michael Chabon,http://dbpedia.org/resource/Summerland_(novel),http://dbpedia.org/resource/Michael_Chabon
+2002,Pulitzer,That Old Ace in the Hole,Annie Proulx,http://dbpedia.org/resource/That_Old_Ace_in_the_Hole,http://dbpedia.org/resource/Annie_Proulx
+2002,Pulitzer,The Little Friend,Donna Tartt,http://dbpedia.org/resource/The_Little_Friend,http://dbpedia.org/resource/Donna_Tartt
+2002,Booker,The Songs of the Kings,Barry Unsworth,http://dbpedia.org/resource/The_Songs_of_the_Kings,http://dbpedia.org/resource/Barry_Unsworth
+2002,Pulitzer,Unless,Carol Shields,http://dbpedia.org/resource/Unless,http://dbpedia.org/resource/Carol_Shields
+2002,Booker,Youth: Scenes from Provincial Life II,J. M. Coetzee,http://dbpedia.org/resource/Youth:_Scenes_from_Provincial_Life_II,http://dbpedia.org/resource/J._M._Coetzee
+2003,Pulitzer,By Sorrow's River,Larry McMurtry,http://dbpedia.org/resource/By_Sorrow's_River,http://dbpedia.org/resource/Larry_McMurtry
+2003,Booker,Double Vision (novel),Pat Barker,http://dbpedia.org/resource/Double_Vision_(novel),http://dbpedia.org/resource/Pat_Barker
+2003,Booker,Elizabeth Costello,J. M. Coetzee,http://dbpedia.org/resource/Elizabeth_Costello,http://dbpedia.org/resource/J._M._Coetzee
+2003,Pulitzer,Love (Morrison novel),Toni Morrison,http://dbpedia.org/resource/Love_(Morrison_novel),http://dbpedia.org/resource/Toni_Morrison
+2003,Booker,My Life as a Fake,Peter Carey (novelist),http://dbpedia.org/resource/My_Life_as_a_Fake,http://dbpedia.org/resource/Peter_Carey_(novelist)
+2003,Booker,Oryx and Crake,Margaret Atwood,http://dbpedia.org/resource/Oryx_and_Crake,http://dbpedia.org/resource/Margaret_Atwood
+2003,Pulitzer,Parasites Like Us,Adam Johnson (writer),http://dbpedia.org/resource/Parasites_Like_Us,http://dbpedia.org/resource/Adam_Johnson_(writer)
+2003,Pulitzer,Seek My Face,John Updike,http://dbpedia.org/resource/Seek_My_Face,http://dbpedia.org/resource/John_Updike
+2003,Booker,The Clerkenwell Tales,Peter Ackroyd,http://dbpedia.org/resource/The_Clerkenwell_Tales,http://dbpedia.org/resource/Peter_Ackroyd
+2003,Booker,The Good Doctor (novel),Damon Galgut,http://dbpedia.org/resource/The_Good_Doctor_(novel),http://dbpedia.org/resource/Damon_Galgut
+2003,Pulitzer,The Known World,Edward P. Jones,http://dbpedia.org/resource/The_Known_World,http://dbpedia.org/resource/Edward_P._Jones
+2003,Booker,The Light of Day (Graham Swift novel),Graham Swift,http://dbpedia.org/resource/The_Light_of_Day_(Graham_Swift_novel),http://dbpedia.org/resource/Graham_Swift
+2003,Pulitzer,The Master Butchers Singing Club,Louise Erdrich,http://dbpedia.org/resource/The_Master_Butchers_Singing_Club,http://dbpedia.org/resource/Louise_Erdrich
+2003,Pulitzer,The Namesake (novel),Jhumpa Lahiri,http://dbpedia.org/resource/The_Namesake_(novel),http://dbpedia.org/resource/Jhumpa_Lahiri
+2003,Booker,The Photograph (novel),Penelope Lively,http://dbpedia.org/resource/The_Photograph_(novel),http://dbpedia.org/resource/Penelope_Lively
+2003,Pulitzer,The Time of Our Singing,Richard Powers,http://dbpedia.org/resource/The_Time_of_Our_Singing,http://dbpedia.org/resource/Richard_Powers
+2003,Booker,The Tyrant's Novel,Thomas Keneally,http://dbpedia.org/resource/The_Tyrant's_Novel,http://dbpedia.org/resource/Thomas_Keneally
+2003,Pulitzer,The Wandering Hill,Larry McMurtry,http://dbpedia.org/resource/The_Wandering_Hill,http://dbpedia.org/resource/Larry_McMurtry
+2003,Booker,Vernon God Little,DBC Pierre,http://dbpedia.org/resource/Vernon_God_Little,http://dbpedia.org/resource/DBC_Pierre
+2004,Pulitzer,A Hole in Texas,Herman Wouk,http://dbpedia.org/resource/A_Hole_in_Texas,http://dbpedia.org/resource/Herman_Wouk
+2004,Pulitzer,Folly and Glory,Larry McMurtry,http://dbpedia.org/resource/Folly_and_Glory,http://dbpedia.org/resource/Larry_McMurtry
+2004,Pulitzer,Four Souls (novel),Louise Erdrich,http://dbpedia.org/resource/Four_Souls_(novel),http://dbpedia.org/resource/Louise_Erdrich
+2004,Pulitzer,Gilead (novel),Marilynne Robinson,http://dbpedia.org/resource/Gilead_(novel),http://dbpedia.org/resource/Marilynne_Robinson
+2004,Booker,"Oh, Play That Thing",Roddy Doyle,"http://dbpedia.org/resource/Oh,_Play_That_Thing",http://dbpedia.org/resource/Roddy_Doyle
+2004,Pulitzer,The Amateur Marriage,Anne Tyler,http://dbpedia.org/resource/The_Amateur_Marriage,http://dbpedia.org/resource/Anne_Tyler
+2004,Pulitzer,The Final Solution (novel),Michael Chabon,http://dbpedia.org/resource/The_Final_Solution_(novel),http://dbpedia.org/resource/Michael_Chabon
+2004,Booker,The Line of Beauty,Alan Hollinghurst,http://dbpedia.org/resource/The_Line_of_Beauty,http://dbpedia.org/resource/Alan_Hollinghurst
+2004,Pulitzer,The Plot Against America,Philip Roth,http://dbpedia.org/resource/The_Plot_Against_America,http://dbpedia.org/resource/Philip_Roth
+2004,Booker,You Have to Be Careful in the Land of the Free,James Kelman,http://dbpedia.org/resource/You_Have_to_Be_Careful_in_the_Land_of_the_Free,http://dbpedia.org/resource/James_Kelman
+2005,Booker,Arthur & George,Julian Barnes,http://dbpedia.org/resource/Arthur_&_George,http://dbpedia.org/resource/Julian_Barnes
+2005,Booker,Beyond Black,Hilary Mantel,http://dbpedia.org/resource/Beyond_Black,http://dbpedia.org/resource/Hilary_Mantel
+2005,Booker,Get a Life (novel),Nadine Gordimer,http://dbpedia.org/resource/Get_a_Life_(novel),http://dbpedia.org/resource/Nadine_Gordimer
+2005,Booker,John Crow's Devil,Marlon James (novelist),http://dbpedia.org/resource/John_Crow's_Devil,http://dbpedia.org/resource/Marlon_James_(novelist)
+2005,Pulitzer,Loop Group,Larry McMurtry,http://dbpedia.org/resource/Loop_Group,http://dbpedia.org/resource/Larry_McMurtry
+2005,Pulitzer,March (novel),Geraldine Brooks (writer),http://dbpedia.org/resource/March_(novel),http://dbpedia.org/resource/Geraldine_Brooks_(writer)
+2005,Booker,Never Let Me Go (novel),Kazuo Ishiguro,http://dbpedia.org/resource/Never_Let_Me_Go_(novel),http://dbpedia.org/resource/Kazuo_Ishiguro
+2005,Pulitzer,No Country for Old Men (novel),Cormac McCarthy,http://dbpedia.org/resource/No_Country_for_Old_Men_(novel),http://dbpedia.org/resource/Cormac_McCarthy
+2005,Booker,Saturday (novel),Ian McEwan,http://dbpedia.org/resource/Saturday_(novel),http://dbpedia.org/resource/Ian_McEwan
+2005,Booker,Shalimar the Clown,Salman Rushdie,http://dbpedia.org/resource/Shalimar_the_Clown,http://dbpedia.org/resource/Salman_Rushdie
+2005,Booker,Slow Man,J. M. Coetzee,http://dbpedia.org/resource/Slow_Man,http://dbpedia.org/resource/J._M._Coetzee
+2005,Booker,Soul Tourists,Bernardine Evaristo,http://dbpedia.org/resource/Soul_Tourists,http://dbpedia.org/resource/Bernardine_Evaristo
+2005,Pulitzer,Specimen Days,Michael Cunningham,http://dbpedia.org/resource/Specimen_Days,http://dbpedia.org/resource/Michael_Cunningham
+2005,Booker,The Brief and Frightening Reign of Phil,George Saunders,http://dbpedia.org/resource/The_Brief_and_Frightening_Reign_of_Phil,http://dbpedia.org/resource/George_Saunders
+2005,Pulitzer,The Game of Silence,Louise Erdrich,http://dbpedia.org/resource/The_Game_of_Silence,http://dbpedia.org/resource/Louise_Erdrich
+2005,Booker,The Penelopiad,Margaret Atwood,http://dbpedia.org/resource/The_Penelopiad,http://dbpedia.org/resource/Margaret_Atwood
+2005,Booker,The Sea (novel),John Banville,http://dbpedia.org/resource/The_Sea_(novel),http://dbpedia.org/resource/John_Banville
+2006,Pulitzer,Abide with Me (novel),Elizabeth Strout,http://dbpedia.org/resource/Abide_with_Me_(novel),http://dbpedia.org/resource/Elizabeth_Strout
+2006,Pulitzer,Apex Hides the Hurt,Colson Whitehead,http://dbpedia.org/resource/Apex_Hides_the_Hurt,http://dbpedia.org/resource/Colson_Whitehead
+2006,Pulitzer,Digging to America,Anne Tyler,http://dbpedia.org/resource/Digging_to_America,http://dbpedia.org/resource/Anne_Tyler
+2006,Pulitzer,Everyman (novel),Philip Roth,http://dbpedia.org/resource/Everyman_(novel),http://dbpedia.org/resource/Philip_Roth
+2006,Booker,Ludmila's Broken English,DBC Pierre,http://dbpedia.org/resource/Ludmila's_Broken_English,http://dbpedia.org/resource/DBC_Pierre
+2006,Pulitzer,Oh What a Slaughter! : Massacres in the American West: 1846–1890,Larry McMurtry,http://dbpedia.org/resource/Oh_What_a_Slaughter!_:_Massacres_in_the_American_West:_1846–1890,http://dbpedia.org/resource/Larry_McMurtry
+2006,Pulitzer,Oh What a Slaughter: Massacres in the American West: 1846–1890,Larry McMurtry,http://dbpedia.org/resource/Oh_What_a_Slaughter!_:_Massacres_in_the_American_West:_1846–1890,http://dbpedia.org/resource/Larry_McMurtry
+2006,Booker,Paula Spencer (novel),Roddy Doyle,http://dbpedia.org/resource/Paula_Spencer_(novel),http://dbpedia.org/resource/Roddy_Doyle
+2006,Pulitzer,Telegraph Days,Larry McMurtry,http://dbpedia.org/resource/Telegraph_Days,http://dbpedia.org/resource/Larry_McMurtry
+2006,Pulitzer,Terrorist (novel),John Updike,http://dbpedia.org/resource/Terrorist_(novel),http://dbpedia.org/resource/John_Updike
+2006,Pulitzer,The Echo Maker,Richard Powers,http://dbpedia.org/resource/The_Echo_Maker,http://dbpedia.org/resource/Richard_Powers
+2006,Booker,The Inheritance of Loss,Kiran Desai,http://dbpedia.org/resource/The_Inheritance_of_Loss,http://dbpedia.org/resource/Kiran_Desai
+2006,Pulitzer,The Keep (Egan novel),Jennifer Egan,http://dbpedia.org/resource/The_Keep_(Egan_novel),http://dbpedia.org/resource/Jennifer_Egan
+2006,Pulitzer,The Lay of the Land,Richard Ford,http://dbpedia.org/resource/The_Lay_of_the_Land,http://dbpedia.org/resource/Richard_Ford
+2006,Booker,The Ruby in Her Navel,Barry Unsworth,http://dbpedia.org/resource/The_Ruby_in_Her_Navel,http://dbpedia.org/resource/Barry_Unsworth
+2006,Booker,The Unknown Terrorist,Richard Flanagan,http://dbpedia.org/resource/The_Unknown_Terrorist,http://dbpedia.org/resource/Richard_Flanagan
+2006,Booker,Theft: A Love Story,Peter Carey (novelist),http://dbpedia.org/resource/Theft:_A_Love_Story,http://dbpedia.org/resource/Peter_Carey_(novelist)
+2007,Pulitzer,A Death in the Family,James Agee,http://dbpedia.org/resource/A_Death_in_the_Family,http://dbpedia.org/resource/James_Agee
+2007,Pulitzer,Bridge of Sighs (novel),Richard Russo,http://dbpedia.org/resource/Bridge_of_Sighs_(novel),http://dbpedia.org/resource/Richard_Russo
+2007,Booker,Click (novel),Roddy Doyle,http://dbpedia.org/resource/Click_(novel),http://dbpedia.org/resource/Roddy_Doyle
+2007,Booker,Diary of a Bad Year,J. M. Coetzee,http://dbpedia.org/resource/Diary_of_a_Bad_Year,http://dbpedia.org/resource/J._M._Coetzee
+2007,Booker,Divisadero (novel),Michael Ondaatje,http://dbpedia.org/resource/Divisadero_(novel),http://dbpedia.org/resource/Michael_Ondaatje
+2007,Pulitzer,Exit Ghost,Philip Roth,http://dbpedia.org/resource/Exit_Ghost,http://dbpedia.org/resource/Philip_Roth
+2007,Pulitzer,Gentlemen of the Road,Michael Chabon,http://dbpedia.org/resource/Gentlemen_of_the_Road,http://dbpedia.org/resource/Michael_Chabon
+2007,Booker,Life Class,Pat Barker,http://dbpedia.org/resource/Life_Class,http://dbpedia.org/resource/Pat_Barker
+2007,Pulitzer,Matecumbe (novel),James A. Michener,http://dbpedia.org/resource/Matecumbe_(novel),http://dbpedia.org/resource/James_A._Michener
+2007,Booker,On Chesil Beach,Ian McEwan,http://dbpedia.org/resource/On_Chesil_Beach,http://dbpedia.org/resource/Ian_McEwan
+2007,Booker,Starbook,Ben Okri,http://dbpedia.org/resource/Starbook,http://dbpedia.org/resource/Ben_Okri
+2007,Pulitzer,The Brief Wondrous Life of Oscar Wao,Junot Díaz,http://dbpedia.org/resource/The_Brief_Wondrous_Life_of_Oscar_Wao,http://dbpedia.org/resource/Junot_Díaz
+2007,Pulitzer,The Castle in the Forest,Norman Mailer,http://dbpedia.org/resource/The_Castle_in_the_Forest,http://dbpedia.org/resource/Norman_Mailer
+2007,Booker,The Door (poetry collection),Margaret Atwood,http://dbpedia.org/resource/The_Door_(poetry_collection),http://dbpedia.org/resource/Margaret_Atwood
+2007,Booker,The Gathering (Enright novel),Anne Enright,http://dbpedia.org/resource/The_Gathering_(Enright_novel),http://dbpedia.org/resource/Anne_Enright
+2007,Booker,The Widow and Her Hero,Thomas Keneally,http://dbpedia.org/resource/The_Widow_and_Her_Hero,http://dbpedia.org/resource/Thomas_Keneally
+2007,Pulitzer,The Yiddish Policemen's Union,Michael Chabon,http://dbpedia.org/resource/The_Yiddish_Policemen's_Union,http://dbpedia.org/resource/Michael_Chabon
+2007,Booker,Tomorrow (novel),Graham Swift,http://dbpedia.org/resource/Tomorrow_(novel),http://dbpedia.org/resource/Graham_Swift
+2007,Pulitzer,When the Light Goes,Larry McMurtry,http://dbpedia.org/resource/When_the_Light_Goes,http://dbpedia.org/resource/Larry_McMurtry
+2008,Pulitzer,A Mercy,Toni Morrison,http://dbpedia.org/resource/A_Mercy,http://dbpedia.org/resource/Toni_Morrison
+2008,Pulitzer,Books: A Memoir,Larry McMurtry,http://dbpedia.org/resource/Books:_A_Memoir,http://dbpedia.org/resource/Larry_McMurtry
+2008,Booker,His Illegal Self,Peter Carey (novelist),http://dbpedia.org/resource/His_Illegal_Self,http://dbpedia.org/resource/Peter_Carey_(novelist)
+2008,Pulitzer,Home (Robinson novel),Marilynne Robinson,http://dbpedia.org/resource/Home_(Robinson_novel),http://dbpedia.org/resource/Marilynne_Robinson
+2008,Pulitzer,Indignation (novel),Philip Roth,http://dbpedia.org/resource/Indignation_(novel),http://dbpedia.org/resource/Philip_Roth
+2008,Booker,"Kieron Smith, Boy",James Kelman,"http://dbpedia.org/resource/Kieron_Smith,_Boy",http://dbpedia.org/resource/James_Kelman
+2008,Pulitzer,People of the Book (novel),Geraldine Brooks (writer),http://dbpedia.org/resource/People_of_the_Book_(novel),http://dbpedia.org/resource/Geraldine_Brooks_(writer)
+2008,Booker,The Enchantress of Florence,Salman Rushdie,http://dbpedia.org/resource/The_Enchantress_of_Florence,http://dbpedia.org/resource/Salman_Rushdie
+2008,Pulitzer,The Plague of Doves,Louise Erdrich,http://dbpedia.org/resource/The_Plague_of_Doves,http://dbpedia.org/resource/Louise_Erdrich
+2008,Pulitzer,The Porcupine Year,Louise Erdrich,http://dbpedia.org/resource/The_Porcupine_Year,http://dbpedia.org/resource/Louise_Erdrich
+2008,Booker,The Rehearsal (novel),Eleanor Catton,http://dbpedia.org/resource/The_Rehearsal_(novel),http://dbpedia.org/resource/Eleanor_Catton
+2008,Booker,The White Tiger (Adiga novel),Aravind Adiga,http://dbpedia.org/resource/The_White_Tiger_(Adiga_novel),http://dbpedia.org/resource/Aravind_Adiga
+2008,Pulitzer,The Widows of Eastwick,John Updike,http://dbpedia.org/resource/The_Widows_of_Eastwick,http://dbpedia.org/resource/John_Updike
+2008,Booker,The Wilderness (Harvey novel),Samantha Harvey,http://dbpedia.org/resource/The_Wilderness_(Harvey_novel),http://dbpedia.org/resource/Samantha_Harvey
+2008,Booker,Wanting (novel),Richard Flanagan,http://dbpedia.org/resource/Wanting_(novel),http://dbpedia.org/resource/Richard_Flanagan
+2009,Booker,Blonde Roots,Bernardine Evaristo,http://dbpedia.org/resource/Blonde_Roots,http://dbpedia.org/resource/Bernardine_Evaristo
+2009,Pulitzer,Generosity: An Enhancement,Richard Powers,http://dbpedia.org/resource/Generosity:_An_Enhancement,http://dbpedia.org/resource/Richard_Powers
+2009,Pulitzer,I Am Not Sidney Poitier,Percival Everett,http://dbpedia.org/resource/I_Am_Not_Sidney_Poitier,http://dbpedia.org/resource/Percival_Everett
+2009,Booker,Land of Marvels,Barry Unsworth,http://dbpedia.org/resource/Land_of_Marvels,http://dbpedia.org/resource/Barry_Unsworth
+2009,Pulitzer,Literary Life: A Second Memoir,Larry McMurtry,http://dbpedia.org/resource/Literary_Life:_A_Second_Memoir,http://dbpedia.org/resource/Larry_McMurtry
+2009,Pulitzer,Noah's Compass,Anne Tyler,http://dbpedia.org/resource/Noah's_Compass,http://dbpedia.org/resource/Anne_Tyler
+2009,Booker,Parrot and Olivier in America,Peter Carey (novelist),http://dbpedia.org/resource/Parrot_and_Olivier_in_America,http://dbpedia.org/resource/Peter_Carey_(novelist)
+2009,Pulitzer,Rhino Ranch: A Novel,Larry McMurtry,http://dbpedia.org/resource/Rhino_Ranch:_A_Novel,http://dbpedia.org/resource/Larry_McMurtry
+2009,Pulitzer,Sag Harbor (novel),Colson Whitehead,http://dbpedia.org/resource/Sag_Harbor_(novel),http://dbpedia.org/resource/Colson_Whitehead
+2009,Booker,Summertime (novel),J. M. Coetzee,http://dbpedia.org/resource/Summertime_(novel),http://dbpedia.org/resource/J._M._Coetzee
+2009,Pulitzer,That Old Cape Magic,Richard Russo,http://dbpedia.org/resource/That_Old_Cape_Magic,http://dbpedia.org/resource/Richard_Russo
+2009,Booker,The Book of Night Women,Marlon James (novelist),http://dbpedia.org/resource/The_Book_of_Night_Women,http://dbpedia.org/resource/Marlon_James_(novelist)
+2009,Booker,The Children's Book,A. S. Byatt,http://dbpedia.org/resource/The_Children's_Book,http://dbpedia.org/resource/A._S._Byatt
+2009,Pulitzer,The Humbling,Philip Roth,http://dbpedia.org/resource/The_Humbling,http://dbpedia.org/resource/Philip_Roth
+2009,Booker,The Infinities,John Banville,http://dbpedia.org/resource/The_Infinities,http://dbpedia.org/resource/John_Banville
+2009,Pulitzer,The Lacuna,Barbara Kingsolver,http://dbpedia.org/resource/The_Lacuna,http://dbpedia.org/resource/Barbara_Kingsolver
+2009,Booker,The People's Train,Thomas Keneally,http://dbpedia.org/resource/The_People's_Train,http://dbpedia.org/resource/Thomas_Keneally
+2009,Booker,The Year of the Flood,Margaret Atwood,http://dbpedia.org/resource/The_Year_of_the_Flood,http://dbpedia.org/resource/Margaret_Atwood
+2009,Pulitzer,Tinkers (novel),Paul Harding (author),http://dbpedia.org/resource/Tinkers_(novel),http://dbpedia.org/resource/Paul_Harding_(author)
+2009,Booker,Wolf Hall,Hilary Mantel,http://dbpedia.org/resource/Wolf_Hall,http://dbpedia.org/resource/Hilary_Mantel
+2010,Pulitzer,A Visit from the Goon Squad,Jennifer Egan,http://dbpedia.org/resource/A_Visit_from_the_Goon_Squad,http://dbpedia.org/resource/Jennifer_Egan
+2010,Booker,Beatrice and Virgil,Yann Martel,http://dbpedia.org/resource/Beatrice_and_Virgil,http://dbpedia.org/resource/Yann_Martel
+2010,Pulitzer,By Nightfall,Michael Cunningham,http://dbpedia.org/resource/By_Nightfall,http://dbpedia.org/resource/Michael_Cunningham
+2010,Booker,Chinaman: The Legend of Pradeep Mathew,Shehan Karunatilaka,http://dbpedia.org/resource/Chinaman:_The_Legend_of_Pradeep_Mathew,http://dbpedia.org/resource/Shehan_Karunatilaka
+2010,Booker,Hello Mum,Bernardine Evaristo,http://dbpedia.org/resource/Hello_Mum,http://dbpedia.org/resource/Bernardine_Evaristo
+2010,Pulitzer,Hollywood: A Third Memoir,Larry McMurtry,http://dbpedia.org/resource/Hollywood:_A_Third_Memoir,http://dbpedia.org/resource/Larry_McMurtry
+2010,Booker,In a Strange Room,Damon Galgut,http://dbpedia.org/resource/In_a_Strange_Room,http://dbpedia.org/resource/Damon_Galgut
+2010,Booker,Luka and the Fire of Life,Salman Rushdie,http://dbpedia.org/resource/Luka_and_the_Fire_of_Life,http://dbpedia.org/resource/Salman_Rushdie
+2010,Pulitzer,Nemesis (Roth novel),Philip Roth,http://dbpedia.org/resource/Nemesis_(Roth_novel),http://dbpedia.org/resource/Philip_Roth
+2010,Booker,Solar (novel),Ian McEwan,http://dbpedia.org/resource/Solar_(novel),http://dbpedia.org/resource/Ian_McEwan
+2010,Booker,The Dead Republic,Roddy Doyle,http://dbpedia.org/resource/The_Dead_Republic,http://dbpedia.org/resource/Roddy_Doyle
+2010,Booker,The Finkler Question,Howard Jacobson,http://dbpedia.org/resource/The_Finkler_Question,http://dbpedia.org/resource/Howard_Jacobson
+2010,Pulitzer,Witz (novel),Joshua Cohen (writer),http://dbpedia.org/resource/Witz_(novel),http://dbpedia.org/resource/Joshua_Cohen_(writer)
+2011,Booker,Last Man in Tower,Aravind Adiga,http://dbpedia.org/resource/Last_Man_in_Tower,http://dbpedia.org/resource/Aravind_Adiga
+2011,Booker,Ragnarok: The End of the Gods,A. S. Byatt,http://dbpedia.org/resource/Ragnarok:_The_End_of_the_Gods,http://dbpedia.org/resource/A._S._Byatt
+2011,Booker,The Cat's Table,Michael Ondaatje,http://dbpedia.org/resource/The_Cat's_Table,http://dbpedia.org/resource/Michael_Ondaatje
+2011,Booker,The Forgotten Waltz,Anne Enright,http://dbpedia.org/resource/The_Forgotten_Waltz,http://dbpedia.org/resource/Anne_Enright
+2011,Pulitzer,The Marriage Plot,Jeffrey Eugenides,http://dbpedia.org/resource/The_Marriage_Plot,http://dbpedia.org/resource/Jeffrey_Eugenides
+2011,Booker,The Quality of Mercy (Unsworth novel),Barry Unsworth,http://dbpedia.org/resource/The_Quality_of_Mercy_(Unsworth_novel),http://dbpedia.org/resource/Barry_Unsworth
+2011,Booker,The Sense of an Ending,Julian Barnes,http://dbpedia.org/resource/The_Sense_of_an_Ending,http://dbpedia.org/resource/Julian_Barnes
+2011,Booker,The Stranger's Child,Alan Hollinghurst,http://dbpedia.org/resource/The_Stranger's_Child,http://dbpedia.org/resource/Alan_Hollinghurst
+2011,Booker,Wish You Were Here (Swift novel),Graham Swift,http://dbpedia.org/resource/Wish_You_Were_Here_(Swift_novel),http://dbpedia.org/resource/Graham_Swift
+2011,Pulitzer,Zone One,Colson Whitehead,http://dbpedia.org/resource/Zone_One,http://dbpedia.org/resource/Colson_Whitehead
+2012,Booker,Ancient Light,John Banville,http://dbpedia.org/resource/Ancient_Light,http://dbpedia.org/resource/John_Banville
+2012,Booker,Bring Up the Bodies,Hilary Mantel,http://dbpedia.org/resource/Bring_Up_the_Bodies,http://dbpedia.org/resource/Hilary_Mantel
+2012,Pulitzer,Canada (novel),Richard Ford,http://dbpedia.org/resource/Canada_(novel),http://dbpedia.org/resource/Richard_Ford
+2012,Pulitzer,Chickadee (novel),Louise Erdrich,http://dbpedia.org/resource/Chickadee_(novel),http://dbpedia.org/resource/Louise_Erdrich
+2012,Pulitzer,Flight Behavior,Barbara Kingsolver,http://dbpedia.org/resource/Flight_Behavior,http://dbpedia.org/resource/Barbara_Kingsolver
+2012,Pulitzer,Home (Morrison novel),Toni Morrison,http://dbpedia.org/resource/Home_(Morrison_novel),http://dbpedia.org/resource/Toni_Morrison
+2012,Booker,Mo Said She Was Quirky,James Kelman,http://dbpedia.org/resource/Mo_Said_She_Was_Quirky,http://dbpedia.org/resource/James_Kelman
+2012,Booker,No Time Like the Present,Nadine Gordimer,http://dbpedia.org/resource/No_Time_Like_the_Present,http://dbpedia.org/resource/Nadine_Gordimer
+2012,Booker,Sweet Tooth (novel),Ian McEwan,http://dbpedia.org/resource/Sweet_Tooth_(novel),http://dbpedia.org/resource/Ian_McEwan
+2012,Pulitzer,Telegraph Avenue (novel),Michael Chabon,http://dbpedia.org/resource/Telegraph_Avenue_(novel),http://dbpedia.org/resource/Michael_Chabon
+2012,Pulitzer,The Beginner's Goodbye,Anne Tyler,http://dbpedia.org/resource/The_Beginner's_Goodbye,http://dbpedia.org/resource/Anne_Tyler
+2012,Booker,The Chemistry of Tears,Peter Carey (novelist),http://dbpedia.org/resource/The_Chemistry_of_Tears,http://dbpedia.org/resource/Peter_Carey_(novelist)
+2012,Booker,The Daughters of Mars,Thomas Keneally,http://dbpedia.org/resource/The_Daughters_of_Mars,http://dbpedia.org/resource/Thomas_Keneally
+2012,Pulitzer,The Lawgiver,Herman Wouk,http://dbpedia.org/resource/The_Lawgiver,http://dbpedia.org/resource/Herman_Wouk
+2012,Pulitzer,The Orphan Master's Son,Adam Johnson (writer),http://dbpedia.org/resource/The_Orphan_Master's_Son,http://dbpedia.org/resource/Adam_Johnson_(writer)
+2012,Pulitzer,The Round House (novel),Louise Erdrich,http://dbpedia.org/resource/The_Round_House_(novel),http://dbpedia.org/resource/Louise_Erdrich
+2013,Booker,MaddAddam,Margaret Atwood,http://dbpedia.org/resource/MaddAddam,http://dbpedia.org/resource/Margaret_Atwood
+2013,Booker,Mr Loverman,Bernardine Evaristo,http://dbpedia.org/resource/Mr_Loverman,http://dbpedia.org/resource/Bernardine_Evaristo
+2013,Pulitzer,The Burgess Boys,Elizabeth Strout,http://dbpedia.org/resource/The_Burgess_Boys,http://dbpedia.org/resource/Elizabeth_Strout
+2013,Pulitzer,The Goldfinch (novel),Donna Tartt,http://dbpedia.org/resource/The_Goldfinch_(novel),http://dbpedia.org/resource/Donna_Tartt
+2013,Booker,The Guts (novel),Roddy Doyle,http://dbpedia.org/resource/The_Guts_(novel),http://dbpedia.org/resource/Roddy_Doyle
+2013,Pulitzer,The Lowland,Jhumpa Lahiri,http://dbpedia.org/resource/The_Lowland,http://dbpedia.org/resource/Jhumpa_Lahiri
+2013,Booker,The Luminaries,Eleanor Catton,http://dbpedia.org/resource/The_Luminaries,http://dbpedia.org/resource/Eleanor_Catton
+2013,Booker,The Narrow Road to the Deep North (novel),Richard Flanagan,http://dbpedia.org/resource/The_Narrow_Road_to_the_Deep_North_(novel),http://dbpedia.org/resource/Richard_Flanagan
+2014,Booker,A Brief History of Seven Killings,Marlon James (novelist),http://dbpedia.org/resource/A_Brief_History_of_Seven_Killings,http://dbpedia.org/resource/Marlon_James_(novelist)
+2014,Pulitzer,All the Light We Cannot See,Anthony Doerr,http://dbpedia.org/resource/All_the_Light_We_Cannot_See,http://dbpedia.org/resource/Anthony_Doerr
+2014,Booker,Amnesia (Carey novel),Peter Carey (novelist),http://dbpedia.org/resource/Amnesia_(Carey_novel),http://dbpedia.org/resource/Peter_Carey_(novelist)
+2014,Booker,J (novel),Howard Jacobson,http://dbpedia.org/resource/J_(novel),http://dbpedia.org/resource/Howard_Jacobson
+2014,Pulitzer,Let Me Be Frank With You,Richard Ford,http://dbpedia.org/resource/Let_Me_Be_Frank_With_You,http://dbpedia.org/resource/Richard_Ford
+2014,Pulitzer,Lila (Robinson novel),Marilynne Robinson,http://dbpedia.org/resource/Lila_(Robinson_novel),http://dbpedia.org/resource/Marilynne_Robinson
+2014,Pulitzer,Orfeo (novel),Richard Powers,http://dbpedia.org/resource/Orfeo_(novel),http://dbpedia.org/resource/Richard_Powers
+2014,Pulitzer,Some Luck,Jane Smiley,http://dbpedia.org/resource/Some_Luck,http://dbpedia.org/resource/Jane_Smiley
+2014,Booker,The Age of Magic,Ben Okri,http://dbpedia.org/resource/The_Age_of_Magic,http://dbpedia.org/resource/Ben_Okri
+2014,Booker,The Children Act (novel),Ian McEwan,http://dbpedia.org/resource/The_Children_Act_(novel),http://dbpedia.org/resource/Ian_McEwan
+2014,Pulitzer,The Last Kind Words Saloon,Larry McMurtry,http://dbpedia.org/resource/The_Last_Kind_Words_Saloon,http://dbpedia.org/resource/Larry_McMurtry
+2015,Pulitzer,A Spool of Blue Thread,Anne Tyler,http://dbpedia.org/resource/A_Spool_of_Blue_Thread,http://dbpedia.org/resource/Anne_Tyler
+2015,Pulitzer,Book of Numbers (novel),Joshua Cohen (writer),http://dbpedia.org/resource/Book_of_Numbers_(novel),http://dbpedia.org/resource/Joshua_Cohen_(writer)
+2015,Pulitzer,Go Set a Watchman,Harper Lee,http://dbpedia.org/resource/Go_Set_a_Watchman,http://dbpedia.org/resource/Harper_Lee
+2015,Pulitzer,God Help the Child,Toni Morrison,http://dbpedia.org/resource/God_Help_the_Child,http://dbpedia.org/resource/Toni_Morrison
+2015,Booker,The Buried Giant,Kazuo Ishiguro,http://dbpedia.org/resource/The_Buried_Giant,http://dbpedia.org/resource/Kazuo_Ishiguro
+2015,Booker,The Green Road (Enright novel),Anne Enright,http://dbpedia.org/resource/The_Green_Road_(Enright_novel),http://dbpedia.org/resource/Anne_Enright
+2015,Pulitzer,The Secret Chord,Geraldine Brooks (writer),http://dbpedia.org/resource/The_Secret_Chord,http://dbpedia.org/resource/Geraldine_Brooks_(writer)
+2015,Booker,The Sellout (novel),Paul Beatty,http://dbpedia.org/resource/The_Sellout_(novel),http://dbpedia.org/resource/Paul_Beatty
+2015,Pulitzer,The Sympathizer,Viet Thanh Nguyen,http://dbpedia.org/resource/The_Sympathizer,http://dbpedia.org/resource/Viet_Thanh_Nguyen
+2015,Booker,Two Years Eight Months and Twenty-Eight Nights,Salman Rushdie,http://dbpedia.org/resource/Two_Years_Eight_Months_and_Twenty-Eight_Nights,http://dbpedia.org/resource/Salman_Rushdie
+2016,Pulitzer,Barkskins,Annie Proulx,http://dbpedia.org/resource/Barkskins,http://dbpedia.org/resource/Annie_Proulx
+2016,Pulitzer,Everybody's Fool (novel),Richard Russo,http://dbpedia.org/resource/Everybody's_Fool_(novel),http://dbpedia.org/resource/Richard_Russo
+2016,Booker,Hag-Seed,Margaret Atwood,http://dbpedia.org/resource/Hag-Seed,http://dbpedia.org/resource/Margaret_Atwood
+2016,Pulitzer,LaRose (novel),Louise Erdrich,http://dbpedia.org/resource/LaRose_(novel),http://dbpedia.org/resource/Louise_Erdrich
+2016,Pulitzer,Moonglow (novel),Michael Chabon,http://dbpedia.org/resource/Moonglow_(novel),http://dbpedia.org/resource/Michael_Chabon
+2016,Booker,Mothering Sunday (novel),Graham Swift,http://dbpedia.org/resource/Mothering_Sunday_(novel),http://dbpedia.org/resource/Graham_Swift
+2016,Pulitzer,My Name Is Lucy Barton,Elizabeth Strout,http://dbpedia.org/resource/My_Name_Is_Lucy_Barton,http://dbpedia.org/resource/Elizabeth_Strout
+2016,Booker,Nutshell (novel),Ian McEwan,http://dbpedia.org/resource/Nutshell_(novel),http://dbpedia.org/resource/Ian_McEwan
+2016,Booker,Selection Day,Aravind Adiga,http://dbpedia.org/resource/Selection_Day,http://dbpedia.org/resource/Aravind_Adiga
+2016,Pulitzer,Susanna Moodie: Roughing it in the Bush,Carol Shields,http://dbpedia.org/resource/Susanna_Moodie:_Roughing_it_in_the_Bush,http://dbpedia.org/resource/Carol_Shields
+2016,Booker,The High Mountains of Portugal,Yann Martel,http://dbpedia.org/resource/The_High_Mountains_of_Portugal,http://dbpedia.org/resource/Yann_Martel
+2016,Booker,The Noise of Time,Julian Barnes,http://dbpedia.org/resource/The_Noise_of_Time,http://dbpedia.org/resource/Julian_Barnes
+2016,Booker,The Schooldays of Jesus,J. M. Coetzee,http://dbpedia.org/resource/The_Schooldays_of_Jesus,http://dbpedia.org/resource/J._M._Coetzee
+2016,Pulitzer,The Underground Railroad (novel),Colson Whitehead,http://dbpedia.org/resource/The_Underground_Railroad_(novel),http://dbpedia.org/resource/Colson_Whitehead
+2016,Pulitzer,Vinegar Girl,Anne Tyler,http://dbpedia.org/resource/Vinegar_Girl,http://dbpedia.org/resource/Anne_Tyler
+2017,Pulitzer,Anything Is Possible (book),Elizabeth Strout,http://dbpedia.org/resource/Anything_Is_Possible_(book),http://dbpedia.org/resource/Elizabeth_Strout
+2017,Pulitzer,Future Home of the Living God,Louise Erdrich,http://dbpedia.org/resource/Future_Home_of_the_Living_God,http://dbpedia.org/resource/Louise_Erdrich
+2017,Pulitzer,In the Distance,Hernan Diaz (writer),http://dbpedia.org/resource/In_the_Distance,http://dbpedia.org/resource/Hernan_Diaz_(writer)
+2017,Pulitzer,In the Distance,Hernán Díaz (writer),http://dbpedia.org/resource/In_the_Distance,http://dbpedia.org/resource/Hernan_Diaz_(writer)
+2017,Pulitzer,Less (novel),Andrew Sean Greer,http://dbpedia.org/resource/Less_(novel),http://dbpedia.org/resource/Andrew_Sean_Greer
+2017,Booker,Lincoln in the Bardo,George Saunders,http://dbpedia.org/resource/Lincoln_in_the_Bardo,http://dbpedia.org/resource/George_Saunders
+2017,Pulitzer,Manhattan Beach (novel),Jennifer Egan,http://dbpedia.org/resource/Manhattan_Beach_(novel),http://dbpedia.org/resource/Jennifer_Egan
+2017,Booker,Smile (Doyle novel),Roddy Doyle,http://dbpedia.org/resource/Smile_(Doyle_novel),http://dbpedia.org/resource/Roddy_Doyle
+2017,Pulitzer,So Much Blue,Percival Everett,http://dbpedia.org/resource/So_Much_Blue,http://dbpedia.org/resource/Percival_Everett
+2017,Booker,The Golden House (novel),Salman Rushdie,http://dbpedia.org/resource/The_Golden_House_(novel),http://dbpedia.org/resource/Salman_Rushdie
+2017,Booker,The Ministry of Utmost Happiness,Arundhati Roy,http://dbpedia.org/resource/The_Ministry_of_Utmost_Happiness,http://dbpedia.org/resource/Arundhati_Roy
+2017,Booker,The Sparsholt Affair,Alan Hollinghurst,http://dbpedia.org/resource/The_Sparsholt_Affair,http://dbpedia.org/resource/Alan_Hollinghurst
+2018,Booker,Milkman (novel),Anna Burns,http://dbpedia.org/resource/Milkman_(novel),http://dbpedia.org/resource/Anna_Burns
+2018,Booker,The Only Story,Julian Barnes,http://dbpedia.org/resource/The_Only_Story,http://dbpedia.org/resource/Julian_Barnes
+2018,Pulitzer,The Overstory,Richard Powers,http://dbpedia.org/resource/The_Overstory,http://dbpedia.org/resource/Richard_Powers
+2018,Booker,The Silence of the Girls,Pat Barker,http://dbpedia.org/resource/The_Silence_of_the_Girls,http://dbpedia.org/resource/Pat_Barker
+2018,Booker,The Western Wind,Samantha Harvey,http://dbpedia.org/resource/The_Western_Wind,http://dbpedia.org/resource/Samantha_Harvey
+2018,Pulitzer,Unsheltered (novel),Barbara Kingsolver,http://dbpedia.org/resource/Unsheltered_(novel),http://dbpedia.org/resource/Barbara_Kingsolver
+2018,Booker,Warlight,Michael Ondaatje,http://dbpedia.org/resource/Warlight,http://dbpedia.org/resource/Michael_Ondaatje
+2018,Pulitzer,Whereabouts (novel),Jhumpa Lahiri,http://dbpedia.org/resource/Whereabouts_(novel),http://dbpedia.org/resource/Jhumpa_Lahiri
+2019,Booker,"Black Leopard, Red Wolf",Marlon James (novelist),"http://dbpedia.org/resource/Black_Leopard,_Red_Wolf",http://dbpedia.org/resource/Marlon_James_(novelist)
+2019,Pulitzer,Chances Are...,Richard Russo,http://dbpedia.org/resource/Chances_Are...,http://dbpedia.org/resource/Richard_Russo
+2019,Booker,Charlie Savage (novel),Roddy Doyle,http://dbpedia.org/resource/Charlie_Savage_(novel),http://dbpedia.org/resource/Roddy_Doyle
+2019,Booker,"Girl, Woman, Other",Bernardine Evaristo,"http://dbpedia.org/resource/Girl,_Woman,_Other",http://dbpedia.org/resource/Bernardine_Evaristo
+2019,Booker,Machines Like Me,Ian McEwan,http://dbpedia.org/resource/Machines_Like_Me,http://dbpedia.org/resource/Ian_McEwan
+2019,Pulitzer,"Olive, Again",Elizabeth Strout,"http://dbpedia.org/resource/Olive,_Again",http://dbpedia.org/resource/Elizabeth_Strout
+2019,Booker,Quichotte (novel),Salman Rushdie,http://dbpedia.org/resource/Quichotte_(novel),http://dbpedia.org/resource/Salman_Rushdie
+2019,Booker,The Cockroach (novella),Ian McEwan,http://dbpedia.org/resource/The_Cockroach_(novella),http://dbpedia.org/resource/Ian_McEwan
+2019,Booker,The Freedom Artist,Ben Okri,http://dbpedia.org/resource/The_Freedom_Artist,http://dbpedia.org/resource/Ben_Okri
+2019,Pulitzer,The Nickel Boys,Colson Whitehead,http://dbpedia.org/resource/The_Nickel_Boys,http://dbpedia.org/resource/Colson_Whitehead
+2019,Pulitzer,"The Source of Self-Regard: Selected Essays, Speeches, and Meditations",Toni Morrison,"http://dbpedia.org/resource/The_Source_of_Self-Regard:_Selected_Essays,_Speeches,_and_Meditations",http://dbpedia.org/resource/Toni_Morrison
+2019,Booker,The Testaments,Margaret Atwood,http://dbpedia.org/resource/The_Testaments,http://dbpedia.org/resource/Margaret_Atwood
+2020,Booker,Here We Are (novel),Graham Swift,http://dbpedia.org/resource/Here_We_Are_(novel),http://dbpedia.org/resource/Graham_Swift
+2020,Pulitzer,Jack (Robinson novel),Marilynne Robinson,http://dbpedia.org/resource/Jack_(Robinson_novel),http://dbpedia.org/resource/Marilynne_Robinson
+2020,Booker,Love (Doyle novel),Roddy Doyle,http://dbpedia.org/resource/Love_(Doyle_novel),http://dbpedia.org/resource/Roddy_Doyle
+2020,Pulitzer,Perestroika in Paris,Jane Smiley,http://dbpedia.org/resource/Perestroika_in_Paris,http://dbpedia.org/resource/Jane_Smiley
+2020,Booker,Shuggie Bain,Douglas Stuart (writer),http://dbpedia.org/resource/Shuggie_Bain,http://dbpedia.org/resource/Douglas_Stuart_(writer)
+2020,Pulitzer,The Night Watchman (novel),Louise Erdrich,http://dbpedia.org/resource/The_Night_Watchman_(novel),http://dbpedia.org/resource/Louise_Erdrich
+2021,Pulitzer,Bewilderment,Richard Powers,http://dbpedia.org/resource/Bewilderment,http://dbpedia.org/resource/Richard_Powers
+2021,Pulitzer,Cloud Cuckoo Land (novel),Anthony Doerr,http://dbpedia.org/resource/Cloud_Cuckoo_Land_(novel),http://dbpedia.org/resource/Anthony_Doerr
+2021,Booker,Corporal Hitler's Pistol,Thomas Keneally,http://dbpedia.org/resource/Corporal_Hitler's_Pistol,http://dbpedia.org/resource/Thomas_Keneally
+2021,Booker,Every Leaf a Hallelujah,Ben Okri,http://dbpedia.org/resource/Every_Leaf_a_Hallelujah,http://dbpedia.org/resource/Ben_Okri
+2021,Pulitzer,Harlem Shuffle (novel),Colson Whitehead,http://dbpedia.org/resource/Harlem_Shuffle_(novel),http://dbpedia.org/resource/Colson_Whitehead
+2021,Booker,Klara and the Sun,Kazuo Ishiguro,http://dbpedia.org/resource/Klara_and_the_Sun,http://dbpedia.org/resource/Kazuo_Ishiguro
+2021,Pulitzer,Oh William!,Elizabeth Strout,http://dbpedia.org/resource/Oh_William!,http://dbpedia.org/resource/Elizabeth_Strout
+2021,Pulitzer,The Committed,Viet Thanh Nguyen,http://dbpedia.org/resource/The_Committed,http://dbpedia.org/resource/Viet_Thanh_Nguyen
+2021,Pulitzer,The Netanyahus,Joshua Cohen (writer),http://dbpedia.org/resource/The_Netanyahus,http://dbpedia.org/resource/Joshua_Cohen_(writer)
+2021,Booker,The Promise (Galgut novel),Damon Galgut,http://dbpedia.org/resource/The_Promise_(Galgut_novel),http://dbpedia.org/resource/Damon_Galgut
+2021,Pulitzer,The Sentence (2021 novel),Louise Erdrich,http://dbpedia.org/resource/The_Sentence_(2021_novel),http://dbpedia.org/resource/Louise_Erdrich
+2021,Pulitzer,The Sentence (novel),Louise Erdrich,http://dbpedia.org/resource/The_Sentence_(2021_novel),http://dbpedia.org/resource/Louise_Erdrich
+2021,Pulitzer,The Trees (Everett novel),Percival Everett,http://dbpedia.org/resource/The_Trees_(Everett_novel),http://dbpedia.org/resource/Percival_Everett
+2022,Pulitzer,A Dangerous Business,Jane Smiley,http://dbpedia.org/resource/A_Dangerous_Business,http://dbpedia.org/resource/Jane_Smiley
+2022,Pulitzer,Demon Copperhead,Barbara Kingsolver,http://dbpedia.org/resource/Demon_Copperhead,http://dbpedia.org/resource/Barbara_Kingsolver
+2022,Booker,Elizabeth Finch (novel),Julian Barnes,http://dbpedia.org/resource/Elizabeth_Finch_(novel),http://dbpedia.org/resource/Julian_Barnes
+2022,Pulitzer,Horse (novel),Geraldine Brooks (writer),http://dbpedia.org/resource/Horse_(novel),http://dbpedia.org/resource/Geraldine_Brooks_(writer)
+2022,Booker,Lessons (novel),Ian McEwan,http://dbpedia.org/resource/Lessons_(novel),http://dbpedia.org/resource/Ian_McEwan
+2022,Booker,"Moon Witch, Spider King",Marlon James (novelist),"http://dbpedia.org/resource/Moon_Witch,_Spider_King",http://dbpedia.org/resource/Marlon_James_(novelist)
+2022,Pulitzer,Stella Maris (novel),Cormac McCarthy,http://dbpedia.org/resource/Stella_Maris_(novel),http://dbpedia.org/resource/Cormac_McCarthy
+2022,Pulitzer,The Candy House (novel),Jennifer Egan,http://dbpedia.org/resource/The_Candy_House_(novel),http://dbpedia.org/resource/Jennifer_Egan
+2022,Pulitzer,The Passenger (McCarthy novel),Cormac McCarthy,http://dbpedia.org/resource/The_Passenger_(McCarthy_novel),http://dbpedia.org/resource/Cormac_McCarthy
+2022,Booker,The Seven Moons of Maali Almeida,Shehan Karunatilaka,http://dbpedia.org/resource/The_Seven_Moons_of_Maali_Almeida,http://dbpedia.org/resource/Shehan_Karunatilaka
+2022,Booker,The Singularities,John Banville,http://dbpedia.org/resource/The_Singularities,http://dbpedia.org/resource/John_Banville
+2022,Pulitzer,Trust (novel),Hernan Diaz (writer),http://dbpedia.org/resource/Trust_(novel),http://dbpedia.org/resource/Hernan_Diaz_(writer)
+2022,Pulitzer,Trust (novel),Hernán Díaz (writer),http://dbpedia.org/resource/Trust_(novel),http://dbpedia.org/resource/Hernan_Diaz_(writer)
+2022,Booker,Young Mungo,Douglas Stuart (writer),http://dbpedia.org/resource/Young_Mungo,http://dbpedia.org/resource/Douglas_Stuart_(writer)
+2023,Pulitzer,Be Mine (novel),Richard Ford,http://dbpedia.org/resource/Be_Mine_(novel),http://dbpedia.org/resource/Richard_Ford
+2023,Booker,Birnam Wood (novel),Eleanor Catton,http://dbpedia.org/resource/Birnam_Wood_(novel),http://dbpedia.org/resource/Eleanor_Catton
+2023,Pulitzer,Crook Manifesto,Colson Whitehead,http://dbpedia.org/resource/Crook_Manifesto,http://dbpedia.org/resource/Colson_Whitehead
+2023,Pulitzer,Night Watch (Phillips novel),Jayne Anne Phillips,http://dbpedia.org/resource/Night_Watch_(Phillips_novel),http://dbpedia.org/resource/Jayne_Anne_Phillips
+2023,Booker,Orbital (novel),Samantha Harvey,http://dbpedia.org/resource/Orbital_(novel),http://dbpedia.org/resource/Samantha_Harvey
+2023,Pulitzer,Somebody's Fool,Richard Russo,http://dbpedia.org/resource/Somebody's_Fool,http://dbpedia.org/resource/Richard_Russo
+2023,Booker,The Pole and Other Stories,J. M. Coetzee,http://dbpedia.org/resource/The_Pole_and_Other_Stories,http://dbpedia.org/resource/J._M._Coetzee
+2023,Pulitzer,This Other Eden (Harding novel),Paul Harding (author),http://dbpedia.org/resource/This_Other_Eden_(Harding_novel),http://dbpedia.org/resource/Paul_Harding_(author)
+2023,Booker,Victory City,Salman Rushdie,http://dbpedia.org/resource/Victory_City,http://dbpedia.org/resource/Salman_Rushdie
+2024,Pulitzer,James (novel),Percival Everett,http://dbpedia.org/resource/James_(novel),http://dbpedia.org/resource/Percival_Everett
+2024,Booker,Our Evenings,Alan Hollinghurst,http://dbpedia.org/resource/Our_Evenings,http://dbpedia.org/resource/Alan_Hollinghurst
+2024,Pulitzer,Playground (novel),Richard Powers,http://dbpedia.org/resource/Playground_(novel),http://dbpedia.org/resource/Richard_Powers
+2025,Booker,What We Can Know,Ian McEwan,http://dbpedia.org/resource/What_We_Can_Know,http://dbpedia.org/resource/Ian_McEwan

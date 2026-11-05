@@ -1,0 +1,501 @@
+Book_ID,Title,Publish_Year,Book_URI,Match_Note
+FIC-0001,Dianetics: The Modern Science of Mental Health,1950,http://dbpedia.org/resource/Dianetics:_The_Modern_Science_of_Mental_Health,exact_year
+FIC-0002,"Speak, Memory",1951,"http://dbpedia.org/resource/Speak,_Memory",exact_year
+FIC-0003,A Road with No End,1952,http://dbpedia.org/resource/A_Road_with_No_End,exact_year
+FIC-0004,Cry Slaughter!,1953,http://dbpedia.org/resource/Cry_Slaughter!,exact_year
+FIC-0005,Il disprezzo,1954,http://dbpedia.org/resource/Il_disprezzo,exact_year
+FIC-0006,Night (memoir),1955,http://dbpedia.org/resource/Night_(memoir),exact_year
+FIC-0007,Climbié (novel),1956,http://dbpedia.org/resource/Climbié_(novel),exact_year
+FIC-0008,Amba Yaluwo,1957,http://dbpedia.org/resource/Amba_Yaluwo,exact_year
+FIC-0009,Rose of the World (1991 book),1958,http://dbpedia.org/resource/Rose_of_the_World_(1991_book),exact_year
+FIC-0010,Children of Gebelawi,1959,http://dbpedia.org/resource/Children_of_Gebelawi,exact_year
+FIC-0011,God Was Born in Exile,1960,http://dbpedia.org/resource/God_Was_Born_in_Exile,exact_year
+FIC-0012,Toros y toreros,1961,http://dbpedia.org/resource/Toros_y_toreros,exact_year
+FIC-0013,Aangan (novel),1962,http://dbpedia.org/resource/Aangan_(novel),exact_year
+FIC-0014,Meetings with Remarkable Men,1963,http://dbpedia.org/resource/Meetings_with_Remarkable_Men,exact_year
+FIC-0015,Todas las Sangres,1964,http://dbpedia.org/resource/Todas_las_Sangres,exact_year
+FIC-0016,The Second Round (novel),1965,http://dbpedia.org/resource/The_Second_Round_(novel),exact_year
+FIC-0017,Nairn's London,1966,http://dbpedia.org/resource/Nairn's_London,exact_year
+FIC-0018,Necropolis (Pahor novel),1967,http://dbpedia.org/resource/Necropolis_(Pahor_novel),exact_year
+FIC-0019,"Love, Anger, Madness",1968,"http://dbpedia.org/resource/Love,_Anger,_Madness",exact_year
+FIC-0020,Umm Saad,1969,http://dbpedia.org/resource/Umm_Saad,exact_year
+FIC-0021,Abigail (novel),1970,http://dbpedia.org/resource/Abigail_(novel),exact_year
+FIC-0022,The Fox From Up Above and the Fox From Down Below,1971,http://dbpedia.org/resource/The_Fox_From_Up_Above_and_the_Fox_From_Down_Below,exact_year
+FIC-0023,Mirrors (novel),1972,http://dbpedia.org/resource/Mirrors_(novel),exact_year
+FIC-0024,Neurologic (book),1973,http://dbpedia.org/resource/Neurologic_(book),exact_year
+FIC-0025,Al-Zini Barakat,1974,http://dbpedia.org/resource/Al-Zini_Barakat,exact_year
+FIC-0026,When Money Dies,1975,http://dbpedia.org/resource/When_Money_Dies,exact_year
+FIC-0027,The People of Kau,1976,http://dbpedia.org/resource/The_People_of_Kau,exact_year
+FIC-0028,Octavia (novel),1977,http://dbpedia.org/resource/Octavia_(novel),exact_year
+FIC-0029,Jay's Journal,1978,http://dbpedia.org/resource/Jay's_Journal,exact_year
+FIC-0030,Sakala-nīti-sammatamu,1979,http://dbpedia.org/resource/Sakala-nīti-sammatamu,exact_year
+FIC-0031,A Sentimental Education (short stories),1980,http://dbpedia.org/resource/A_Sentimental_Education_(short_stories),exact_year
+FIC-0032,The Atlas of Middle-earth,1981,http://dbpedia.org/resource/The_Atlas_of_Middle-earth,exact_year
+FIC-0033,A History of the Jews in Macedonia,1982,http://dbpedia.org/resource/A_History_of_the_Jews_in_Macedonia,exact_year
+FIC-0034,Crystal Boys,1983,http://dbpedia.org/resource/Crystal_Boys,exact_year
+FIC-0035,X Stands for Unknown,1984,http://dbpedia.org/resource/X_Stands_for_Unknown,exact_year
+FIC-0036,Antipodes (story collection),1985,http://dbpedia.org/resource/Antipodes_(story_collection),exact_year
+FIC-0037,Sister Ships and Other Stories,1986,http://dbpedia.org/resource/Sister_Ships_and_Other_Stories,exact_year
+FIC-0038,Stories from the Warm Zone,1987,http://dbpedia.org/resource/Stories_from_the_Warm_Zone,exact_year
+FIC-0039,"Bata, Bata... Pa'no Ka Ginawa?",1988,"http://dbpedia.org/resource/Bata,_Bata..._Pa'no_Ka_Ginawa%3F",exact_year
+FIC-0040,This Boy's Life: A Memoir,1989,http://dbpedia.org/resource/This_Boy's_Life:_A_Memoir,exact_year
+FIC-0041,The Last Harmattan of Alusine Dunbar,1990,http://dbpedia.org/resource/The_Last_Harmattan_of_Alusine_Dunbar,exact_year
+FIC-0042,Tandia,1991,http://dbpedia.org/resource/Tandia,exact_year
+FIC-0043,Dick's Kiss,1992,http://dbpedia.org/resource/Dick's_Kiss,exact_year
+FIC-0044,Poème de la folie,1993,http://dbpedia.org/resource/Poème_de_la_folie,exact_year
+FIC-0045,Of Love and Other Demons,1994,http://dbpedia.org/resource/Of_Love_and_Other_Demons,exact_year
+FIC-0046,To Write Like a Woman,1995,http://dbpedia.org/resource/To_Write_Like_a_Woman,exact_year
+FIC-0047,Citizen and Subject,1996,http://dbpedia.org/resource/Citizen_and_Subject,exact_year
+FIC-0048,Critical Chain (novel),1997,http://dbpedia.org/resource/Critical_Chain_(novel),exact_year
+FIC-0049,Mary Baker Eddy (Gill book),1998,http://dbpedia.org/resource/Mary_Baker_Eddy_(Gill_book),exact_year
+FIC-0050,Disgrace,1999,http://dbpedia.org/resource/Disgrace,exact_year
+FIC-0051,Player's Handbook,2000,http://dbpedia.org/resource/Player's_Handbook,exact_year
+FIC-0052,Ben Singkol,2001,http://dbpedia.org/resource/Ben_Singkol,exact_year
+FIC-0053,Letters to Auntie Fori,2002,http://dbpedia.org/resource/Letters_to_Auntie_Fori,exact_year
+FIC-0054,The Bible with Sources Revealed,2003,http://dbpedia.org/resource/The_Bible_with_Sources_Revealed,exact_year
+FIC-0055,Caught Stealing (novel),2004,http://dbpedia.org/resource/Caught_Stealing_(novel),exact_year
+FIC-0056,Parallel Stories,2005,http://dbpedia.org/resource/Parallel_Stories,exact_year
+FIC-0057,Islamic Philosophy from its Origin to the Present,2006,http://dbpedia.org/resource/Islamic_Philosophy_from_its_Origin_to_the_Present,exact_year
+FIC-0058,"Yo, Paco",2007,"http://dbpedia.org/resource/Yo,_Paco",exact_year
+FIC-0059,Many and Many a Year Ago,2008,http://dbpedia.org/resource/Many_and_Many_a_Year_Ago,exact_year
+FIC-0060,Please Look After Mom,2009,http://dbpedia.org/resource/Please_Look_After_Mom,exact_year
+FIC-0061,All My Friends Are Dead,2010,http://dbpedia.org/resource/All_My_Friends_Are_Dead,exact_year
+FIC-0062,Sleeping with the Enemy: Coco Chanel's Secret War,2011,http://dbpedia.org/resource/Sleeping_with_the_Enemy:_Coco_Chanel's_Secret_War,exact_year
+FIC-0063,Craposyncrasies,2012,http://dbpedia.org/resource/Craposyncrasies,exact_year
+FIC-0064,Dictionary of Old Tupi,2013,http://dbpedia.org/resource/Dictionary_of_Old_Tupi,exact_year
+FIC-0065,My Life with the Walter Boys (novel),2014,http://dbpedia.org/resource/My_Life_with_the_Walter_Boys_(novel),exact_year
+FIC-0066,Independence Lost,2015,http://dbpedia.org/resource/Independence_Lost,exact_year
+FIC-0067,Augustown,2016,http://dbpedia.org/resource/Augustown,exact_year
+FIC-0068,The Tales of Kanglei Throne,2017,http://dbpedia.org/resource/The_Tales_of_Kanglei_Throne,exact_year
+FIC-0069,"Come, Follow Me (LDS Church)",2018,"http://dbpedia.org/resource/Come,_Follow_Me_(LDS_Church)",exact_year
+FIC-0070,How Fires End,2019,http://dbpedia.org/resource/How_Fires_End,exact_year
+FIC-0071,When These Mountains Burn,2020,http://dbpedia.org/resource/When_These_Mountains_Burn,exact_year
+FIC-0072,The Origins of Early Christian Literature,2021,http://dbpedia.org/resource/The_Origins_of_Early_Christian_Literature,exact_year
+FIC-0073,Bibi: My Story,2022,http://dbpedia.org/resource/Bibi:_My_Story,exact_year
+FIC-0074,Nasukh (book),2023,http://dbpedia.org/resource/Nasukh_(book),exact_year
+FIC-0075,Blood Ties (Nesbø novel),2024,http://dbpedia.org/resource/Blood_Ties_(Nesbø_novel),exact_year
+FIC-0076,Insurrection (O'Flaherty novel),1950,http://dbpedia.org/resource/Insurrection_(O'Flaherty_novel),exact_year
+FIC-0077,Chitrochor,1951,http://dbpedia.org/resource/Chitrachor,exact_year
+FIC-0078,The Far Hills,1952,http://dbpedia.org/resource/The_Far_Hills,exact_year
+FIC-0079,Chiriyakhan,1953,http://dbpedia.org/resource/Chiriyakhan,exact_year
+FIC-0080,Contempt (novel),1954,http://dbpedia.org/resource/Il_disprezzo,exact_year
+FIC-0081,Moromeții,1955,http://dbpedia.org/resource/Moromeții,exact_year
+FIC-0082,The Key (Tanizaki novel),1956,http://dbpedia.org/resource/The_Key_(Tanizaki_novel),exact_year
+FIC-0083,When I Was a Little Boy,1957,http://dbpedia.org/resource/When_I_Was_a_Little_Boy,exact_year
+FIC-0084,Cholponbai,1958,http://dbpedia.org/resource/Cholponbai,exact_year
+FIC-0085,Cider with Rosie,1959,http://dbpedia.org/resource/Cider_with_Rosie,exact_year
+FIC-0086,Kolab Pailin,1960,http://dbpedia.org/resource/Kolab_Pailin,exact_year
+FIC-0087,Tell Me Another Morning,1961,http://dbpedia.org/resource/Tell_Me_Another_Morning,exact_year
+FIC-0088,Walt Disney's Story Land: 55 Favorite Stories,1962,http://dbpedia.org/resource/Walt_Disney's_Story_Land:_55_Favorite_Stories,exact_year
+FIC-0089,Educational Strategy for Developing Societies,1963,http://dbpedia.org/resource/Educational_Strategy_for_Developing_Societies,exact_year
+FIC-0090,Beer in the Snooker Club,1964,http://dbpedia.org/resource/Beer_in_the_Snooker_Club,exact_year
+FIC-0091,A Dictionary of American Sign Language on Linguistic Principles,1965,http://dbpedia.org/resource/A_Dictionary_of_American_Sign_Language_on_Linguistic_Principles,exact_year
+FIC-0092,Ukraine on Fire (novel),1966,http://dbpedia.org/resource/Ukraine_on_Fire_(novel),exact_year
+FIC-0093,Smith of Wootton Major,1967,http://dbpedia.org/resource/Smith_of_Wootton_Major,exact_year
+FIC-0094,Les Soleils des indépendances,1968,http://dbpedia.org/resource/Les_Soleils_des_indépendances,exact_year
+FIC-0095,How to Stay Married (book),1969,http://dbpedia.org/resource/How_to_Stay_Married_(book),exact_year
+FIC-0096,Õilsad südamed,1970,http://dbpedia.org/resource/Õilsad_südamed,exact_year
+FIC-0097,Cry of Morning,1971,http://dbpedia.org/resource/Cry_of_Morning,exact_year
+FIC-0098,Toreadors from Vasyukivka,1972,http://dbpedia.org/resource/Toreadors_from_Vasyukivka,exact_year
+FIC-0099,The Thirteenth Sun,1973,http://dbpedia.org/resource/The_Thirteenth_Sun,exact_year
+FIC-0100,Origins of Marvel Comics,1974,http://dbpedia.org/resource/Origins_of_Marvel_Comics,exact_year
+FIC-0101,Limits to Medicine,1975,http://dbpedia.org/resource/Limits_to_Medicine,exact_year
+FIC-0102,Pirkkalan pyhät pihlajat,1976,http://dbpedia.org/resource/Pirkkalan_pyhät_pihlajat,exact_year
+FIC-0103,A Sparrow Falls,1977,http://dbpedia.org/resource/A_Sparrow_Falls,exact_year
+FIC-0104,Alicia Austin's Age of Dreams,1978,http://dbpedia.org/resource/Alicia_Austin's_Age_of_Dreams,exact_year
+FIC-0105,The Medusa and the Snail,1979,http://dbpedia.org/resource/The_Medusa_and_the_Snail,exact_year
+FIC-0106,N'Heures Souris Rames,1980,http://dbpedia.org/resource/N'Heures_Souris_Rames,exact_year
+FIC-0107,The Sun Shines Bright (book),1981,http://dbpedia.org/resource/The_Sun_Shines_Bright_(book),exact_year
+FIC-0108,The Road to Middle-Earth,1982,http://dbpedia.org/resource/The_Road_to_Middle-Earth,exact_year
+FIC-0109,Zameen (novel),1983,http://dbpedia.org/resource/Zameen_(novel),exact_year
+FIC-0110,Machines That Think,1984,http://dbpedia.org/resource/Machines_That_Think,exact_year
+FIC-0111,The Subatomic Monster,1985,http://dbpedia.org/resource/The_Subatomic_Monster,exact_year
+FIC-0112,Clash of the Princes,1986,http://dbpedia.org/resource/Clash_of_the_Princes,exact_year
+FIC-0113,The Cartier Project,1987,http://dbpedia.org/resource/The_Cartier_Project,exact_year
+FIC-0114,All I Really Need to Know I Learned in Kindergarten,1988,http://dbpedia.org/resource/All_I_Really_Need_to_Know_I_Learned_in_Kindergarten,exact_year
+FIC-0115,Anthill in Prussia,1989,http://dbpedia.org/resource/Anthill_in_Prussia,exact_year
+FIC-0116,My Son's Story,1990,http://dbpedia.org/resource/My_Son's_Story,exact_year
+FIC-0117,Rivers of Babylon (novel),1991,http://dbpedia.org/resource/Rivers_of_Babylon_(novel),exact_year
+FIC-0118,The Transformation of Intimacy,1992,http://dbpedia.org/resource/The_Transformation_of_Intimacy,exact_year
+FIC-0119,The Twins (Loo novel),1993,http://dbpedia.org/resource/The_Twins_(Loo_novel),exact_year
+FIC-0120,Paula (novel),1994,http://dbpedia.org/resource/Paula_(novel),exact_year
+FIC-0121,Beyond the Horizon (novel),1995,http://dbpedia.org/resource/Beyond_the_Horizon_(novel),exact_year
+FIC-0122,McOndo (book),1996,http://dbpedia.org/resource/McOndo_(book),exact_year
+FIC-0123,The Internal Market (novel),1997,http://dbpedia.org/resource/The_Internal_Market_(novel),exact_year
+FIC-0124,Agnes (novel),1998,http://dbpedia.org/resource/Agnes_(novel),exact_year
+FIC-0125,Bengali film directory,1999,http://dbpedia.org/resource/Bengali_film_directory,exact_year
+FIC-0126,That Which That Orphan Saw,2000,http://dbpedia.org/resource/That_Which_That_Orphan_Saw,exact_year
+FIC-0127,Walking into the Night,2001,http://dbpedia.org/resource/Walking_into_the_Night,exact_year
+FIC-0128,The Salmon of Doubt,2002,http://dbpedia.org/resource/The_Salmon_of_Doubt,exact_year
+FIC-0129,The Age of Marriage in Ancient Rome,2003,http://dbpedia.org/resource/The_Age_of_Marriage_in_Ancient_Rome,exact_year
+FIC-0130,Creatures of the Night (comics),2004,http://dbpedia.org/resource/Creatures_of_the_Night_(comics),exact_year
+FIC-0131,Beaufort (novel),2005,http://dbpedia.org/resource/Beaufort_(novel),exact_year
+FIC-0132,The Iron Cage: The Story of the Palestinian Struggle for Statehood,2006,http://dbpedia.org/resource/The_Iron_Cage:_The_Story_of_the_Palestinian_Struggle_for_Statehood,exact_year
+FIC-0133,Flights (novel),2007,http://dbpedia.org/resource/Flights_(novel),exact_year
+FIC-0134,"Black Taste, Black Odour",2008,"http://dbpedia.org/resource/Black_Taste,_Black_Odour",exact_year
+FIC-0135,Map of the Invisible World,2009,http://dbpedia.org/resource/Map_of_the_Invisible_World,exact_year
+FIC-0136,Alzheimer's Story,2010,http://dbpedia.org/resource/Alzheimer's_Story,exact_year
+FIC-0137,The Favored Queen,2011,http://dbpedia.org/resource/The_Favored_Queen,exact_year
+FIC-0138,The Blue Elephant (novel),2012,http://dbpedia.org/resource/The_Blue_Elephant_(novel),exact_year
+FIC-0139,Imaginary Friends (short story),2013,http://dbpedia.org/resource/Imaginary_Friends_(short_story),exact_year
+FIC-0140,Beowulf: A Translation and Commentary,2014,http://dbpedia.org/resource/Beowulf:_A_Translation_and_Commentary,exact_year
+FIC-0141,The Waterman's Prophecy,2015,http://dbpedia.org/resource/The_Waterman's_Prophecy,exact_year
+FIC-0142,BiografiA. Lexikon österreichischer Frauen,2016,http://dbpedia.org/resource/BiografiA._Lexikon_österreichischer_Frauen,exact_year
+FIC-0143,In the Midst of Winter,2017,http://dbpedia.org/resource/In_the_Midst_of_Winter,exact_year
+FIC-0144,Jewish Radical Feminism,2018,http://dbpedia.org/resource/Jewish_Radical_Feminism,exact_year
+FIC-0145,"Prince, Patron and Patriarch",2019,"http://dbpedia.org/resource/Prince,_Patron_and_Patriarch",exact_year
+FIC-0146,Me & Patsy Kickin' Up Dust,2020,http://dbpedia.org/resource/Me_&_Patsy_Kickin'_Up_Dust,exact_year
+FIC-0147,When Ghosts Come Home,2021,http://dbpedia.org/resource/When_Ghosts_Come_Home,exact_year
+FIC-0148,Solito: A Memoir,2022,http://dbpedia.org/resource/Solito:_A_Memoir,exact_year
+FIC-0149,The House of Doors,2023,http://dbpedia.org/resource/The_House_of_Doors,exact_year
+FIC-0150,I Am on the Hit List,2024,http://dbpedia.org/resource/I_Am_on_the_Hit_List,exact_year
+FIC-0151,Khaak Aur Khoon (novel),1950,http://dbpedia.org/resource/Khaak_Aur_Khoon_(novel),exact_year
+FIC-0152,Chitrachor,1951,http://dbpedia.org/resource/Chitrachor,exact_year
+FIC-0153,Unto a Good Land,1952,http://dbpedia.org/resource/Unto_a_Good_Land,exact_year
+FIC-0154,The Homecoming of Beorhtnoth Beorhthelm's Son,1953,http://dbpedia.org/resource/The_Homecoming_of_Beorhtnoth_Beorhthelm's_Son,exact_year
+FIC-0155,The Time Regulation Institute,1954,http://dbpedia.org/resource/The_Time_Regulation_Institute,exact_year
+FIC-0156,Dianetics: The Evolution of a Science,1955,http://dbpedia.org/resource/Dianetics:_The_Evolution_of_a_Science,exact_year
+FIC-0157,Chuva Braba,1956,http://dbpedia.org/resource/Chuva_Braba,exact_year
+FIC-0158,Cosmic View,1957,http://dbpedia.org/resource/Cosmic_View,exact_year
+FIC-0159,The Object-Lesson,1958,http://dbpedia.org/resource/The_Object-Lesson,exact_year
+FIC-0160,On the Mountain,1959,http://dbpedia.org/resource/On_the_Mountain,exact_year
+FIC-0161,Thermodynamics and an Introduction to Thermostatistics,1960,http://dbpedia.org/resource/Thermodynamics_and_an_Introduction_to_Thermostatistics,exact_year
+FIC-0162,The Thief and the Dogs,1961,http://dbpedia.org/resource/The_Thief_and_the_Dogs,exact_year
+FIC-0163,Autumn Quail,1962,http://dbpedia.org/resource/Autumn_Quail,exact_year
+FIC-0164,Tangsir (novel),1963,http://dbpedia.org/resource/Tangsir_(novel),exact_year
+FIC-0165,Tree and Leaf,1964,http://dbpedia.org/resource/Tree_and_Leaf,exact_year
+FIC-0166,The Willow Pattern (novel),1965,http://dbpedia.org/resource/The_Willow_Pattern_(novel),exact_year
+FIC-0167,Five Years (book),1966,http://dbpedia.org/resource/Five_Years_(book),exact_year
+FIC-0168,Around the Day in Eighty Worlds,1967,http://dbpedia.org/resource/Around_the_Day_in_Eighty_Worlds,exact_year
+FIC-0169,Cancer Ward,1968,http://dbpedia.org/resource/Cancer_Ward,exact_year
+FIC-0170,Mga Ibong Mandaragit,1969,http://dbpedia.org/resource/Mga_Ibong_Mandaragit,exact_year
+FIC-0171,My Dagestan,1970,http://dbpedia.org/resource/My_Dagestan,exact_year
+FIC-0172,Jim (book),1971,http://dbpedia.org/resource/Jim_(book),exact_year
+FIC-0173,Over the Long High Wall,1972,http://dbpedia.org/resource/Over_the_Long_High_Wall,exact_year
+FIC-0174,An Atlas of Fantasy,1973,http://dbpedia.org/resource/An_Atlas_of_Fantasy,exact_year
+FIC-0175,The Sharks (novel),1974,http://dbpedia.org/resource/The_Sharks_(novel),exact_year
+FIC-0176,African Hunter,1975,http://dbpedia.org/resource/African_Hunter,exact_year
+FIC-0177,Literary Swordsmen and Sorcerers,1976,http://dbpedia.org/resource/Literary_Swordsmen_and_Sorcerers,exact_year
+FIC-0178,The End of a Family Story,1977,http://dbpedia.org/resource/The_End_of_a_Family_Story,exact_year
+FIC-0179,Karjalan kruunu,1978,http://dbpedia.org/resource/Karjalan_kruunu,exact_year
+FIC-0180,A Dry White Season (novel),1979,http://dbpedia.org/resource/A_Dry_White_Season_(novel),exact_year
+FIC-0181,Count On the Saint,1980,http://dbpedia.org/resource/Count_On_the_Saint,exact_year
+FIC-0182,The Heart of a Woman,1981,http://dbpedia.org/resource/The_Heart_of_a_Woman,exact_year
+FIC-0183,Beka Lamb,1982,http://dbpedia.org/resource/Beka_Lamb,exact_year
+FIC-0184,De kroongetuige,1983,http://dbpedia.org/resource/De_kroongetuige,exact_year
+FIC-0185,Po-on,1984,http://dbpedia.org/resource/Po-on,exact_year
+FIC-0186,Plausible Prejudices,1985,http://dbpedia.org/resource/Plausible_Prejudices,exact_year
+FIC-0187,Deep Black (1986 book),1986,http://dbpedia.org/resource/Deep_Black_(1986_book),exact_year
+FIC-0188,News from the Empire,1987,http://dbpedia.org/resource/News_from_the_Empire,exact_year
+FIC-0189,Madame Two Swords,1988,http://dbpedia.org/resource/Madame_Two_Swords,exact_year
+FIC-0190,The Power of One (novel),1989,http://dbpedia.org/resource/The_Power_of_One_(novel),exact_year
+FIC-0191,The Further Adventures of The Joker,1990,http://dbpedia.org/resource/The_Further_Adventures_of_The_Joker,exact_year
+FIC-0192,The Boys from St. Petri (novel),1991,http://dbpedia.org/resource/The_Boys_from_St._Petri_(novel),exact_year
+FIC-0193,Life-Size (novel),1992,http://dbpedia.org/resource/Life-Size_(novel),exact_year
+FIC-0194,The Twins (De Loo novel),1993,http://dbpedia.org/resource/The_Twins_(Loo_novel),exact_year
+FIC-0195,The Discworld Companion,1994,http://dbpedia.org/resource/The_Discworld_Companion,exact_year
+FIC-0196,Cosmic Trigger III: My Life After Death,1995,http://dbpedia.org/resource/Cosmic_Trigger_III:_My_Life_After_Death,exact_year
+FIC-0197,The Pratchett Portfolio,1996,http://dbpedia.org/resource/The_Pratchett_Portfolio,exact_year
+FIC-0198,Chaos of the Senses,1997,http://dbpedia.org/resource/Chaos_of_the_Senses,exact_year
+FIC-0199,Batman Animated,1998,http://dbpedia.org/resource/Batman_Animated,exact_year
+FIC-0200,Fotografiks,1999,http://dbpedia.org/resource/Fotografiks,exact_year
+FIC-0201,Ama: A Story of the Atlantic Slave Trade,2000,http://dbpedia.org/resource/Ama:_A_Story_of_the_Atlantic_Slave_Trade,exact_year
+FIC-0202,Welcome to Our Hillbrow,2001,http://dbpedia.org/resource/Welcome_to_Our_Hillbrow,exact_year
+FIC-0203,Cool Gardens,2002,http://dbpedia.org/resource/Cool_Gardens,exact_year
+FIC-0204,"Is That You, Herb?",2003,"http://dbpedia.org/resource/Is_That_You,_Herb%3F",exact_year
+FIC-0205,Pir-e-Kamil,2004,http://dbpedia.org/resource/Pir-e-Kamil,exact_year
+FIC-0206,Little Boy: The Arts of Japan's Exploding Subculture,2005,http://dbpedia.org/resource/Little_Boy:_The_Arts_of_Japan's_Exploding_Subculture,exact_year
+FIC-0207,Oh What a Slaughter! : Massacres in the American West: 1846–1890,2006,http://dbpedia.org/resource/Oh_What_a_Slaughter!_:_Massacres_in_the_American_West:_1846–1890,exact_year
+FIC-0208,Chicago (novel),2007,http://dbpedia.org/resource/Chicago_(novel),exact_year
+FIC-0209,Ich werde hier sein im Sonnenschein und im Schatten,2008,http://dbpedia.org/resource/Ich_werde_hier_sein_im_Sonnenschein_und_im_Schatten,exact_year
+FIC-0210,La Virgen Cabeza,2009,http://dbpedia.org/resource/La_Virgen_Cabeza,exact_year
+FIC-0211,Voroshilovgrad (novel),2010,http://dbpedia.org/resource/Voroshilovgrad_(novel),exact_year
+FIC-0212,Godse's Children: Hindutva Terror in India,2011,http://dbpedia.org/resource/Godse's_Children:_Hindutva_Terror_in_India,exact_year
+FIC-0213,The Unfaithful Queen,2012,http://dbpedia.org/resource/The_Unfaithful_Queen,exact_year
+FIC-0214,Censoring Sex Research,2013,http://dbpedia.org/resource/Censoring_Sex_Research,exact_year
+FIC-0215,Suslov's Daughter,2014,http://dbpedia.org/resource/Suslov's_Daughter,exact_year
+FIC-0216,Weerwater (novel),2015,http://dbpedia.org/resource/Weerwater_(novel),exact_year
+FIC-0217,Hotel Silence,2016,http://dbpedia.org/resource/Hotel_Silence,exact_year
+FIC-0218,Where Poppies Blow,2017,http://dbpedia.org/resource/Where_Poppies_Blow,exact_year
+FIC-0219,Dark Religion,2018,http://dbpedia.org/resource/Dark_Religion,exact_year
+FIC-0220,Maid (book),2019,http://dbpedia.org/resource/Maid_(book),exact_year
+FIC-0221,The Kingdom (Nesbø novel),2020,http://dbpedia.org/resource/The_Kingdom_(Nesbø_novel),exact_year
+FIC-0222,God: An Anatomy,2021,http://dbpedia.org/resource/God:_An_Anatomy,exact_year
+FIC-0223,Counterfeit (novel),2022,http://dbpedia.org/resource/Counterfeit_(novel),exact_year
+FIC-0224,The Caretaker (Rash novel),2023,http://dbpedia.org/resource/The_Caretaker_(Rash_novel),exact_year
+FIC-0225,Until August,2024,http://dbpedia.org/resource/Until_August,exact_year
+FIC-0226,Joothan,1950,http://dbpedia.org/resource/Joothan,exact_year
+FIC-0227,The Chinese Maze Murders,1951,http://dbpedia.org/resource/The_Chinese_Maze_Murders,exact_year
+FIC-0228,Stalingrad (Grossman novel),1952,http://dbpedia.org/resource/Stalingrad_(Grossman_novel),exact_year
+FIC-0229,Captain Michalis,1953,http://dbpedia.org/resource/Captain_Michalis,exact_year
+FIC-0230,Philip and the Others,1954,http://dbpedia.org/resource/Philip_and_the_Others,exact_year
+FIC-0231,The Forbidden Forest,1955,http://dbpedia.org/resource/The_Forbidden_Forest,exact_year
+FIC-0232,Paul Klee Notebooks,1956,http://dbpedia.org/resource/Paul_Klee_Notebooks,exact_year
+FIC-0233,Beasts Head for Home,1957,http://dbpedia.org/resource/Beasts_Head_for_Home,exact_year
+FIC-0234,The Rise of the Meritocracy,1958,http://dbpedia.org/resource/The_Rise_of_the_Meritocracy,exact_year
+FIC-0235,I Loved Tiberius,1959,http://dbpedia.org/resource/I_Loved_Tiberius,exact_year
+FIC-0236,Ohvrilaev,1960,http://dbpedia.org/resource/Ohvrilaev,exact_year
+FIC-0237,White Horse Neighs in the Western Wind,1961,http://dbpedia.org/resource/White_Horse_Neighs_in_the_Western_Wind,exact_year
+FIC-0238,"Memories, Dreams, Reflections",1962,"http://dbpedia.org/resource/Memories,_Dreams,_Reflections",exact_year
+FIC-0239,Twentysix Gasoline Stations,1963,http://dbpedia.org/resource/Twentysix_Gasoline_Stations,exact_year
+FIC-0240,Patron de New-York,1964,http://dbpedia.org/resource/Patron_de_New-York,exact_year
+FIC-0241,The Beggar (novella),1965,http://dbpedia.org/resource/The_Beggar_(novella),exact_year
+FIC-0242,Tales from the Perilous Realm,1966,http://dbpedia.org/resource/The_Tolkien_Reader,exact_year
+FIC-0243,By-Line: Ernest Hemingway,1967,http://dbpedia.org/resource/By-Line:_Ernest_Hemingway,exact_year
+FIC-0244,Kartanonherra ja kaunis Kirstin,1968,http://dbpedia.org/resource/Kartanonherra_ja_kaunis_Kirstin,exact_year
+FIC-0245,The Beatles Illustrated Lyrics,1969,http://dbpedia.org/resource/The_Beatles_Illustrated_Lyrics,exact_year
+FIC-0246,The Dermis Probe,1970,http://dbpedia.org/resource/The_Dermis_Probe,exact_year
+FIC-0247,The Swords Trilogy,1971,http://dbpedia.org/resource/The_Swords_Trilogy,exact_year
+FIC-0248,Album of Dinosaurs,1972,http://dbpedia.org/resource/Album_of_Dinosaurs,exact_year
+FIC-0249,The Dogs Bark,1973,http://dbpedia.org/resource/The_Dogs_Bark,exact_year
+FIC-0250,The Indispensable Enemy,1974,http://dbpedia.org/resource/The_Indispensable_Enemy,exact_year
+FIC-0251,Without Feathers,1975,http://dbpedia.org/resource/Without_Feathers,exact_year
+FIC-0252,"Marcelo, Marmelo, Martelo (book)",1976,"http://dbpedia.org/resource/Marcelo,_Marmelo,_Martelo_(book)",exact_year
+FIC-0253,The Harafish,1977,http://dbpedia.org/resource/The_Harafish,exact_year
+FIC-0254,Faeries (book),1978,http://dbpedia.org/resource/Faeries_(book),exact_year
+FIC-0255,The South Seas (novel),1979,http://dbpedia.org/resource/The_South_Seas_(novel),exact_year
+FIC-0256,Marihuana: The First Twelve Thousand Years,1980,http://dbpedia.org/resource/Marihuana:_The_First_Twelve_Thousand_Years,exact_year
+FIC-0257,Three Filipino Women,1981,http://dbpedia.org/resource/Three_Filipino_Women,exact_year
+FIC-0258,Beka Lamb (character),1982,http://dbpedia.org/resource/Beka_Lamb,exact_year
+FIC-0259,The Day the Leader Was Killed,1983,http://dbpedia.org/resource/The_Day_the_Leader_Was_Killed,exact_year
+FIC-0260,The Hostage (novel),1984,http://dbpedia.org/resource/The_Hostage_(novel),exact_year
+FIC-0261,Little Brother (Baillie novel),1985,http://dbpedia.org/resource/Little_Brother_(Baillie_novel),exact_year
+FIC-0262,Deep Black (book),1986,http://dbpedia.org/resource/Deep_Black_(1986_book),exact_year
+FIC-0263,Christopher Unborn,1987,http://dbpedia.org/resource/Christopher_Unborn,exact_year
+FIC-0264,Bangla O Bangali,1988,http://dbpedia.org/resource/Bangla_O_Bangali,exact_year
+FIC-0265,Pietà (book),1989,http://dbpedia.org/resource/Pietà_(book),exact_year
+FIC-0266,Monday's Warriors,1990,http://dbpedia.org/resource/Monday's_Warriors,exact_year
+FIC-0267,The Gallifrey Chronicles (Peel book),1991,http://dbpedia.org/resource/The_Gallifrey_Chronicles_(Peel_book),exact_year
+FIC-0268,Spin Again,1992,http://dbpedia.org/resource/Spin_Again,exact_year
+FIC-0269,"Aramis, or the Love of Technology",1993,"http://dbpedia.org/resource/Aramis,_or_the_Love_of_Technology",exact_year
+FIC-0270,The Dragon's Pearl,1994,http://dbpedia.org/resource/The_Dragon's_Pearl,exact_year
+FIC-0271,Journey to Ithaca,1995,http://dbpedia.org/resource/Journey_to_Ithaca,exact_year
+FIC-0272,The Coral Sea (book),1996,http://dbpedia.org/resource/The_Coral_Sea_(book),exact_year
+FIC-0273,Angry White Pyjamas,1997,http://dbpedia.org/resource/Angry_White_Pyjamas,exact_year
+FIC-0274,All That: Fresh out the Box,1998,http://dbpedia.org/resource/All_That:_Fresh_out_the_Box,exact_year
+FIC-0275,Pornstar (book),1999,http://dbpedia.org/resource/Pornstar_(book),exact_year
+FIC-0276,An Embarrassment of Riches,2000,http://dbpedia.org/resource/An_Embarrassment_of_Riches,exact_year
+FIC-0277,The Last Summer of Reason,2001,http://dbpedia.org/resource/The_Last_Summer_of_Reason,exact_year
+FIC-0278,Crusade of Fire,2002,http://dbpedia.org/resource/Crusade_of_Fire,exact_year
+FIC-0279,Right to Exist: A Moral Defense of Israel's Wars,2003,http://dbpedia.org/resource/Right_to_Exist:_A_Moral_Defense_of_Israel's_Wars,exact_year
+FIC-0280,The Naked Woman,2004,http://dbpedia.org/resource/The_Naked_Woman,exact_year
+FIC-0281,Dancing in the Dark (novel),2005,http://dbpedia.org/resource/Dancing_in_the_Dark_(novel),exact_year
+FIC-0282,Becoming the Villainess,2006,http://dbpedia.org/resource/Becoming_the_Villainess,exact_year
+FIC-0283,Macarthur (novel),2007,http://dbpedia.org/resource/Macarthur_(novel),exact_year
+FIC-0284,Palpasa Café,2008,http://dbpedia.org/resource/Palpasa_Café,exact_year
+FIC-0285,The Dynamite Club,2009,http://dbpedia.org/resource/The_Dynamite_Club,exact_year
+FIC-0286,Rival to the Queen,2010,http://dbpedia.org/resource/Rival_to_the_Queen,exact_year
+FIC-0287,Severina (Rey Rosa),2011,http://dbpedia.org/resource/Severina_(Rey_Rosa),exact_year
+FIC-0288,No Time Like the Present,2012,http://dbpedia.org/resource/No_Time_Like_the_Present,exact_year
+FIC-0289,The Spanish Queen,2013,http://dbpedia.org/resource/The_Spanish_Queen,exact_year
+FIC-0290,After the Winter (novel),2014,http://dbpedia.org/resource/After_the_Winter_(novel),exact_year
+FIC-0291,Golden Lion (novel),2015,http://dbpedia.org/resource/Golden_Lion_(novel),exact_year
+FIC-0292,Jane the Quene,2016,http://dbpedia.org/resource/Jane_the_Quene,exact_year
+FIC-0293,Göl Yazı,2017,http://dbpedia.org/resource/Göl_Yazı,exact_year
+FIC-0294,The Kudzu Queen (book),2018,http://dbpedia.org/resource/The_Kudzu_Queen_(book),exact_year
+FIC-0295,Stiehl Assassin,2019,http://dbpedia.org/resource/Stiehl_Assassin,exact_year
+FIC-0296,Time Shelter,2020,http://dbpedia.org/resource/Time_Shelter,exact_year
+FIC-0297,Kill Switch (book),2021,http://dbpedia.org/resource/Kill_Switch_(book),exact_year
+FIC-0298,Perfection (novel),2022,http://dbpedia.org/resource/Perfection_(novel),exact_year
+FIC-0299,The Night House (novel),2023,http://dbpedia.org/resource/The_Night_House_(novel),exact_year
+FIC-0300,It Rhymes With Truth,2024,http://dbpedia.org/resource/It_Rhymes_With_Truth,exact_year
+FIC-0301,Fighters for Freedom. Lithuanian Partisans Versus the U.S.S.R.,1950,http://dbpedia.org/resource/Fighters_for_Freedom._Lithuanian_Partisans_Versus_the_U.S.S.R.,exact_year
+FIC-0302,A World Apart (book),1951,http://dbpedia.org/resource/A_World_Apart_(book),exact_year
+FIC-0303,Leaves for the Burning,1952,http://dbpedia.org/resource/Leaves_for_the_Burning,exact_year
+FIC-0304,House of Dolls,1953,http://dbpedia.org/resource/House_of_Dolls,exact_year
+FIC-0305,Future Indefinite,1954,http://dbpedia.org/resource/Future_Indefinite,exact_year
+FIC-0306,Brain-Washing (book),1955,http://dbpedia.org/resource/Brain-Washing_(book),exact_year
+FIC-0307,Tawara-Jime,1956,http://dbpedia.org/resource/The_Canon_of_Judo,exact_year
+FIC-0308,Helmet for My Pillow,1957,http://dbpedia.org/resource/Helmet_for_My_Pillow,exact_year
+FIC-0309,A World of Strangers,1958,http://dbpedia.org/resource/A_World_of_Strangers,exact_year
+FIC-0310,Eagles Fly Early (novel),1959,http://dbpedia.org/resource/Eagles_Fly_Early_(novel),exact_year
+FIC-0311,The 10 (novel),1960,http://dbpedia.org/resource/The_10_(novel),exact_year
+FIC-0312,The Hard Life,1961,http://dbpedia.org/resource/The_Hard_Life,exact_year
+FIC-0313,Five Centuries of Spanish Literature,1962,http://dbpedia.org/resource/Five_Centuries_of_Spanish_Literature,exact_year
+FIC-0314,Udaas Naslain,1963,http://dbpedia.org/resource/Udaas_Naslain,exact_year
+FIC-0315,The Good Hope (novel),1964,http://dbpedia.org/resource/The_Good_Hope_(novel),exact_year
+FIC-0316,The Gospel According to Peanuts,1965,http://dbpedia.org/resource/The_Gospel_According_to_Peanuts,exact_year
+FIC-0317,The Tolkien Reader,1966,http://dbpedia.org/resource/The_Tolkien_Reader,exact_year
+FIC-0318,Tres tristes tigres (novel),1967,http://dbpedia.org/resource/Tres_tristes_tigres_(novel),exact_year
+FIC-0319,The Cathedral (Honchar novel),1968,http://dbpedia.org/resource/The_Cathedral_(Honchar_novel),exact_year
+FIC-0320,The Flight of the Wild Gander,1969,http://dbpedia.org/resource/The_Flight_of_the_Wild_Gander,exact_year
+FIC-0321,Vibration Cooking,1970,http://dbpedia.org/resource/Vibration_Cooking,exact_year
+FIC-0322,The Best of National Lampoon No. 1,1971,http://dbpedia.org/resource/The_Best_of_National_Lampoon_No._1,exact_year
+FIC-0323,The Book of Folly,1972,http://dbpedia.org/resource/The_Book_of_Folly,exact_year
+FIC-0324,The Last of the Nuba,1973,http://dbpedia.org/resource/The_Last_of_the_Nuba,exact_year
+FIC-0325,The Job of Sex,1974,http://dbpedia.org/resource/The_Job_of_Sex,exact_year
+FIC-0326,The Collected Books of Jack Spicer,1975,http://dbpedia.org/resource/The_Collected_Books_of_Jack_Spicer,exact_year
+FIC-0327,The Definitive Biography of P.D.Q. Bach,1976,http://dbpedia.org/resource/The_Definitive_Biography_of_P.D.Q._Bach,exact_year
+FIC-0328,Wings of the Falcon,1977,http://dbpedia.org/resource/Wings_of_the_Falcon,exact_year
+FIC-0329,The Strange Allies,1978,http://dbpedia.org/resource/The_Strange_Allies,exact_year
+FIC-0330,The Black Book of Clark Ashton Smith,1979,http://dbpedia.org/resource/The_Black_Book_of_Clark_Ashton_Smith,exact_year
+FIC-0331,Reading Writing,1980,http://dbpedia.org/resource/Reading_Writing,exact_year
+FIC-0332,"Ah, but Your Land Is Beautiful",1981,"http://dbpedia.org/resource/Ah,_but_Your_Land_Is_Beautiful",exact_year
+FIC-0333,Ciudades desiertas,1982,http://dbpedia.org/resource/Ciudades_desiertas,exact_year
+FIC-0334,The Journey of Ibn Fattouma,1983,http://dbpedia.org/resource/The_Journey_of_Ibn_Fattouma,exact_year
+FIC-0335,A Synchronic Chinese-Western Daily Calendar: 1341–1661 A.D.,1984,http://dbpedia.org/resource/A_Synchronic_Chinese-Western_Daily_Calendar:_1341–1661_A.D.,exact_year
+FIC-0336,The Fungus,1985,http://dbpedia.org/resource/The_Fungus,exact_year
+FIC-0337,Hymns and Psalms,1986,http://dbpedia.org/resource/Hymns_and_Psalms,exact_year
+FIC-0338,Republican Party Reptile,1987,http://dbpedia.org/resource/Republican_Party_Reptile,exact_year
+FIC-0339,Jibon O Rajnaitik Bastobota,1988,http://dbpedia.org/resource/Jibon_O_Rajnaitik_Bastobota,exact_year
+FIC-0340,The Melancholy of Resistance,1989,http://dbpedia.org/resource/The_Melancholy_of_Resistance,exact_year
+FIC-0341,The Black Book (Pamuk novel),1990,http://dbpedia.org/resource/The_Black_Book_(Pamuk_novel),exact_year
+FIC-0342,The Book of Intimate Grammar,1991,http://dbpedia.org/resource/The_Book_of_Intimate_Grammar,exact_year
+FIC-0343,Trnovska mafija,1992,http://dbpedia.org/resource/Trnovska_mafija,exact_year
+FIC-0344,Pichilemu Blues,1993,http://dbpedia.org/resource/Pichilemu_Blues,exact_year
+FIC-0345,Jubilee (Solomon novel),1994,http://dbpedia.org/resource/Jubilee_(Solomon_novel),exact_year
+FIC-0346,The Computer Contradictionary,1995,http://dbpedia.org/resource/The_Computer_Contradictionary,exact_year
+FIC-0347,The Law of Love,1996,http://dbpedia.org/resource/The_Law_of_Love,exact_year
+FIC-0348,Boyhood: Scenes from Provincial Life,1997,http://dbpedia.org/resource/Boyhood:_Scenes_from_Provincial_Life,exact_year
+FIC-0349,Patti Smith Complete,1998,http://dbpedia.org/resource/Patti_Smith_Complete,exact_year
+FIC-0350,The Land of Darkness (novel),1999,http://dbpedia.org/resource/The_Land_of_Darkness_(novel),exact_year
+FIC-0351,An Episode in the Life of a Landscape Painter,2000,http://dbpedia.org/resource/An_Episode_in_the_Life_of_a_Landscape_Painter,exact_year
+FIC-0352,Shantytown (novel),2001,http://dbpedia.org/resource/Shantytown_(novel),exact_year
+FIC-0353,Men and the City,2002,http://dbpedia.org/resource/Men_and_the_City,exact_year
+FIC-0354,The Bird That Drinks Tears,2003,http://dbpedia.org/resource/The_Bird_That_Drinks_Tears,exact_year
+FIC-0355,"Yeah, I Said It",2004,"http://dbpedia.org/resource/Yeah,_I_Said_It",exact_year
+FIC-0356,"Friends, Lovers, Chocolate",2005,"http://dbpedia.org/resource/Friends,_Lovers,_Chocolate",exact_year
+FIC-0357,Bass Ackwards and Belly Up,2006,http://dbpedia.org/resource/Bass_Ackwards_and_Belly_Up,exact_year
+FIC-0358,"Mees, kes teadis ussisõnu",2007,"http://dbpedia.org/resource/Mees,_kes_teadis_ussisõnu",exact_year
+FIC-0359,The Museum of Innocence,2008,http://dbpedia.org/resource/The_Museum_of_Innocence,exact_year
+FIC-0360,The Memoirs of Mary Queen of Scots,2009,http://dbpedia.org/resource/The_Memoirs_of_Mary_Queen_of_Scots,exact_year
+FIC-0361,Second Person Singular,2010,http://dbpedia.org/resource/Second_Person_Singular,exact_year
+FIC-0362,Vazha-Pshavela (biographical novel),2011,http://dbpedia.org/resource/Vazha-Pshavela_(biographical_novel),exact_year
+FIC-0363,Helessa,2012,http://dbpedia.org/resource/Helessa,exact_year
+FIC-0364,The Fall of Arthur,2013,http://dbpedia.org/resource/The_Fall_of_Arthur,exact_year
+FIC-0365,October (novel),2014,http://dbpedia.org/resource/October_(novel),exact_year
+FIC-0366,Caring for the Heart,2015,http://dbpedia.org/resource/Caring_for_the_Heart,exact_year
+FIC-0367,The Schooldays of Jesus,2016,http://dbpedia.org/resource/The_Schooldays_of_Jesus,exact_year
+FIC-0368,How the BJP Wins,2017,http://dbpedia.org/resource/How_the_BJP_Wins,exact_year
+FIC-0369,Event-Space: Theatre Architecture and the Historical Avant-Garde,2018,http://dbpedia.org/resource/Event-Space:_Theatre_Architecture_and_the_Historical_Avant-Garde,exact_year
+FIC-0370,Chasing Homer,2019,http://dbpedia.org/resource/Chasing_Homer,exact_year
+FIC-0371,Reptile Memoirs,2020,http://dbpedia.org/resource/Reptile_Memoirs,exact_year
+FIC-0372,Music by Laxmikant Pyarelal: The Incredibly Melodious Journey,2021,http://dbpedia.org/resource/Music_by_Laxmikant_Pyarelal:_The_Incredibly_Melodious_Journey,exact_year
+FIC-0373,Rosenfeld (novel),2022,http://dbpedia.org/resource/Rosenfeld_(novel),exact_year
+FIC-0374,Ascension (Binge novel),2023,http://dbpedia.org/resource/Ascension_(Binge_novel),exact_year
+FIC-0375,Midnight and Blue,2024,http://dbpedia.org/resource/Midnight_and_Blue,exact_year
+FIC-0376,Kuroi Ushio,1950,http://dbpedia.org/resource/Kuroi_Ushio,exact_year
+FIC-0377,The Mills of The Kavanaughs,1951,http://dbpedia.org/resource/The_Mills_of_The_Kavanaughs,exact_year
+FIC-0378,The Anathemata,1952,http://dbpedia.org/resource/The_Anathemata,exact_year
+FIC-0379,The Complete Book of Outer Space,1953,http://dbpedia.org/resource/The_Complete_Book_of_Outer_Space,exact_year
+FIC-0380,Christ Recrucified,1954,http://dbpedia.org/resource/Christ_Recrucified,exact_year
+FIC-0381,Rosa at Ten O'Clock,1955,http://dbpedia.org/resource/Rosa_at_Ten_O'Clock,exact_year
+FIC-0382,The Canon of Judo,1956,http://dbpedia.org/resource/The_Canon_of_Judo,exact_year
+FIC-0383,The God Boy,1957,http://dbpedia.org/resource/The_God_Boy,exact_year
+FIC-0384,Deep Rivers,1958,http://dbpedia.org/resource/Deep_Rivers,exact_year
+FIC-0385,Karolcia,1959,http://dbpedia.org/resource/Karolcia,exact_year
+FIC-0386,The Fern and the Tiki,1960,http://dbpedia.org/resource/The_Fern_and_the_Tiki,exact_year
+FIC-0387,The Butterfly Revolution,1961,http://dbpedia.org/resource/The_Butterfly_Revolution,exact_year
+FIC-0388,One Day in the Life of Ivan Denisovich,1962,http://dbpedia.org/resource/One_Day_in_the_Life_of_Ivan_Denisovich,exact_year
+FIC-0389,Don Juan (novel),1963,http://dbpedia.org/resource/Don_Juan_(novel),exact_year
+FIC-0390,The King of the Copper Mountains,1964,http://dbpedia.org/resource/The_King_of_the_Copper_Mountains,exact_year
+FIC-0391,El bandido adolescente,1965,http://dbpedia.org/resource/El_bandido_adolescente,exact_year
+FIC-0392,The Late Bourgeois World,1966,http://dbpedia.org/resource/The_Late_Bourgeois_World,exact_year
+FIC-0393,One Hundred Years of Solitude,1967,http://dbpedia.org/resource/One_Hundred_Years_of_Solitude,exact_year
+FIC-0394,Steps in the Scientific Tradition,1968,http://dbpedia.org/resource/Steps_in_the_Scientific_Tradition,exact_year
+FIC-0395,The Iron Tonic,1969,http://dbpedia.org/resource/The_Iron_Tonic,exact_year
+FIC-0396,A Guest of Honour (novel),1970,http://dbpedia.org/resource/A_Guest_of_Honour_(novel),exact_year
+FIC-0397,When the sun,1971,http://dbpedia.org/resource/When_the_sun,exact_year
+FIC-0398,The Firesign Theatre's Big Book of Plays,1972,http://dbpedia.org/resource/The_Firesign_Theatre's_Big_Book_of_Plays,exact_year
+FIC-0399,A Man Was Going Down the Road,1973,http://dbpedia.org/resource/A_Man_Was_Going_Down_the_Road,exact_year
+FIC-0400,Dusklands,1974,http://dbpedia.org/resource/Dusklands,exact_year
+FIC-0401,The Autumn of the Patriarch,1975,http://dbpedia.org/resource/The_Autumn_of_the_Patriarch,exact_year
+FIC-0402,The Doctor's Wife (Moore novel),1976,http://dbpedia.org/resource/The_Doctor's_Wife_(Moore_novel),exact_year
+FIC-0403,Pappilan neidot,1977,http://dbpedia.org/resource/Pappilan_neidot,exact_year
+FIC-0404,National Lampoon's Animal House Book,1978,http://dbpedia.org/resource/National_Lampoon's_Animal_House_Book,exact_year
+FIC-0405,The Dragon Can't Dance,1979,http://dbpedia.org/resource/The_Dragon_Can't_Dance,exact_year
+FIC-0406,The Illuminati Papers,1980,http://dbpedia.org/resource/The_Illuminati_Papers,exact_year
+FIC-0407,Town Boy,1981,http://dbpedia.org/resource/Town_Boy,exact_year
+FIC-0408,Vanishing Africa,1982,http://dbpedia.org/resource/Vanishing_Africa,exact_year
+FIC-0409,Fire in the Abyss,1983,http://dbpedia.org/resource/Fire_in_the_Abyss,exact_year
+FIC-0410,Jacklight,1984,http://dbpedia.org/resource/Jacklight,exact_year
+FIC-0411,Telling Right from Wrong,1985,http://dbpedia.org/resource/Telling_Right_from_Wrong,exact_year
+FIC-0412,An Unfinished Journey,1986,http://dbpedia.org/resource/An_Unfinished_Journey,exact_year
+FIC-0413,Forced Entries: The Downtown Diaries 1971–1973,1987,http://dbpedia.org/resource/Forced_Entries:_The_Downtown_Diaries_1971–1973,exact_year
+FIC-0414,Barnyard Dance,1988,http://dbpedia.org/resource/Rise_Up_Singing,exact_year
+FIC-0415,Roman 1987,1989,http://dbpedia.org/resource/Roman_1987,exact_year
+FIC-0416,"Clear Body, Clear Mind",1990,"http://dbpedia.org/resource/Clear_Body,_Clear_Mind",exact_year
+FIC-0417,El vuelo de los avestruces,1991,http://dbpedia.org/resource/El_vuelo_de_los_avestruces,exact_year
+FIC-0418,Twice Blessed,1992,http://dbpedia.org/resource/Twice_Blessed,exact_year
+FIC-0419,The Far Side Gallery 4,1993,http://dbpedia.org/resource/The_Far_Side_Gallery_4,exact_year
+FIC-0420,The New Life (Pamuk novel),1994,http://dbpedia.org/resource/The_New_Life_(Pamuk_novel),exact_year
+FIC-0421,The Curious Enlightenment of Professor Caritat,1995,http://dbpedia.org/resource/The_Curious_Enlightenment_of_Professor_Caritat,exact_year
+FIC-0422,UFOs: The Greatest Stories,1996,http://dbpedia.org/resource/UFOs:_The_Greatest_Stories,exact_year
+FIC-0423,The Compass of Zen,1997,http://dbpedia.org/resource/The_Compass_of_Zen,exact_year
+FIC-0424,Rencontre au Sommet,1998,http://dbpedia.org/resource/Rencontre_au_Sommet,exact_year
+FIC-0425,The Blackford Oakes Reader,1999,http://dbpedia.org/resource/The_Blackford_Oakes_Reader,exact_year
+FIC-0426,Necessary But Not Sufficient (novel),2000,http://dbpedia.org/resource/Necessary_But_Not_Sufficient_(novel),exact_year
+FIC-0427,Flight Without a Tun,2001,http://dbpedia.org/resource/Flight_Without_a_Tun,exact_year
+FIC-0428,The Purpose Driven Life,2002,http://dbpedia.org/resource/The_Purpose_Driven_Life,exact_year
+FIC-0429,The Complete Far Side,2003,http://dbpedia.org/resource/The_Complete_Far_Side,exact_year
+FIC-0430,Destruction and Sorrow Beneath the Heavens,2004,http://dbpedia.org/resource/Destruction_and_Sorrow_Beneath_the_Heavens,exact_year
+FIC-0431,La sombra de Heidegger,2005,http://dbpedia.org/resource/La_sombra_de_Heidegger,exact_year
+FIC-0432,"Fredegunde, Neustria kuninganna",2006,"http://dbpedia.org/resource/Fredegunde,_Neustria_kuninganna",exact_year
+FIC-0433,The Man Who Spoke Snakish,2007,"http://dbpedia.org/resource/Mees,_kes_teadis_ussisõnu",exact_year
+FIC-0434,Books: A Memoir,2008,http://dbpedia.org/resource/Books:_A_Memoir,exact_year
+FIC-0435,The Honour of the Knights,2009,http://dbpedia.org/resource/The_Honour_of_the_Knights,exact_year
+FIC-0436,Just Add Magic,2010,http://dbpedia.org/resource/Just_Add_Magic,exact_year
+FIC-0437,Restoration (Ólafsson novel),2011,http://dbpedia.org/resource/Restoration_(Ólafsson_novel),exact_year
+FIC-0438,I Am a Pole (And So Can You!),2012,http://dbpedia.org/resource/I_Am_a_Pole_(And_So_Can_You!),exact_year
+FIC-0439,A Big She-Bear,2013,http://dbpedia.org/resource/A_Big_She-Bear,exact_year
+FIC-0440,With the People from the Bridge,2014,http://dbpedia.org/resource/With_the_People_from_the_Bridge,exact_year
+FIC-0441,Solenoid (novel),2015,http://dbpedia.org/resource/Solenoid_(novel),exact_year
+FIC-0442,Why Men Marry Bitches,2016,http://dbpedia.org/resource/Why_Men_Marry_Bitches,exact_year
+FIC-0443,"Goodbye, Vitamin",2017,"http://dbpedia.org/resource/Goodbye,_Vitamin",exact_year
+FIC-0444,Miss Iceland (novel),2018,http://dbpedia.org/resource/Miss_Iceland_(novel),exact_year
+FIC-0445,Can Everyone Please Calm Down?,2019,http://dbpedia.org/resource/Can_Everyone_Please_Calm_Down%3F,exact_year
+FIC-0446,City as an Artist's Subjectivity,2020,http://dbpedia.org/resource/City_as_an_Artist's_Subjectivity,exact_year
+FIC-0447,Nagougi,2021,http://dbpedia.org/resource/Nagougi,exact_year
+FIC-0448,The Accidental Malay,2022,http://dbpedia.org/resource/The_Accidental_Malay,exact_year
+FIC-0449,Moral Minefields: How Sociologists Debate Good Science,2023,http://dbpedia.org/resource/Moral_Minefields:_How_Sociologists_Debate_Good_Science,exact_year
+FIC-0450,LIFE. Hollywood,2024,http://dbpedia.org/resource/LIFE._Hollywood,exact_year
+FIC-0451,Barabbas (novel),1950,http://dbpedia.org/resource/Barabbas_(novel),exact_year
+FIC-0452,Hansuli Banker Upakatha (novel),1951,http://dbpedia.org/resource/Hansuli_Banker_Upakatha_(novel),exact_year
+FIC-0453,Thousand Cranes,1952,http://dbpedia.org/resource/Thousand_Cranes,exact_year
+FIC-0454,In the Castle of My Skin,1953,http://dbpedia.org/resource/In_the_Castle_of_My_Skin,exact_year
+FIC-0455,The Descendants of Cain,1954,http://dbpedia.org/resource/The_Descendants_of_Cain,exact_year
+FIC-0456,When the Robbers Came to Cardamom Town,1955,http://dbpedia.org/resource/When_the_Robbers_Came_to_Cardamom_Town,exact_year
+FIC-0457,The Settlers (novel),1956,http://dbpedia.org/resource/The_Settlers_(novel),exact_year
+FIC-0458,The Doubtful Guest,1957,http://dbpedia.org/resource/The_Doubtful_Guest,exact_year
+FIC-0459,The Hunt for Kimathi,1958,http://dbpedia.org/resource/The_Hunt_for_Kimathi,exact_year
+FIC-0460,The Road to Agra,1959,http://dbpedia.org/resource/The_Road_to_Agra,exact_year
+FIC-0461,The Annotated Alice,1960,http://dbpedia.org/resource/The_Annotated_Alice,exact_year
+FIC-0462,The Curious Sofa,1961,http://dbpedia.org/resource/The_Curious_Sofa,exact_year
+FIC-0463,Raymond Chandler Speaking,1962,http://dbpedia.org/resource/Raymond_Chandler_Speaking,exact_year
+FIC-0464,Devet fantov in eno dekle,1963,http://dbpedia.org/resource/Devet_fantov_in_eno_dekle,exact_year
+FIC-0465,Animal Machines,1964,http://dbpedia.org/resource/Animal_Machines,exact_year
+FIC-0466,The Secrets of the Wild Wood,1965,http://dbpedia.org/resource/The_Secrets_of_the_Wild_Wood,exact_year
+FIC-0467,Seven Come Infinity,1966,http://dbpedia.org/resource/Seven_Come_Infinity,exact_year
+FIC-0468,The Ruined Map,1967,http://dbpedia.org/resource/The_Ruined_Map,exact_year
+FIC-0469,The Day of the Dinosaur,1968,http://dbpedia.org/resource/The_Day_of_the_Dinosaur,exact_year
+FIC-0470,The Kingdom and the Power,1969,http://dbpedia.org/resource/The_Kingdom_and_the_Power,exact_year
+FIC-0471,Old Ben,1970,http://dbpedia.org/resource/Old_Ben,exact_year
+FIC-0472,Making Peace,1971,http://dbpedia.org/resource/Making_Peace,exact_year
+FIC-0473,The Giant Jam Sandwich,1972,http://dbpedia.org/resource/The_Giant_Jam_Sandwich,exact_year
+FIC-0474,Festivals (book),1973,http://dbpedia.org/resource/Festivals_(book),exact_year
+FIC-0475,The Hearing Trumpet,1974,http://dbpedia.org/resource/The_Hearing_Trumpet,exact_year
+FIC-0476,Virgil Finlay: An Astrology Sketchbook,1975,http://dbpedia.org/resource/Virgil_Finlay:_An_Astrology_Sketchbook,exact_year
+FIC-0477,For Money or Love,1976,http://dbpedia.org/resource/For_Money_or_Love,exact_year
+FIC-0478,Callahan's Crosstime Saloon,1977,http://dbpedia.org/resource/Callahan's_Crosstime_Saloon,exact_year
+FIC-0479,The English Gentleman,1978,http://dbpedia.org/resource/The_English_Gentleman,exact_year
+FIC-0480,The Eiffel Tower and Other Mythologies,1979,http://dbpedia.org/resource/The_Eiffel_Tower_and_Other_Mythologies,exact_year
+FIC-0481,Women of Algiers in Their Apartment,1980,http://dbpedia.org/resource/Women_of_Algiers_in_Their_Apartment,exact_year
+FIC-0482,Aik Din,1981,http://dbpedia.org/resource/Aik_Din,exact_year
+FIC-0483,A Novel about Human Destiny,1982,http://dbpedia.org/resource/A_Novel_about_Human_Destiny,exact_year
+FIC-0484,The Desert Rose,1983,http://dbpedia.org/resource/The_Desert_Rose,exact_year
+FIC-0485,The Birthing of Hannibal Valdez,1984,http://dbpedia.org/resource/The_Birthing_of_Hannibal_Valdez,exact_year
+FIC-0486,Medea: Harlan's World,1985,http://dbpedia.org/resource/Medea:_Harlan's_World,exact_year
+FIC-0487,How Institutions Think,1986,http://dbpedia.org/resource/How_Institutions_Think,exact_year
+FIC-0488,The Boozer Challenge,1987,http://dbpedia.org/resource/The_Boozer_Challenge,exact_year
+FIC-0489,Rise Up Singing,1988,http://dbpedia.org/resource/Rise_Up_Singing,exact_year
+FIC-0490,Monty Python's Flying Circus: Just the Words,1989,http://dbpedia.org/resource/Monty_Python's_Flying_Circus:_Just_the_Words,exact_year
+FIC-0491,Man After Man,1990,http://dbpedia.org/resource/Man_After_Man,exact_year
+FIC-0492,Star Trek: The Next Generation Technical Manual,1991,http://dbpedia.org/resource/Star_Trek:_The_Next_Generation_Technical_Manual,exact_year
+FIC-0493,Vaskilintu,1992,http://dbpedia.org/resource/Vaskilintu,exact_year
+FIC-0494,Der Rote Ritter,1993,http://dbpedia.org/resource/Der_Rote_Ritter,exact_year
+FIC-0495,The Star Trek Encyclopedia,1994,http://dbpedia.org/resource/The_Star_Trek_Encyclopedia,exact_year
+FIC-0496,The Discontinuity Guide,1995,http://dbpedia.org/resource/The_Discontinuity_Guide,exact_year
+FIC-0497,A Smile in the Mind,1996,http://dbpedia.org/resource/A_Smile_in_the_Mind,exact_year
+FIC-0498,The Dragonslayer's Apprentice,1997,http://dbpedia.org/resource/The_Dragonslayer's_Apprentice,exact_year
+FIC-0499,The Bondmaid,1998,http://dbpedia.org/resource/The_Bondmaid,exact_year
+FIC-0500,The Headless Bust,1999,http://dbpedia.org/resource/The_Headless_Bust,exact_year

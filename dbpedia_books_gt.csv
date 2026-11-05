@@ -1,0 +1,501 @@
+,S.No,BookTitle,Book_URI,Prize_Type,PublicationYear,Author,Birthplace,PopCount
+0,1,Dianetics: The Modern Science of Mental Health,http://dbpedia.org/resource/Dianetics:_The_Modern_Science_of_Mental_Health,Pulitzer,1950,Unknown,Unknown,Unknown
+1,2,"Speak, Memory","http://dbpedia.org/resource/Speak,_Memory",Pulitzer,1951,John Cheever,"Quincy, Massachusetts",101636
+2,3,A Road with No End,http://dbpedia.org/resource/A_Road_with_No_End,Pulitzer,1952,Bernard Malamud,Brooklyn,2736074
+3,4,Cry Slaughter!,http://dbpedia.org/resource/Cry_Slaughter!,Pulitzer,1953,Eudora Welty,"Jackson, Mississippi",153701
+4,5,Il disprezzo,http://dbpedia.org/resource/Il_disprezzo,Pulitzer,1954,John Cheever,"Quincy, Massachusetts",101636
+5,6,Night (memoir),http://dbpedia.org/resource/Night_(memoir),Pulitzer,1955,John Updike,"Reading, Pennsylvania",95112
+6,7,Climbié (novel),http://dbpedia.org/resource/Climbié_(novel),Pulitzer,1956,Edwin O'Connor,"Providence, Rhode Island",190934
+7,8,Amba Yaluwo,http://dbpedia.org/resource/Amba_Yaluwo,Pulitzer,1957,John Cheever,"Quincy, Massachusetts",101636
+8,9,Rose of the World (1991 book),http://dbpedia.org/resource/Rose_of_the_World_(1991_book),Booker,1958,Nadine Gordimer,"Springs, South Africa",121610
+9,10,Children of Gebelawi,http://dbpedia.org/resource/Children_of_Gebelawi,Pulitzer,1959,Philip Roth,"Newark, New Jersey",311549
+10,11,God Was Born in Exile,http://dbpedia.org/resource/God_Was_Born_in_Exile,Pulitzer,1960,William Styron,"Newport News, Virginia",186247
+11,12,Toros y toreros,http://dbpedia.org/resource/Toros_y_toreros,Pulitzer,1961,John Cheever,"Quincy, Massachusetts",101636
+12,13,Aangan (novel),http://dbpedia.org/resource/Aangan_(novel),Pulitzer,1962,Philip Roth,"Newark, New Jersey",311549
+13,14,Meetings with Remarkable Men,http://dbpedia.org/resource/Meetings_with_Remarkable_Men,Pulitzer,1963,John Updike,"Reading, Pennsylvania",95112
+14,15,Todas las Sangres,http://dbpedia.org/resource/Todas_las_Sangres,Pulitzer,1964,John Cheever,"Quincy, Massachusetts",101636
+15,16,The Second Round (novel),http://dbpedia.org/resource/The_Second_Round_(novel),Pulitzer,1965,Cormac McCarthy,"Providence, Rhode Island",190934
+16,17,Nairn's London,http://dbpedia.org/resource/Nairn's_London,Pulitzer,1966,John Cheever,"Quincy, Massachusetts",101636
+17,18,Necropolis (Pahor novel),http://dbpedia.org/resource/Necropolis_(Pahor_novel),Pulitzer,1967,Philip Roth,"Newark, New Jersey",311549
+18,19,"Love, Anger, Madness","http://dbpedia.org/resource/Love,_Anger,_Madness",Booker,1968,Kingsley Amis,Clapham,48478
+19,20,Umm Saad,http://dbpedia.org/resource/Umm_Saad,Pulitzer,1969,Philip Roth,"Newark, New Jersey",311549
+20,21,Abigail (novel),http://dbpedia.org/resource/Abigail_(novel),Booker,1970,Nadine Gordimer,"Springs, South Africa",121610
+21,22,The Fox From Up Above and the Fox From Down Below,http://dbpedia.org/resource/The_Fox_From_Up_Above_and_the_Fox_From_Down_Below,Pulitzer,1971,Allen Drury,Houston,2304580
+22,23,Mirrors (novel),http://dbpedia.org/resource/Mirrors_(novel),Booker,1972,John Berger,London,9841000
+23,24,Neurologic (book),http://dbpedia.org/resource/Neurologic_(book),Booker,1973,Penelope Lively,Cairo,9801536
+24,25,Al-Zini Barakat,http://dbpedia.org/resource/Al-Zini_Barakat,Pulitzer,1974,William Faulkner,"New Albany, Mississippi",7626
+25,26,When Money Dies,http://dbpedia.org/resource/When_Money_Dies,Pulitzer,1975,Philip Roth,"Newark, New Jersey",311549
+26,27,The People of Kau,http://dbpedia.org/resource/The_People_of_Kau,Pulitzer,1976,Unknown,Unknown,Unknown
+27,28,Octavia (novel),http://dbpedia.org/resource/Octavia_(novel),Pulitzer,1977,John Updike,"Reading, Pennsylvania",95112
+28,29,Jay's Journal,http://dbpedia.org/resource/Jay's_Journal,Pulitzer,1978,James A. Michener,"Doylestown, Pennsylvania",8300
+29,30,Sakala-nīti-sammatamu,http://dbpedia.org/resource/Sakala-nīti-sammatamu,Booker,1979,Thomas Keneally,Sydney,5557233
+30,31,A Sentimental Education (short stories),http://dbpedia.org/resource/A_Sentimental_Education_(short_stories),Pulitzer,1980,Eudora Welty,"Jackson, Mississippi",153701
+31,32,The Atlas of Middle-earth,http://dbpedia.org/resource/The_Atlas_of_Middle-earth,Booker,1981,Ben Okri,Minna,304113
+32,33,A History of the Jews in Macedonia,http://dbpedia.org/resource/A_History_of_the_Jews_in_Macedonia,Booker,1982,Thomas Keneally,Sydney,5557233
+33,34,Crystal Boys,http://dbpedia.org/resource/Crystal_Boys,Booker,1983,Salman Rushdie,Mumbai,12442373
+34,35,X Stands for Unknown,http://dbpedia.org/resource/X_Stands_for_Unknown,Pulitzer,1984,John Updike,"Reading, Pennsylvania",95112
+35,36,Antipodes (story collection),http://dbpedia.org/resource/Antipodes_(story_collection),Booker,1985,Margaret Atwood,Ottawa,1017449
+36,37,Sister Ships and Other Stories,http://dbpedia.org/resource/Sister_Ships_and_Other_Stories,Pulitzer,1986,Allen Drury,Houston,2304580
+37,38,Stories from the Warm Zone,http://dbpedia.org/resource/Stories_from_the_Warm_Zone,Booker,1987,Salman Rushdie,Mumbai,12442373
+38,39,"Bata, Bata... Pa'no Ka Ginawa?","http://dbpedia.org/resource/Bata,_Bata..._Pa'no_Ka_Ginawa%3F",Pulitzer,1988,Jane Smiley,Los Angeles,3898747
+39,40,This Boy's Life: A Memoir,http://dbpedia.org/resource/This_Boy's_Life:_A_Memoir,Pulitzer,1989,Oscar Hijuelos,New York City,8804190
+40,41,The Last Harmattan of Alusine Dunbar,http://dbpedia.org/resource/The_Last_Harmattan_of_Alusine_Dunbar,Booker,1990,Salman Rushdie,Mumbai,12442373
+41,42,Tandia,http://dbpedia.org/resource/Tandia,Pulitzer,1991,Jane Smiley,Los Angeles,3898747
+42,43,Dick's Kiss,http://dbpedia.org/resource/Dick's_Kiss,Pulitzer,1992,Edward P. Jones,"Washington, D.C.",689545
+43,44,Poème de la folie,http://dbpedia.org/resource/Poème_de_la_folie,Pulitzer,1993,Philip Roth,"Newark, New Jersey",311549
+44,45,Of Love and Other Demons,http://dbpedia.org/resource/Of_Love_and_Other_Demons,Booker,1994,Hilary Mantel,Glossop,17825
+45,46,To Write Like a Woman,http://dbpedia.org/resource/To_Write_Like_a_Woman,Pulitzer,1995,Jane Smiley,Los Angeles,3898747
+46,47,Citizen and Subject,http://dbpedia.org/resource/Citizen_and_Subject,Booker,1996,Graham Swift,United Kingdom,68265209
+47,48,Critical Chain (novel),http://dbpedia.org/resource/Critical_Chain_(novel),Pulitzer,1997,Philip Roth,"Newark, New Jersey",311549
+48,49,Mary Baker Eddy (Gill book),http://dbpedia.org/resource/Mary_Baker_Eddy_(Gill_book),Pulitzer,1998,Michael Cunningham,Cincinnati,309317
+49,50,Disgrace,http://dbpedia.org/resource/Disgrace,Booker,1999,Iris Murdoch,Ireland,7185600
+50,51,Player's Handbook,http://dbpedia.org/resource/Player's_Handbook,Booker,2000,Michael Ondaatje,Sri Lanka,21763170
+51,52,Ben Singkol,http://dbpedia.org/resource/Ben_Singkol,Pulitzer,2001,Colson Whitehead,New York City,8804190
+52,53,Letters to Auntie Fori,http://dbpedia.org/resource/Letters_to_Auntie_Fori,Booker,2002,Peter Ackroyd,London,9841000
+53,54,The Bible with Sources Revealed,http://dbpedia.org/resource/The_Bible_with_Sources_Revealed,Pulitzer,2003,Louise Erdrich,"Little Falls, Minnesota",9140
+54,55,Caught Stealing (novel),http://dbpedia.org/resource/Caught_Stealing_(novel),Pulitzer,2004,Steven Millhauser,New York City,8804190
+55,56,Parallel Stories,http://dbpedia.org/resource/Parallel_Stories,Booker,2005,Salman Rushdie,Mumbai,12442373
+56,57,Islamic Philosophy from its Origin to the Present,http://dbpedia.org/resource/Islamic_Philosophy_from_its_Origin_to_the_Present,Pulitzer,2006,Colson Whitehead,New York City,8804190
+57,58,"Yo, Paco","http://dbpedia.org/resource/Yo,_Paco",Booker,2007,Michael Ondaatje,Sri Lanka,21763170
+58,59,Many and Many a Year Ago,http://dbpedia.org/resource/Many_and_Many_a_Year_Ago,Booker,2008,Salman Rushdie,Mumbai,12442373
+59,60,Please Look After Mom,http://dbpedia.org/resource/Please_Look_After_Mom,Pulitzer,2009,Colson Whitehead,New York City,8804190
+60,61,All My Friends Are Dead,http://dbpedia.org/resource/All_My_Friends_Are_Dead,Booker,2010,Salman Rushdie,Mumbai,12442373
+61,62,Sleeping with the Enemy: Coco Chanel's Secret War,http://dbpedia.org/resource/Sleeping_with_the_Enemy:_Coco_Chanel's_Secret_War,Booker,2011,Michael Ondaatje,Sri Lanka,21763170
+62,63,Craposyncrasies,http://dbpedia.org/resource/Craposyncrasies,Pulitzer,2012,Junot Díaz,Dominican Republic,11532151
+63,64,Dictionary of Old Tupi,http://dbpedia.org/resource/Dictionary_of_Old_Tupi,Booker,2013,Margaret Atwood,Ottawa,1017449
+64,65,My Life with the Walter Boys (novel),http://dbpedia.org/resource/My_Life_with_the_Walter_Boys_(novel),Pulitzer,2014,Jane Smiley,Los Angeles,3898747
+65,66,Independence Lost,http://dbpedia.org/resource/Independence_Lost,Booker,2015,Salman Rushdie,Mumbai,12442373
+66,67,Augustown,http://dbpedia.org/resource/Augustown,Pulitzer,2016,Colson Whitehead,New York City,8804190
+67,68,The Tales of Kanglei Throne,http://dbpedia.org/resource/The_Tales_of_Kanglei_Throne,Booker,2017,Salman Rushdie,Mumbai,12442373
+68,69,"Come, Follow Me (LDS Church)","http://dbpedia.org/resource/Come,_Follow_Me_(LDS_Church)",Booker,2018,Michael Ondaatje,Sri Lanka,21763170
+69,70,"Prince, Patron and Patriarch","http://dbpedia.org/resource/Prince,_Patron_and_Patriarch",Booker,2019,Salman Rushdie,Mumbai,12442373
+70,71,When These Mountains Burn,http://dbpedia.org/resource/When_These_Mountains_Burn,Booker,2020,Roddy Doyle,Dublin,592713
+71,72,The Origins of Early Christian Literature,http://dbpedia.org/resource/The_Origins_of_Early_Christian_Literature,Pulitzer,2021,Jhumpa Lahiri,London,9841000
+72,73,Bibi: My Story,http://dbpedia.org/resource/Bibi:_My_Story,Pulitzer,2022,Geraldine Brooks (writer),Sydney,5557233
+73,74,Nasukh (book),http://dbpedia.org/resource/Nasukh_(book),Booker,2023,Salman Rushdie,Mumbai,12442373
+74,75,Blood Ties (Nesbø novel),http://dbpedia.org/resource/Blood_Ties_(Nesbø_novel),Booker,2024,Marlon James (novelist),Jamaica,2824913
+75,76,Insurrection (O'Flaherty novel),http://dbpedia.org/resource/Insurrection_(O'Flaherty_novel),Pulitzer,1950,Unknown,Unknown,Unknown
+76,77,Chitrochor,http://dbpedia.org/resource/Chitrachor,Pulitzer,1951,John Cheever,"Quincy, Massachusetts",101636
+77,78,The Far Hills,http://dbpedia.org/resource/The_Far_Hills,Pulitzer,1952,Bernard Malamud,Brooklyn,2736074
+78,79,Chiriyakhan,http://dbpedia.org/resource/Chiriyakhan,Pulitzer,1953,Eudora Welty,"Jackson, Mississippi",153701
+79,80,Contempt (novel),http://dbpedia.org/resource/Il_disprezzo,Pulitzer,1954,John Cheever,"Quincy, Massachusetts",101636
+80,81,Moromeții,http://dbpedia.org/resource/Moromeții,Pulitzer,1955,John Updike,"Reading, Pennsylvania",95112
+81,82,The Key (Tanizaki novel),http://dbpedia.org/resource/The_Key_(Tanizaki_novel),Pulitzer,1956,Edwin O'Connor,"Providence, Rhode Island",190934
+82,83,When I Was a Little Boy,http://dbpedia.org/resource/When_I_Was_a_Little_Boy,Pulitzer,1957,John Cheever,"Quincy, Massachusetts",101636
+83,84,Cholponbai,http://dbpedia.org/resource/Cholponbai,Booker,1958,Nadine Gordimer,"Springs, South Africa",121610
+84,85,Cider with Rosie,http://dbpedia.org/resource/Cider_with_Rosie,Pulitzer,1959,Philip Roth,"Newark, New Jersey",311549
+85,86,Kolab Pailin,http://dbpedia.org/resource/Kolab_Pailin,Pulitzer,1960,William Styron,"Newport News, Virginia",186247
+86,87,Tell Me Another Morning,http://dbpedia.org/resource/Tell_Me_Another_Morning,Pulitzer,1961,John Cheever,"Quincy, Massachusetts",101636
+87,88,Walt Disney's Story Land: 55 Favorite Stories,http://dbpedia.org/resource/Walt_Disney's_Story_Land:_55_Favorite_Stories,Pulitzer,1962,Philip Roth,"Newark, New Jersey",311549
+88,89,Educational Strategy for Developing Societies,http://dbpedia.org/resource/Educational_Strategy_for_Developing_Societies,Pulitzer,1963,John Updike,"Reading, Pennsylvania",95112
+89,90,Beer in the Snooker Club,http://dbpedia.org/resource/Beer_in_the_Snooker_Club,Pulitzer,1964,John Cheever,"Quincy, Massachusetts",101636
+90,91,A Dictionary of American Sign Language on Linguistic Principles,http://dbpedia.org/resource/A_Dictionary_of_American_Sign_Language_on_Linguistic_Principles,Pulitzer,1965,Cormac McCarthy,"Providence, Rhode Island",190934
+91,92,Ukraine on Fire (novel),http://dbpedia.org/resource/Ukraine_on_Fire_(novel),Pulitzer,1966,John Cheever,"Quincy, Massachusetts",101636
+92,93,Smith of Wootton Major,http://dbpedia.org/resource/Smith_of_Wootton_Major,Pulitzer,1967,Philip Roth,"Newark, New Jersey",311549
+93,94,Les Soleils des indépendances,http://dbpedia.org/resource/Les_Soleils_des_indépendances,Booker,1968,Kingsley Amis,Clapham,48478
+94,95,How to Stay Married (book),http://dbpedia.org/resource/How_to_Stay_Married_(book),Pulitzer,1969,Philip Roth,"Newark, New Jersey",311549
+95,96,Õilsad südamed,http://dbpedia.org/resource/Õilsad_südamed,Booker,1970,Nadine Gordimer,"Springs, South Africa",121610
+96,97,Cry of Morning,http://dbpedia.org/resource/Cry_of_Morning,Pulitzer,1971,Allen Drury,Houston,2304580
+97,98,Toreadors from Vasyukivka,http://dbpedia.org/resource/Toreadors_from_Vasyukivka,Booker,1972,John Berger,London,9841000
+98,99,The Thirteenth Sun,http://dbpedia.org/resource/The_Thirteenth_Sun,Booker,1973,Penelope Lively,Cairo,9801536
+99,100,Origins of Marvel Comics,http://dbpedia.org/resource/Origins_of_Marvel_Comics,Pulitzer,1974,William Faulkner,"New Albany, Mississippi",7626
+100,101,Limits to Medicine,http://dbpedia.org/resource/Limits_to_Medicine,Pulitzer,1975,Philip Roth,"Newark, New Jersey",311549
+101,102,Pirkkalan pyhät pihlajat,http://dbpedia.org/resource/Pirkkalan_pyhät_pihlajat,Pulitzer,1976,Unknown,Unknown,Unknown
+102,103,A Sparrow Falls,http://dbpedia.org/resource/A_Sparrow_Falls,Pulitzer,1977,John Updike,"Reading, Pennsylvania",95112
+103,104,Alicia Austin's Age of Dreams,http://dbpedia.org/resource/Alicia_Austin's_Age_of_Dreams,Pulitzer,1978,James A. Michener,"Doylestown, Pennsylvania",8300
+104,105,The Medusa and the Snail,http://dbpedia.org/resource/The_Medusa_and_the_Snail,Booker,1979,Thomas Keneally,Sydney,5557233
+105,106,N'Heures Souris Rames,http://dbpedia.org/resource/N'Heures_Souris_Rames,Pulitzer,1980,Eudora Welty,"Jackson, Mississippi",153701
+106,107,The Sun Shines Bright (book),http://dbpedia.org/resource/The_Sun_Shines_Bright_(book),Booker,1981,Ben Okri,Minna,304113
+107,108,The Road to Middle-Earth,http://dbpedia.org/resource/The_Road_to_Middle-Earth,Booker,1982,Thomas Keneally,Sydney,5557233
+108,109,Zameen (novel),http://dbpedia.org/resource/Zameen_(novel),Booker,1983,Salman Rushdie,Mumbai,12442373
+109,110,Machines That Think,http://dbpedia.org/resource/Machines_That_Think,Pulitzer,1984,John Updike,"Reading, Pennsylvania",95112
+110,111,The Subatomic Monster,http://dbpedia.org/resource/The_Subatomic_Monster,Booker,1985,Margaret Atwood,Ottawa,1017449
+111,112,Clash of the Princes,http://dbpedia.org/resource/Clash_of_the_Princes,Pulitzer,1986,Allen Drury,Houston,2304580
+112,113,The Cartier Project,http://dbpedia.org/resource/The_Cartier_Project,Booker,1987,Salman Rushdie,Mumbai,12442373
+113,114,All I Really Need to Know I Learned in Kindergarten,http://dbpedia.org/resource/All_I_Really_Need_to_Know_I_Learned_in_Kindergarten,Pulitzer,1988,Jane Smiley,Los Angeles,3898747
+114,115,Anthill in Prussia,http://dbpedia.org/resource/Anthill_in_Prussia,Pulitzer,1989,Oscar Hijuelos,New York City,8804190
+115,116,My Son's Story,http://dbpedia.org/resource/My_Son's_Story,Booker,1990,Salman Rushdie,Mumbai,12442373
+116,117,Rivers of Babylon (novel),http://dbpedia.org/resource/Rivers_of_Babylon_(novel),Pulitzer,1991,Jane Smiley,Los Angeles,3898747
+117,118,The Transformation of Intimacy,http://dbpedia.org/resource/The_Transformation_of_Intimacy,Pulitzer,1992,Edward P. Jones,"Washington, D.C.",689545
+118,119,The Twins (Loo novel),http://dbpedia.org/resource/The_Twins_(Loo_novel),Pulitzer,1993,Philip Roth,"Newark, New Jersey",311549
+119,120,Paula (novel),http://dbpedia.org/resource/Paula_(novel),Booker,1994,Hilary Mantel,Glossop,17825
+120,121,Beyond the Horizon (novel),http://dbpedia.org/resource/Beyond_the_Horizon_(novel),Pulitzer,1995,Jane Smiley,Los Angeles,3898747
+121,122,McOndo (book),http://dbpedia.org/resource/McOndo_(book),Booker,1996,Graham Swift,United Kingdom,68265209
+122,123,The Internal Market (novel),http://dbpedia.org/resource/The_Internal_Market_(novel),Pulitzer,1997,Philip Roth,"Newark, New Jersey",311549
+123,124,Agnes (novel),http://dbpedia.org/resource/Agnes_(novel),Pulitzer,1998,Michael Cunningham,Cincinnati,309317
+124,125,Bengali film directory,http://dbpedia.org/resource/Bengali_film_directory,Booker,1999,Iris Murdoch,Ireland,7185600
+125,126,That Which That Orphan Saw,http://dbpedia.org/resource/That_Which_That_Orphan_Saw,Booker,2000,Michael Ondaatje,Sri Lanka,21763170
+126,127,Walking into the Night,http://dbpedia.org/resource/Walking_into_the_Night,Pulitzer,2001,Colson Whitehead,New York City,8804190
+127,128,The Salmon of Doubt,http://dbpedia.org/resource/The_Salmon_of_Doubt,Booker,2002,Peter Ackroyd,London,9841000
+128,129,The Age of Marriage in Ancient Rome,http://dbpedia.org/resource/The_Age_of_Marriage_in_Ancient_Rome,Pulitzer,2003,Louise Erdrich,"Little Falls, Minnesota",9140
+129,130,Creatures of the Night (comics),http://dbpedia.org/resource/Creatures_of_the_Night_(comics),Pulitzer,2004,Steven Millhauser,New York City,8804190
+130,131,Beaufort (novel),http://dbpedia.org/resource/Beaufort_(novel),Booker,2005,Salman Rushdie,Mumbai,12442373
+131,132,The Iron Cage: The Story of the Palestinian Struggle for Statehood,http://dbpedia.org/resource/The_Iron_Cage:_The_Story_of_the_Palestinian_Struggle_for_Statehood,Pulitzer,2006,Colson Whitehead,New York City,8804190
+132,133,Flights (novel),http://dbpedia.org/resource/Flights_(novel),Booker,2007,Michael Ondaatje,Sri Lanka,21763170
+133,134,"Black Taste, Black Odour","http://dbpedia.org/resource/Black_Taste,_Black_Odour",Booker,2008,Salman Rushdie,Mumbai,12442373
+134,135,Map of the Invisible World,http://dbpedia.org/resource/Map_of_the_Invisible_World,Pulitzer,2009,Colson Whitehead,New York City,8804190
+135,136,Alzheimer's Story,http://dbpedia.org/resource/Alzheimer's_Story,Booker,2010,Salman Rushdie,Mumbai,12442373
+136,137,The Favored Queen,http://dbpedia.org/resource/The_Favored_Queen,Booker,2011,Michael Ondaatje,Sri Lanka,21763170
+137,138,The Blue Elephant (novel),http://dbpedia.org/resource/The_Blue_Elephant_(novel),Pulitzer,2012,Junot Díaz,Dominican Republic,11532151
+138,139,Imaginary Friends (short story),http://dbpedia.org/resource/Imaginary_Friends_(short_story),Booker,2013,Margaret Atwood,Ottawa,1017449
+139,140,Beowulf: A Translation and Commentary,http://dbpedia.org/resource/Beowulf:_A_Translation_and_Commentary,Pulitzer,2014,Jane Smiley,Los Angeles,3898747
+140,141,The Waterman's Prophecy,http://dbpedia.org/resource/The_Waterman's_Prophecy,Booker,2015,Salman Rushdie,Mumbai,12442373
+141,142,BiografiA. Lexikon österreichischer Frauen,http://dbpedia.org/resource/BiografiA._Lexikon_österreichischer_Frauen,Pulitzer,2016,Colson Whitehead,New York City,8804190
+142,143,In the Midst of Winter,http://dbpedia.org/resource/In_the_Midst_of_Winter,Booker,2017,Salman Rushdie,Mumbai,12442373
+143,144,Jewish Radical Feminism,http://dbpedia.org/resource/Jewish_Radical_Feminism,Booker,2018,Michael Ondaatje,Sri Lanka,21763170
+144,145,Maid (book),http://dbpedia.org/resource/Maid_(book),Booker,2019,Salman Rushdie,Mumbai,12442373
+145,146,Me & Patsy Kickin' Up Dust,http://dbpedia.org/resource/Me_&_Patsy_Kickin'_Up_Dust,Booker,2020,Roddy Doyle,Dublin,592713
+146,147,When Ghosts Come Home,http://dbpedia.org/resource/When_Ghosts_Come_Home,Pulitzer,2021,Jhumpa Lahiri,London,9841000
+147,148,Solito: A Memoir,http://dbpedia.org/resource/Solito:_A_Memoir,Pulitzer,2022,Geraldine Brooks (writer),Sydney,5557233
+148,149,The House of Doors,http://dbpedia.org/resource/The_House_of_Doors,Booker,2023,Salman Rushdie,Mumbai,12442373
+149,150,I Am on the Hit List,http://dbpedia.org/resource/I_Am_on_the_Hit_List,Booker,2024,Marlon James (novelist),Jamaica,2824913
+150,151,Khaak Aur Khoon (novel),http://dbpedia.org/resource/Khaak_Aur_Khoon_(novel),Pulitzer,1950,Unknown,Unknown,Unknown
+151,152,Chitrachor,http://dbpedia.org/resource/Chitrachor,Pulitzer,1951,John Cheever,"Quincy, Massachusetts",101636
+152,153,Unto a Good Land,http://dbpedia.org/resource/Unto_a_Good_Land,Pulitzer,1952,Bernard Malamud,Brooklyn,2736074
+153,154,The Homecoming of Beorhtnoth Beorhthelm's Son,http://dbpedia.org/resource/The_Homecoming_of_Beorhtnoth_Beorhthelm's_Son,Pulitzer,1953,Eudora Welty,"Jackson, Mississippi",153701
+154,155,The Time Regulation Institute,http://dbpedia.org/resource/The_Time_Regulation_Institute,Pulitzer,1954,John Cheever,"Quincy, Massachusetts",101636
+155,156,Dianetics: The Evolution of a Science,http://dbpedia.org/resource/Dianetics:_The_Evolution_of_a_Science,Pulitzer,1955,John Updike,"Reading, Pennsylvania",95112
+156,157,Chuva Braba,http://dbpedia.org/resource/Chuva_Braba,Pulitzer,1956,Edwin O'Connor,"Providence, Rhode Island",190934
+157,158,Cosmic View,http://dbpedia.org/resource/Cosmic_View,Pulitzer,1957,John Cheever,"Quincy, Massachusetts",101636
+158,159,The Object-Lesson,http://dbpedia.org/resource/The_Object-Lesson,Booker,1958,Nadine Gordimer,"Springs, South Africa",121610
+159,160,On the Mountain,http://dbpedia.org/resource/On_the_Mountain,Pulitzer,1959,Philip Roth,"Newark, New Jersey",311549
+160,161,Thermodynamics and an Introduction to Thermostatistics,http://dbpedia.org/resource/Thermodynamics_and_an_Introduction_to_Thermostatistics,Pulitzer,1960,William Styron,"Newport News, Virginia",186247
+161,162,The Thief and the Dogs,http://dbpedia.org/resource/The_Thief_and_the_Dogs,Pulitzer,1961,John Cheever,"Quincy, Massachusetts",101636
+162,163,Autumn Quail,http://dbpedia.org/resource/Autumn_Quail,Pulitzer,1962,Philip Roth,"Newark, New Jersey",311549
+163,164,Tangsir (novel),http://dbpedia.org/resource/Tangsir_(novel),Pulitzer,1963,John Updike,"Reading, Pennsylvania",95112
+164,165,Tree and Leaf,http://dbpedia.org/resource/Tree_and_Leaf,Pulitzer,1964,John Cheever,"Quincy, Massachusetts",101636
+165,166,The Willow Pattern (novel),http://dbpedia.org/resource/The_Willow_Pattern_(novel),Pulitzer,1965,Cormac McCarthy,"Providence, Rhode Island",190934
+166,167,Five Years (book),http://dbpedia.org/resource/Five_Years_(book),Pulitzer,1966,John Cheever,"Quincy, Massachusetts",101636
+167,168,Around the Day in Eighty Worlds,http://dbpedia.org/resource/Around_the_Day_in_Eighty_Worlds,Pulitzer,1967,Philip Roth,"Newark, New Jersey",311549
+168,169,Cancer Ward,http://dbpedia.org/resource/Cancer_Ward,Booker,1968,Kingsley Amis,Clapham,48478
+169,170,Mga Ibong Mandaragit,http://dbpedia.org/resource/Mga_Ibong_Mandaragit,Pulitzer,1969,Philip Roth,"Newark, New Jersey",311549
+170,171,My Dagestan,http://dbpedia.org/resource/My_Dagestan,Booker,1970,Nadine Gordimer,"Springs, South Africa",121610
+171,172,Jim (book),http://dbpedia.org/resource/Jim_(book),Pulitzer,1971,Allen Drury,Houston,2304580
+172,173,Over the Long High Wall,http://dbpedia.org/resource/Over_the_Long_High_Wall,Booker,1972,John Berger,London,9841000
+173,174,An Atlas of Fantasy,http://dbpedia.org/resource/An_Atlas_of_Fantasy,Booker,1973,Penelope Lively,Cairo,9801536
+174,175,The Sharks (novel),http://dbpedia.org/resource/The_Sharks_(novel),Pulitzer,1974,William Faulkner,"New Albany, Mississippi",7626
+175,176,African Hunter,http://dbpedia.org/resource/African_Hunter,Pulitzer,1975,Philip Roth,"Newark, New Jersey",311549
+176,177,Literary Swordsmen and Sorcerers,http://dbpedia.org/resource/Literary_Swordsmen_and_Sorcerers,Pulitzer,1976,Unknown,Unknown,Unknown
+177,178,The End of a Family Story,http://dbpedia.org/resource/The_End_of_a_Family_Story,Pulitzer,1977,John Updike,"Reading, Pennsylvania",95112
+178,179,Karjalan kruunu,http://dbpedia.org/resource/Karjalan_kruunu,Pulitzer,1978,James A. Michener,"Doylestown, Pennsylvania",8300
+179,180,A Dry White Season (novel),http://dbpedia.org/resource/A_Dry_White_Season_(novel),Booker,1979,Thomas Keneally,Sydney,5557233
+180,181,Count On the Saint,http://dbpedia.org/resource/Count_On_the_Saint,Pulitzer,1980,Eudora Welty,"Jackson, Mississippi",153701
+181,182,The Heart of a Woman,http://dbpedia.org/resource/The_Heart_of_a_Woman,Booker,1981,Ben Okri,Minna,304113
+182,183,Beka Lamb,http://dbpedia.org/resource/Beka_Lamb,Booker,1982,Thomas Keneally,Sydney,5557233
+183,184,De kroongetuige,http://dbpedia.org/resource/De_kroongetuige,Booker,1983,Salman Rushdie,Mumbai,12442373
+184,185,Po-on,http://dbpedia.org/resource/Po-on,Pulitzer,1984,John Updike,"Reading, Pennsylvania",95112
+185,186,Plausible Prejudices,http://dbpedia.org/resource/Plausible_Prejudices,Booker,1985,Margaret Atwood,Ottawa,1017449
+186,187,Deep Black (1986 book),http://dbpedia.org/resource/Deep_Black_(1986_book),Pulitzer,1986,Allen Drury,Houston,2304580
+187,188,News from the Empire,http://dbpedia.org/resource/News_from_the_Empire,Booker,1987,Salman Rushdie,Mumbai,12442373
+188,189,Madame Two Swords,http://dbpedia.org/resource/Madame_Two_Swords,Pulitzer,1988,Jane Smiley,Los Angeles,3898747
+189,190,The Power of One (novel),http://dbpedia.org/resource/The_Power_of_One_(novel),Pulitzer,1989,Oscar Hijuelos,New York City,8804190
+190,191,The Further Adventures of The Joker,http://dbpedia.org/resource/The_Further_Adventures_of_The_Joker,Booker,1990,Salman Rushdie,Mumbai,12442373
+191,192,The Boys from St. Petri (novel),http://dbpedia.org/resource/The_Boys_from_St._Petri_(novel),Pulitzer,1991,Jane Smiley,Los Angeles,3898747
+192,193,Life-Size (novel),http://dbpedia.org/resource/Life-Size_(novel),Pulitzer,1992,Edward P. Jones,"Washington, D.C.",689545
+193,194,The Twins (De Loo novel),http://dbpedia.org/resource/The_Twins_(Loo_novel),Pulitzer,1993,Philip Roth,"Newark, New Jersey",311549
+194,195,The Discworld Companion,http://dbpedia.org/resource/The_Discworld_Companion,Booker,1994,Hilary Mantel,Glossop,17825
+195,196,Cosmic Trigger III: My Life After Death,http://dbpedia.org/resource/Cosmic_Trigger_III:_My_Life_After_Death,Pulitzer,1995,Jane Smiley,Los Angeles,3898747
+196,197,The Pratchett Portfolio,http://dbpedia.org/resource/The_Pratchett_Portfolio,Booker,1996,Graham Swift,United Kingdom,68265209
+197,198,Chaos of the Senses,http://dbpedia.org/resource/Chaos_of_the_Senses,Pulitzer,1997,Philip Roth,"Newark, New Jersey",311549
+198,199,Batman Animated,http://dbpedia.org/resource/Batman_Animated,Pulitzer,1998,Michael Cunningham,Cincinnati,309317
+199,200,Fotografiks,http://dbpedia.org/resource/Fotografiks,Booker,1999,Iris Murdoch,Ireland,7185600
+200,201,Ama: A Story of the Atlantic Slave Trade,http://dbpedia.org/resource/Ama:_A_Story_of_the_Atlantic_Slave_Trade,Booker,2000,Michael Ondaatje,Sri Lanka,21763170
+201,202,Welcome to Our Hillbrow,http://dbpedia.org/resource/Welcome_to_Our_Hillbrow,Pulitzer,2001,Colson Whitehead,New York City,8804190
+202,203,Cool Gardens,http://dbpedia.org/resource/Cool_Gardens,Booker,2002,Peter Ackroyd,London,9841000
+203,204,"Is That You, Herb?","http://dbpedia.org/resource/Is_That_You,_Herb%3F",Pulitzer,2003,Louise Erdrich,"Little Falls, Minnesota",9140
+204,205,Pir-e-Kamil,http://dbpedia.org/resource/Pir-e-Kamil,Pulitzer,2004,Steven Millhauser,New York City,8804190
+205,206,Little Boy: The Arts of Japan's Exploding Subculture,http://dbpedia.org/resource/Little_Boy:_The_Arts_of_Japan's_Exploding_Subculture,Booker,2005,Salman Rushdie,Mumbai,12442373
+206,207,Oh What a Slaughter! : Massacres in the American West: 1846–1890,http://dbpedia.org/resource/Oh_What_a_Slaughter!_:_Massacres_in_the_American_West:_1846–1890,Pulitzer,2006,Colson Whitehead,New York City,8804190
+207,208,Chicago (novel),http://dbpedia.org/resource/Chicago_(novel),Booker,2007,Michael Ondaatje,Sri Lanka,21763170
+208,209,Ich werde hier sein im Sonnenschein und im Schatten,http://dbpedia.org/resource/Ich_werde_hier_sein_im_Sonnenschein_und_im_Schatten,Booker,2008,Salman Rushdie,Mumbai,12442373
+209,210,La Virgen Cabeza,http://dbpedia.org/resource/La_Virgen_Cabeza,Pulitzer,2009,Colson Whitehead,New York City,8804190
+210,211,Voroshilovgrad (novel),http://dbpedia.org/resource/Voroshilovgrad_(novel),Booker,2010,Salman Rushdie,Mumbai,12442373
+211,212,Godse's Children: Hindutva Terror in India,http://dbpedia.org/resource/Godse's_Children:_Hindutva_Terror_in_India,Booker,2011,Michael Ondaatje,Sri Lanka,21763170
+212,213,The Unfaithful Queen,http://dbpedia.org/resource/The_Unfaithful_Queen,Pulitzer,2012,Junot Díaz,Dominican Republic,11532151
+213,214,Censoring Sex Research,http://dbpedia.org/resource/Censoring_Sex_Research,Booker,2013,Margaret Atwood,Ottawa,1017449
+214,215,Suslov's Daughter,http://dbpedia.org/resource/Suslov's_Daughter,Pulitzer,2014,Jane Smiley,Los Angeles,3898747
+215,216,Weerwater (novel),http://dbpedia.org/resource/Weerwater_(novel),Booker,2015,Salman Rushdie,Mumbai,12442373
+216,217,Hotel Silence,http://dbpedia.org/resource/Hotel_Silence,Pulitzer,2016,Colson Whitehead,New York City,8804190
+217,218,Where Poppies Blow,http://dbpedia.org/resource/Where_Poppies_Blow,Booker,2017,Salman Rushdie,Mumbai,12442373
+218,219,Dark Religion,http://dbpedia.org/resource/Dark_Religion,Booker,2018,Michael Ondaatje,Sri Lanka,21763170
+219,220,How Fires End,http://dbpedia.org/resource/How_Fires_End,Booker,2019,Salman Rushdie,Mumbai,12442373
+220,221,The Kingdom (Nesbø novel),http://dbpedia.org/resource/The_Kingdom_(Nesbø_novel),Booker,2020,Roddy Doyle,Dublin,592713
+221,222,God: An Anatomy,http://dbpedia.org/resource/God:_An_Anatomy,Pulitzer,2021,Jhumpa Lahiri,London,9841000
+222,223,Counterfeit (novel),http://dbpedia.org/resource/Counterfeit_(novel),Pulitzer,2022,Geraldine Brooks (writer),Sydney,5557233
+223,224,The Caretaker (Rash novel),http://dbpedia.org/resource/The_Caretaker_(Rash_novel),Booker,2023,Salman Rushdie,Mumbai,12442373
+224,225,Until August,http://dbpedia.org/resource/Until_August,Booker,2024,Marlon James (novelist),Jamaica,2824913
+225,226,Joothan,http://dbpedia.org/resource/Joothan,Pulitzer,1950,Unknown,Unknown,Unknown
+226,227,The Chinese Maze Murders,http://dbpedia.org/resource/The_Chinese_Maze_Murders,Pulitzer,1951,John Cheever,"Quincy, Massachusetts",101636
+227,228,Stalingrad (Grossman novel),http://dbpedia.org/resource/Stalingrad_(Grossman_novel),Pulitzer,1952,Bernard Malamud,Brooklyn,2736074
+228,229,Captain Michalis,http://dbpedia.org/resource/Captain_Michalis,Pulitzer,1953,Eudora Welty,"Jackson, Mississippi",153701
+229,230,Philip and the Others,http://dbpedia.org/resource/Philip_and_the_Others,Pulitzer,1954,John Cheever,"Quincy, Massachusetts",101636
+230,231,The Forbidden Forest,http://dbpedia.org/resource/The_Forbidden_Forest,Pulitzer,1955,John Updike,"Reading, Pennsylvania",95112
+231,232,Paul Klee Notebooks,http://dbpedia.org/resource/Paul_Klee_Notebooks,Pulitzer,1956,Edwin O'Connor,"Providence, Rhode Island",190934
+232,233,Beasts Head for Home,http://dbpedia.org/resource/Beasts_Head_for_Home,Pulitzer,1957,John Cheever,"Quincy, Massachusetts",101636
+233,234,The Rise of the Meritocracy,http://dbpedia.org/resource/The_Rise_of_the_Meritocracy,Booker,1958,Nadine Gordimer,"Springs, South Africa",121610
+234,235,I Loved Tiberius,http://dbpedia.org/resource/I_Loved_Tiberius,Pulitzer,1959,Philip Roth,"Newark, New Jersey",311549
+235,236,Ohvrilaev,http://dbpedia.org/resource/Ohvrilaev,Pulitzer,1960,William Styron,"Newport News, Virginia",186247
+236,237,White Horse Neighs in the Western Wind,http://dbpedia.org/resource/White_Horse_Neighs_in_the_Western_Wind,Pulitzer,1961,John Cheever,"Quincy, Massachusetts",101636
+237,238,"Memories, Dreams, Reflections","http://dbpedia.org/resource/Memories,_Dreams,_Reflections",Pulitzer,1962,Philip Roth,"Newark, New Jersey",311549
+238,239,Twentysix Gasoline Stations,http://dbpedia.org/resource/Twentysix_Gasoline_Stations,Pulitzer,1963,John Updike,"Reading, Pennsylvania",95112
+239,240,Patron de New-York,http://dbpedia.org/resource/Patron_de_New-York,Pulitzer,1964,John Cheever,"Quincy, Massachusetts",101636
+240,241,The Beggar (novella),http://dbpedia.org/resource/The_Beggar_(novella),Pulitzer,1965,Cormac McCarthy,"Providence, Rhode Island",190934
+241,242,Tales from the Perilous Realm,http://dbpedia.org/resource/The_Tolkien_Reader,Pulitzer,1966,John Cheever,"Quincy, Massachusetts",101636
+242,243,By-Line: Ernest Hemingway,http://dbpedia.org/resource/By-Line:_Ernest_Hemingway,Pulitzer,1967,Philip Roth,"Newark, New Jersey",311549
+243,244,Kartanonherra ja kaunis Kirstin,http://dbpedia.org/resource/Kartanonherra_ja_kaunis_Kirstin,Booker,1968,Kingsley Amis,Clapham,48478
+244,245,The Beatles Illustrated Lyrics,http://dbpedia.org/resource/The_Beatles_Illustrated_Lyrics,Pulitzer,1969,Philip Roth,"Newark, New Jersey",311549
+245,246,The Dermis Probe,http://dbpedia.org/resource/The_Dermis_Probe,Booker,1970,Nadine Gordimer,"Springs, South Africa",121610
+246,247,The Swords Trilogy,http://dbpedia.org/resource/The_Swords_Trilogy,Pulitzer,1971,Allen Drury,Houston,2304580
+247,248,Album of Dinosaurs,http://dbpedia.org/resource/Album_of_Dinosaurs,Booker,1972,John Berger,London,9841000
+248,249,The Dogs Bark,http://dbpedia.org/resource/The_Dogs_Bark,Booker,1973,Penelope Lively,Cairo,9801536
+249,250,The Indispensable Enemy,http://dbpedia.org/resource/The_Indispensable_Enemy,Pulitzer,1974,William Faulkner,"New Albany, Mississippi",7626
+250,251,Without Feathers,http://dbpedia.org/resource/Without_Feathers,Pulitzer,1975,Philip Roth,"Newark, New Jersey",311549
+251,252,"Marcelo, Marmelo, Martelo (book)","http://dbpedia.org/resource/Marcelo,_Marmelo,_Martelo_(book)",Pulitzer,1976,Unknown,Unknown,Unknown
+252,253,The Harafish,http://dbpedia.org/resource/The_Harafish,Pulitzer,1977,John Updike,"Reading, Pennsylvania",95112
+253,254,Faeries (book),http://dbpedia.org/resource/Faeries_(book),Pulitzer,1978,James A. Michener,"Doylestown, Pennsylvania",8300
+254,255,The South Seas (novel),http://dbpedia.org/resource/The_South_Seas_(novel),Booker,1979,Thomas Keneally,Sydney,5557233
+255,256,Marihuana: The First Twelve Thousand Years,http://dbpedia.org/resource/Marihuana:_The_First_Twelve_Thousand_Years,Pulitzer,1980,Eudora Welty,"Jackson, Mississippi",153701
+256,257,Three Filipino Women,http://dbpedia.org/resource/Three_Filipino_Women,Booker,1981,Ben Okri,Minna,304113
+257,258,Beka Lamb (character),http://dbpedia.org/resource/Beka_Lamb,Booker,1982,Thomas Keneally,Sydney,5557233
+258,259,The Day the Leader Was Killed,http://dbpedia.org/resource/The_Day_the_Leader_Was_Killed,Booker,1983,Salman Rushdie,Mumbai,12442373
+259,260,The Hostage (novel),http://dbpedia.org/resource/The_Hostage_(novel),Pulitzer,1984,John Updike,"Reading, Pennsylvania",95112
+260,261,Little Brother (Baillie novel),http://dbpedia.org/resource/Little_Brother_(Baillie_novel),Booker,1985,Margaret Atwood,Ottawa,1017449
+261,262,Deep Black (book),http://dbpedia.org/resource/Deep_Black_(1986_book),Pulitzer,1986,Allen Drury,Houston,2304580
+262,263,Christopher Unborn,http://dbpedia.org/resource/Christopher_Unborn,Booker,1987,Salman Rushdie,Mumbai,12442373
+263,264,Bangla O Bangali,http://dbpedia.org/resource/Bangla_O_Bangali,Pulitzer,1988,Jane Smiley,Los Angeles,3898747
+264,265,Pietà (book),http://dbpedia.org/resource/Pietà_(book),Pulitzer,1989,Oscar Hijuelos,New York City,8804190
+265,266,Monday's Warriors,http://dbpedia.org/resource/Monday's_Warriors,Booker,1990,Salman Rushdie,Mumbai,12442373
+266,267,The Gallifrey Chronicles (Peel book),http://dbpedia.org/resource/The_Gallifrey_Chronicles_(Peel_book),Pulitzer,1991,Jane Smiley,Los Angeles,3898747
+267,268,Spin Again,http://dbpedia.org/resource/Spin_Again,Pulitzer,1992,Edward P. Jones,"Washington, D.C.",689545
+268,269,"Aramis, or the Love of Technology","http://dbpedia.org/resource/Aramis,_or_the_Love_of_Technology",Pulitzer,1993,Philip Roth,"Newark, New Jersey",311549
+269,270,The Dragon's Pearl,http://dbpedia.org/resource/The_Dragon's_Pearl,Booker,1994,Hilary Mantel,Glossop,17825
+270,271,Journey to Ithaca,http://dbpedia.org/resource/Journey_to_Ithaca,Pulitzer,1995,Jane Smiley,Los Angeles,3898747
+271,272,The Coral Sea (book),http://dbpedia.org/resource/The_Coral_Sea_(book),Booker,1996,Graham Swift,United Kingdom,68265209
+272,273,Angry White Pyjamas,http://dbpedia.org/resource/Angry_White_Pyjamas,Pulitzer,1997,Philip Roth,"Newark, New Jersey",311549
+273,274,All That: Fresh out the Box,http://dbpedia.org/resource/All_That:_Fresh_out_the_Box,Pulitzer,1998,Michael Cunningham,Cincinnati,309317
+274,275,Pornstar (book),http://dbpedia.org/resource/Pornstar_(book),Booker,1999,Iris Murdoch,Ireland,7185600
+275,276,An Embarrassment of Riches,http://dbpedia.org/resource/An_Embarrassment_of_Riches,Booker,2000,Michael Ondaatje,Sri Lanka,21763170
+276,277,The Last Summer of Reason,http://dbpedia.org/resource/The_Last_Summer_of_Reason,Pulitzer,2001,Colson Whitehead,New York City,8804190
+277,278,Crusade of Fire,http://dbpedia.org/resource/Crusade_of_Fire,Booker,2002,Peter Ackroyd,London,9841000
+278,279,Right to Exist: A Moral Defense of Israel's Wars,http://dbpedia.org/resource/Right_to_Exist:_A_Moral_Defense_of_Israel's_Wars,Pulitzer,2003,Louise Erdrich,"Little Falls, Minnesota",9140
+279,280,The Naked Woman,http://dbpedia.org/resource/The_Naked_Woman,Pulitzer,2004,Steven Millhauser,New York City,8804190
+280,281,Dancing in the Dark (novel),http://dbpedia.org/resource/Dancing_in_the_Dark_(novel),Booker,2005,Salman Rushdie,Mumbai,12442373
+281,282,Becoming the Villainess,http://dbpedia.org/resource/Becoming_the_Villainess,Pulitzer,2006,Colson Whitehead,New York City,8804190
+282,283,Macarthur (novel),http://dbpedia.org/resource/Macarthur_(novel),Booker,2007,Michael Ondaatje,Sri Lanka,21763170
+283,284,Palpasa Café,http://dbpedia.org/resource/Palpasa_Café,Booker,2008,Salman Rushdie,Mumbai,12442373
+284,285,The Dynamite Club,http://dbpedia.org/resource/The_Dynamite_Club,Pulitzer,2009,Colson Whitehead,New York City,8804190
+285,286,Rival to the Queen,http://dbpedia.org/resource/Rival_to_the_Queen,Booker,2010,Salman Rushdie,Mumbai,12442373
+286,287,Severina (Rey Rosa),http://dbpedia.org/resource/Severina_(Rey_Rosa),Booker,2011,Michael Ondaatje,Sri Lanka,21763170
+287,288,No Time Like the Present,http://dbpedia.org/resource/No_Time_Like_the_Present,Pulitzer,2012,Junot Díaz,Dominican Republic,11532151
+288,289,The Spanish Queen,http://dbpedia.org/resource/The_Spanish_Queen,Booker,2013,Margaret Atwood,Ottawa,1017449
+289,290,After the Winter (novel),http://dbpedia.org/resource/After_the_Winter_(novel),Pulitzer,2014,Jane Smiley,Los Angeles,3898747
+290,291,Golden Lion (novel),http://dbpedia.org/resource/Golden_Lion_(novel),Booker,2015,Salman Rushdie,Mumbai,12442373
+291,292,Jane the Quene,http://dbpedia.org/resource/Jane_the_Quene,Pulitzer,2016,Colson Whitehead,New York City,8804190
+292,293,Göl Yazı,http://dbpedia.org/resource/Göl_Yazı,Booker,2017,Salman Rushdie,Mumbai,12442373
+293,294,The Kudzu Queen (book),http://dbpedia.org/resource/The_Kudzu_Queen_(book),Booker,2018,Michael Ondaatje,Sri Lanka,21763170
+294,295,Stiehl Assassin,http://dbpedia.org/resource/Stiehl_Assassin,Booker,2019,Salman Rushdie,Mumbai,12442373
+295,296,Time Shelter,http://dbpedia.org/resource/Time_Shelter,Booker,2020,Roddy Doyle,Dublin,592713
+296,297,Kill Switch (book),http://dbpedia.org/resource/Kill_Switch_(book),Pulitzer,2021,Jhumpa Lahiri,London,9841000
+297,298,Perfection (novel),http://dbpedia.org/resource/Perfection_(novel),Pulitzer,2022,Geraldine Brooks (writer),Sydney,5557233
+298,299,The Night House (novel),http://dbpedia.org/resource/The_Night_House_(novel),Booker,2023,Salman Rushdie,Mumbai,12442373
+299,300,It Rhymes With Truth,http://dbpedia.org/resource/It_Rhymes_With_Truth,Booker,2024,Marlon James (novelist),Jamaica,2824913
+300,301,Fighters for Freedom. Lithuanian Partisans Versus the U.S.S.R.,http://dbpedia.org/resource/Fighters_for_Freedom._Lithuanian_Partisans_Versus_the_U.S.S.R.,Pulitzer,1950,Unknown,Unknown,Unknown
+301,302,A World Apart (book),http://dbpedia.org/resource/A_World_Apart_(book),Pulitzer,1951,John Cheever,"Quincy, Massachusetts",101636
+302,303,Leaves for the Burning,http://dbpedia.org/resource/Leaves_for_the_Burning,Pulitzer,1952,Bernard Malamud,Brooklyn,2736074
+303,304,House of Dolls,http://dbpedia.org/resource/House_of_Dolls,Pulitzer,1953,Eudora Welty,"Jackson, Mississippi",153701
+304,305,Future Indefinite,http://dbpedia.org/resource/Future_Indefinite,Pulitzer,1954,John Cheever,"Quincy, Massachusetts",101636
+305,306,Brain-Washing (book),http://dbpedia.org/resource/Brain-Washing_(book),Pulitzer,1955,John Updike,"Reading, Pennsylvania",95112
+306,307,Tawara-Jime,http://dbpedia.org/resource/The_Canon_of_Judo,Pulitzer,1956,Edwin O'Connor,"Providence, Rhode Island",190934
+307,308,Helmet for My Pillow,http://dbpedia.org/resource/Helmet_for_My_Pillow,Pulitzer,1957,John Cheever,"Quincy, Massachusetts",101636
+308,309,A World of Strangers,http://dbpedia.org/resource/A_World_of_Strangers,Booker,1958,Nadine Gordimer,"Springs, South Africa",121610
+309,310,Eagles Fly Early (novel),http://dbpedia.org/resource/Eagles_Fly_Early_(novel),Pulitzer,1959,Philip Roth,"Newark, New Jersey",311549
+310,311,The 10 (novel),http://dbpedia.org/resource/The_10_(novel),Pulitzer,1960,William Styron,"Newport News, Virginia",186247
+311,312,The Hard Life,http://dbpedia.org/resource/The_Hard_Life,Pulitzer,1961,John Cheever,"Quincy, Massachusetts",101636
+312,313,Five Centuries of Spanish Literature,http://dbpedia.org/resource/Five_Centuries_of_Spanish_Literature,Pulitzer,1962,Philip Roth,"Newark, New Jersey",311549
+313,314,Udaas Naslain,http://dbpedia.org/resource/Udaas_Naslain,Pulitzer,1963,John Updike,"Reading, Pennsylvania",95112
+314,315,The Good Hope (novel),http://dbpedia.org/resource/The_Good_Hope_(novel),Pulitzer,1964,John Cheever,"Quincy, Massachusetts",101636
+315,316,The Gospel According to Peanuts,http://dbpedia.org/resource/The_Gospel_According_to_Peanuts,Pulitzer,1965,Cormac McCarthy,"Providence, Rhode Island",190934
+316,317,The Tolkien Reader,http://dbpedia.org/resource/The_Tolkien_Reader,Pulitzer,1966,John Cheever,"Quincy, Massachusetts",101636
+317,318,Tres tristes tigres (novel),http://dbpedia.org/resource/Tres_tristes_tigres_(novel),Pulitzer,1967,Philip Roth,"Newark, New Jersey",311549
+318,319,The Cathedral (Honchar novel),http://dbpedia.org/resource/The_Cathedral_(Honchar_novel),Booker,1968,Kingsley Amis,Clapham,48478
+319,320,The Flight of the Wild Gander,http://dbpedia.org/resource/The_Flight_of_the_Wild_Gander,Pulitzer,1969,Philip Roth,"Newark, New Jersey",311549
+320,321,Vibration Cooking,http://dbpedia.org/resource/Vibration_Cooking,Booker,1970,Nadine Gordimer,"Springs, South Africa",121610
+321,322,The Best of National Lampoon No. 1,http://dbpedia.org/resource/The_Best_of_National_Lampoon_No._1,Pulitzer,1971,Allen Drury,Houston,2304580
+322,323,The Book of Folly,http://dbpedia.org/resource/The_Book_of_Folly,Booker,1972,John Berger,London,9841000
+323,324,The Last of the Nuba,http://dbpedia.org/resource/The_Last_of_the_Nuba,Booker,1973,Penelope Lively,Cairo,9801536
+324,325,The Job of Sex,http://dbpedia.org/resource/The_Job_of_Sex,Pulitzer,1974,William Faulkner,"New Albany, Mississippi",7626
+325,326,The Collected Books of Jack Spicer,http://dbpedia.org/resource/The_Collected_Books_of_Jack_Spicer,Pulitzer,1975,Philip Roth,"Newark, New Jersey",311549
+326,327,The Definitive Biography of P.D.Q. Bach,http://dbpedia.org/resource/The_Definitive_Biography_of_P.D.Q._Bach,Pulitzer,1976,Unknown,Unknown,Unknown
+327,328,Wings of the Falcon,http://dbpedia.org/resource/Wings_of_the_Falcon,Pulitzer,1977,John Updike,"Reading, Pennsylvania",95112
+328,329,The Strange Allies,http://dbpedia.org/resource/The_Strange_Allies,Pulitzer,1978,James A. Michener,"Doylestown, Pennsylvania",8300
+329,330,The Black Book of Clark Ashton Smith,http://dbpedia.org/resource/The_Black_Book_of_Clark_Ashton_Smith,Booker,1979,Thomas Keneally,Sydney,5557233
+330,331,Reading Writing,http://dbpedia.org/resource/Reading_Writing,Pulitzer,1980,Eudora Welty,"Jackson, Mississippi",153701
+331,332,"Ah, but Your Land Is Beautiful","http://dbpedia.org/resource/Ah,_but_Your_Land_Is_Beautiful",Booker,1981,Ben Okri,Minna,304113
+332,333,Ciudades desiertas,http://dbpedia.org/resource/Ciudades_desiertas,Booker,1982,Thomas Keneally,Sydney,5557233
+333,334,The Journey of Ibn Fattouma,http://dbpedia.org/resource/The_Journey_of_Ibn_Fattouma,Booker,1983,Salman Rushdie,Mumbai,12442373
+334,335,A Synchronic Chinese-Western Daily Calendar: 1341–1661 A.D.,http://dbpedia.org/resource/A_Synchronic_Chinese-Western_Daily_Calendar:_1341–1661_A.D.,Pulitzer,1984,John Updike,"Reading, Pennsylvania",95112
+335,336,The Fungus,http://dbpedia.org/resource/The_Fungus,Booker,1985,Margaret Atwood,Ottawa,1017449
+336,337,Hymns and Psalms,http://dbpedia.org/resource/Hymns_and_Psalms,Pulitzer,1986,Allen Drury,Houston,2304580
+337,338,Republican Party Reptile,http://dbpedia.org/resource/Republican_Party_Reptile,Booker,1987,Salman Rushdie,Mumbai,12442373
+338,339,Jibon O Rajnaitik Bastobota,http://dbpedia.org/resource/Jibon_O_Rajnaitik_Bastobota,Pulitzer,1988,Jane Smiley,Los Angeles,3898747
+339,340,The Melancholy of Resistance,http://dbpedia.org/resource/The_Melancholy_of_Resistance,Pulitzer,1989,Oscar Hijuelos,New York City,8804190
+340,341,The Black Book (Pamuk novel),http://dbpedia.org/resource/The_Black_Book_(Pamuk_novel),Booker,1990,Salman Rushdie,Mumbai,12442373
+341,342,The Book of Intimate Grammar,http://dbpedia.org/resource/The_Book_of_Intimate_Grammar,Pulitzer,1991,Jane Smiley,Los Angeles,3898747
+342,343,Trnovska mafija,http://dbpedia.org/resource/Trnovska_mafija,Pulitzer,1992,Edward P. Jones,"Washington, D.C.",689545
+343,344,Pichilemu Blues,http://dbpedia.org/resource/Pichilemu_Blues,Pulitzer,1993,Philip Roth,"Newark, New Jersey",311549
+344,345,Jubilee (Solomon novel),http://dbpedia.org/resource/Jubilee_(Solomon_novel),Booker,1994,Hilary Mantel,Glossop,17825
+345,346,The Computer Contradictionary,http://dbpedia.org/resource/The_Computer_Contradictionary,Pulitzer,1995,Jane Smiley,Los Angeles,3898747
+346,347,The Law of Love,http://dbpedia.org/resource/The_Law_of_Love,Booker,1996,Graham Swift,United Kingdom,68265209
+347,348,Boyhood: Scenes from Provincial Life,http://dbpedia.org/resource/Boyhood:_Scenes_from_Provincial_Life,Pulitzer,1997,Philip Roth,"Newark, New Jersey",311549
+348,349,Patti Smith Complete,http://dbpedia.org/resource/Patti_Smith_Complete,Pulitzer,1998,Michael Cunningham,Cincinnati,309317
+349,350,The Land of Darkness (novel),http://dbpedia.org/resource/The_Land_of_Darkness_(novel),Booker,1999,Iris Murdoch,Ireland,7185600
+350,351,An Episode in the Life of a Landscape Painter,http://dbpedia.org/resource/An_Episode_in_the_Life_of_a_Landscape_Painter,Booker,2000,Michael Ondaatje,Sri Lanka,21763170
+351,352,Shantytown (novel),http://dbpedia.org/resource/Shantytown_(novel),Pulitzer,2001,Colson Whitehead,New York City,8804190
+352,353,Men and the City,http://dbpedia.org/resource/Men_and_the_City,Booker,2002,Peter Ackroyd,London,9841000
+353,354,The Bird That Drinks Tears,http://dbpedia.org/resource/The_Bird_That_Drinks_Tears,Pulitzer,2003,Louise Erdrich,"Little Falls, Minnesota",9140
+354,355,"Yeah, I Said It","http://dbpedia.org/resource/Yeah,_I_Said_It",Pulitzer,2004,Steven Millhauser,New York City,8804190
+355,356,"Friends, Lovers, Chocolate","http://dbpedia.org/resource/Friends,_Lovers,_Chocolate",Booker,2005,Salman Rushdie,Mumbai,12442373
+356,357,Bass Ackwards and Belly Up,http://dbpedia.org/resource/Bass_Ackwards_and_Belly_Up,Pulitzer,2006,Colson Whitehead,New York City,8804190
+357,358,"Mees, kes teadis ussisõnu","http://dbpedia.org/resource/Mees,_kes_teadis_ussisõnu",Booker,2007,Michael Ondaatje,Sri Lanka,21763170
+358,359,The Museum of Innocence,http://dbpedia.org/resource/The_Museum_of_Innocence,Booker,2008,Salman Rushdie,Mumbai,12442373
+359,360,The Memoirs of Mary Queen of Scots,http://dbpedia.org/resource/The_Memoirs_of_Mary_Queen_of_Scots,Pulitzer,2009,Colson Whitehead,New York City,8804190
+360,361,Second Person Singular,http://dbpedia.org/resource/Second_Person_Singular,Booker,2010,Salman Rushdie,Mumbai,12442373
+361,362,Vazha-Pshavela (biographical novel),http://dbpedia.org/resource/Vazha-Pshavela_(biographical_novel),Booker,2011,Michael Ondaatje,Sri Lanka,21763170
+362,363,Helessa,http://dbpedia.org/resource/Helessa,Pulitzer,2012,Junot Díaz,Dominican Republic,11532151
+363,364,The Fall of Arthur,http://dbpedia.org/resource/The_Fall_of_Arthur,Booker,2013,Margaret Atwood,Ottawa,1017449
+364,365,October (novel),http://dbpedia.org/resource/October_(novel),Pulitzer,2014,Jane Smiley,Los Angeles,3898747
+365,366,Caring for the Heart,http://dbpedia.org/resource/Caring_for_the_Heart,Booker,2015,Salman Rushdie,Mumbai,12442373
+366,367,The Schooldays of Jesus,http://dbpedia.org/resource/The_Schooldays_of_Jesus,Pulitzer,2016,Colson Whitehead,New York City,8804190
+367,368,How the BJP Wins,http://dbpedia.org/resource/How_the_BJP_Wins,Booker,2017,Salman Rushdie,Mumbai,12442373
+368,369,Event-Space: Theatre Architecture and the Historical Avant-Garde,http://dbpedia.org/resource/Event-Space:_Theatre_Architecture_and_the_Historical_Avant-Garde,Booker,2018,Michael Ondaatje,Sri Lanka,21763170
+369,370,Chasing Homer,http://dbpedia.org/resource/Chasing_Homer,Booker,2019,Salman Rushdie,Mumbai,12442373
+370,371,Reptile Memoirs,http://dbpedia.org/resource/Reptile_Memoirs,Booker,2020,Roddy Doyle,Dublin,592713
+371,372,Music by Laxmikant Pyarelal: The Incredibly Melodious Journey,http://dbpedia.org/resource/Music_by_Laxmikant_Pyarelal:_The_Incredibly_Melodious_Journey,Pulitzer,2021,Jhumpa Lahiri,London,9841000
+372,373,Rosenfeld (novel),http://dbpedia.org/resource/Rosenfeld_(novel),Pulitzer,2022,Geraldine Brooks (writer),Sydney,5557233
+373,374,Ascension (Binge novel),http://dbpedia.org/resource/Ascension_(Binge_novel),Booker,2023,Salman Rushdie,Mumbai,12442373
+374,375,Midnight and Blue,http://dbpedia.org/resource/Midnight_and_Blue,Booker,2024,Marlon James (novelist),Jamaica,2824913
+375,376,Kuroi Ushio,http://dbpedia.org/resource/Kuroi_Ushio,Pulitzer,1950,Unknown,Unknown,Unknown
+376,377,The Mills of The Kavanaughs,http://dbpedia.org/resource/The_Mills_of_The_Kavanaughs,Pulitzer,1951,John Cheever,"Quincy, Massachusetts",101636
+377,378,The Anathemata,http://dbpedia.org/resource/The_Anathemata,Pulitzer,1952,Bernard Malamud,Brooklyn,2736074
+378,379,The Complete Book of Outer Space,http://dbpedia.org/resource/The_Complete_Book_of_Outer_Space,Pulitzer,1953,Eudora Welty,"Jackson, Mississippi",153701
+379,380,Christ Recrucified,http://dbpedia.org/resource/Christ_Recrucified,Pulitzer,1954,John Cheever,"Quincy, Massachusetts",101636
+380,381,Rosa at Ten O'Clock,http://dbpedia.org/resource/Rosa_at_Ten_O'Clock,Pulitzer,1955,John Updike,"Reading, Pennsylvania",95112
+381,382,The Canon of Judo,http://dbpedia.org/resource/The_Canon_of_Judo,Pulitzer,1956,Edwin O'Connor,"Providence, Rhode Island",190934
+382,383,The God Boy,http://dbpedia.org/resource/The_God_Boy,Pulitzer,1957,John Cheever,"Quincy, Massachusetts",101636
+383,384,Deep Rivers,http://dbpedia.org/resource/Deep_Rivers,Booker,1958,Nadine Gordimer,"Springs, South Africa",121610
+384,385,Karolcia,http://dbpedia.org/resource/Karolcia,Pulitzer,1959,Philip Roth,"Newark, New Jersey",311549
+385,386,The Fern and the Tiki,http://dbpedia.org/resource/The_Fern_and_the_Tiki,Pulitzer,1960,William Styron,"Newport News, Virginia",186247
+386,387,The Butterfly Revolution,http://dbpedia.org/resource/The_Butterfly_Revolution,Pulitzer,1961,John Cheever,"Quincy, Massachusetts",101636
+387,388,One Day in the Life of Ivan Denisovich,http://dbpedia.org/resource/One_Day_in_the_Life_of_Ivan_Denisovich,Pulitzer,1962,Philip Roth,"Newark, New Jersey",311549
+388,389,Don Juan (novel),http://dbpedia.org/resource/Don_Juan_(novel),Pulitzer,1963,John Updike,"Reading, Pennsylvania",95112
+389,390,The King of the Copper Mountains,http://dbpedia.org/resource/The_King_of_the_Copper_Mountains,Pulitzer,1964,John Cheever,"Quincy, Massachusetts",101636
+390,391,El bandido adolescente,http://dbpedia.org/resource/El_bandido_adolescente,Pulitzer,1965,Cormac McCarthy,"Providence, Rhode Island",190934
+391,392,The Late Bourgeois World,http://dbpedia.org/resource/The_Late_Bourgeois_World,Pulitzer,1966,John Cheever,"Quincy, Massachusetts",101636
+392,393,One Hundred Years of Solitude,http://dbpedia.org/resource/One_Hundred_Years_of_Solitude,Pulitzer,1967,Philip Roth,"Newark, New Jersey",311549
+393,394,Steps in the Scientific Tradition,http://dbpedia.org/resource/Steps_in_the_Scientific_Tradition,Booker,1968,Kingsley Amis,Clapham,48478
+394,395,The Iron Tonic,http://dbpedia.org/resource/The_Iron_Tonic,Pulitzer,1969,Philip Roth,"Newark, New Jersey",311549
+395,396,A Guest of Honour (novel),http://dbpedia.org/resource/A_Guest_of_Honour_(novel),Booker,1970,Nadine Gordimer,"Springs, South Africa",121610
+396,397,When the sun,http://dbpedia.org/resource/When_the_sun,Pulitzer,1971,Allen Drury,Houston,2304580
+397,398,The Firesign Theatre's Big Book of Plays,http://dbpedia.org/resource/The_Firesign_Theatre's_Big_Book_of_Plays,Booker,1972,John Berger,London,9841000
+398,399,A Man Was Going Down the Road,http://dbpedia.org/resource/A_Man_Was_Going_Down_the_Road,Booker,1973,Penelope Lively,Cairo,9801536
+399,400,Dusklands,http://dbpedia.org/resource/Dusklands,Pulitzer,1974,William Faulkner,"New Albany, Mississippi",7626
+400,401,The Autumn of the Patriarch,http://dbpedia.org/resource/The_Autumn_of_the_Patriarch,Pulitzer,1975,Philip Roth,"Newark, New Jersey",311549
+401,402,The Doctor's Wife (Moore novel),http://dbpedia.org/resource/The_Doctor's_Wife_(Moore_novel),Pulitzer,1976,Unknown,Unknown,Unknown
+402,403,Pappilan neidot,http://dbpedia.org/resource/Pappilan_neidot,Pulitzer,1977,John Updike,"Reading, Pennsylvania",95112
+403,404,National Lampoon's Animal House Book,http://dbpedia.org/resource/National_Lampoon's_Animal_House_Book,Pulitzer,1978,James A. Michener,"Doylestown, Pennsylvania",8300
+404,405,The Dragon Can't Dance,http://dbpedia.org/resource/The_Dragon_Can't_Dance,Booker,1979,Thomas Keneally,Sydney,5557233
+405,406,The Illuminati Papers,http://dbpedia.org/resource/The_Illuminati_Papers,Pulitzer,1980,Eudora Welty,"Jackson, Mississippi",153701
+406,407,Town Boy,http://dbpedia.org/resource/Town_Boy,Booker,1981,Ben Okri,Minna,304113
+407,408,Vanishing Africa,http://dbpedia.org/resource/Vanishing_Africa,Booker,1982,Thomas Keneally,Sydney,5557233
+408,409,Fire in the Abyss,http://dbpedia.org/resource/Fire_in_the_Abyss,Booker,1983,Salman Rushdie,Mumbai,12442373
+409,410,Jacklight,http://dbpedia.org/resource/Jacklight,Pulitzer,1984,John Updike,"Reading, Pennsylvania",95112
+410,411,Telling Right from Wrong,http://dbpedia.org/resource/Telling_Right_from_Wrong,Booker,1985,Margaret Atwood,Ottawa,1017449
+411,412,An Unfinished Journey,http://dbpedia.org/resource/An_Unfinished_Journey,Pulitzer,1986,Allen Drury,Houston,2304580
+412,413,Forced Entries: The Downtown Diaries 1971–1973,http://dbpedia.org/resource/Forced_Entries:_The_Downtown_Diaries_1971–1973,Booker,1987,Salman Rushdie,Mumbai,12442373
+413,414,Barnyard Dance,http://dbpedia.org/resource/Rise_Up_Singing,Pulitzer,1988,Jane Smiley,Los Angeles,3898747
+414,415,Roman 1987,http://dbpedia.org/resource/Roman_1987,Pulitzer,1989,Oscar Hijuelos,New York City,8804190
+415,416,"Clear Body, Clear Mind","http://dbpedia.org/resource/Clear_Body,_Clear_Mind",Booker,1990,Salman Rushdie,Mumbai,12442373
+416,417,El vuelo de los avestruces,http://dbpedia.org/resource/El_vuelo_de_los_avestruces,Pulitzer,1991,Jane Smiley,Los Angeles,3898747
+417,418,Twice Blessed,http://dbpedia.org/resource/Twice_Blessed,Pulitzer,1992,Edward P. Jones,"Washington, D.C.",689545
+418,419,The Far Side Gallery 4,http://dbpedia.org/resource/The_Far_Side_Gallery_4,Pulitzer,1993,Philip Roth,"Newark, New Jersey",311549
+419,420,The New Life (Pamuk novel),http://dbpedia.org/resource/The_New_Life_(Pamuk_novel),Booker,1994,Hilary Mantel,Glossop,17825
+420,421,The Curious Enlightenment of Professor Caritat,http://dbpedia.org/resource/The_Curious_Enlightenment_of_Professor_Caritat,Pulitzer,1995,Jane Smiley,Los Angeles,3898747
+421,422,UFOs: The Greatest Stories,http://dbpedia.org/resource/UFOs:_The_Greatest_Stories,Booker,1996,Graham Swift,United Kingdom,68265209
+422,423,The Compass of Zen,http://dbpedia.org/resource/The_Compass_of_Zen,Pulitzer,1997,Philip Roth,"Newark, New Jersey",311549
+423,424,Rencontre au Sommet,http://dbpedia.org/resource/Rencontre_au_Sommet,Pulitzer,1998,Michael Cunningham,Cincinnati,309317
+424,425,The Blackford Oakes Reader,http://dbpedia.org/resource/The_Blackford_Oakes_Reader,Booker,1999,Iris Murdoch,Ireland,7185600
+425,426,Necessary But Not Sufficient (novel),http://dbpedia.org/resource/Necessary_But_Not_Sufficient_(novel),Booker,2000,Michael Ondaatje,Sri Lanka,21763170
+426,427,Flight Without a Tun,http://dbpedia.org/resource/Flight_Without_a_Tun,Pulitzer,2001,Colson Whitehead,New York City,8804190
+427,428,The Purpose Driven Life,http://dbpedia.org/resource/The_Purpose_Driven_Life,Booker,2002,Peter Ackroyd,London,9841000
+428,429,The Complete Far Side,http://dbpedia.org/resource/The_Complete_Far_Side,Pulitzer,2003,Louise Erdrich,"Little Falls, Minnesota",9140
+429,430,Destruction and Sorrow Beneath the Heavens,http://dbpedia.org/resource/Destruction_and_Sorrow_Beneath_the_Heavens,Pulitzer,2004,Steven Millhauser,New York City,8804190
+430,431,La sombra de Heidegger,http://dbpedia.org/resource/La_sombra_de_Heidegger,Booker,2005,Salman Rushdie,Mumbai,12442373
+431,432,"Fredegunde, Neustria kuninganna","http://dbpedia.org/resource/Fredegunde,_Neustria_kuninganna",Pulitzer,2006,Colson Whitehead,New York City,8804190
+432,433,The Man Who Spoke Snakish,"http://dbpedia.org/resource/Mees,_kes_teadis_ussisõnu",Booker,2007,Michael Ondaatje,Sri Lanka,21763170
+433,434,Books: A Memoir,http://dbpedia.org/resource/Books:_A_Memoir,Booker,2008,Salman Rushdie,Mumbai,12442373
+434,435,The Honour of the Knights,http://dbpedia.org/resource/The_Honour_of_the_Knights,Pulitzer,2009,Colson Whitehead,New York City,8804190
+435,436,Just Add Magic,http://dbpedia.org/resource/Just_Add_Magic,Booker,2010,Salman Rushdie,Mumbai,12442373
+436,437,Restoration (Ólafsson novel),http://dbpedia.org/resource/Restoration_(Ólafsson_novel),Booker,2011,Michael Ondaatje,Sri Lanka,21763170
+437,438,I Am a Pole (And So Can You!),http://dbpedia.org/resource/I_Am_a_Pole_(And_So_Can_You!),Pulitzer,2012,Junot Díaz,Dominican Republic,11532151
+438,439,A Big She-Bear,http://dbpedia.org/resource/A_Big_She-Bear,Booker,2013,Margaret Atwood,Ottawa,1017449
+439,440,With the People from the Bridge,http://dbpedia.org/resource/With_the_People_from_the_Bridge,Pulitzer,2014,Jane Smiley,Los Angeles,3898747
+440,441,Solenoid (novel),http://dbpedia.org/resource/Solenoid_(novel),Booker,2015,Salman Rushdie,Mumbai,12442373
+441,442,Why Men Marry Bitches,http://dbpedia.org/resource/Why_Men_Marry_Bitches,Pulitzer,2016,Colson Whitehead,New York City,8804190
+442,443,"Goodbye, Vitamin","http://dbpedia.org/resource/Goodbye,_Vitamin",Booker,2017,Salman Rushdie,Mumbai,12442373
+443,444,Miss Iceland (novel),http://dbpedia.org/resource/Miss_Iceland_(novel),Booker,2018,Michael Ondaatje,Sri Lanka,21763170
+444,445,Can Everyone Please Calm Down?,http://dbpedia.org/resource/Can_Everyone_Please_Calm_Down%3F,Booker,2019,Salman Rushdie,Mumbai,12442373
+445,446,City as an Artist's Subjectivity,http://dbpedia.org/resource/City_as_an_Artist's_Subjectivity,Booker,2020,Roddy Doyle,Dublin,592713
+446,447,Nagougi,http://dbpedia.org/resource/Nagougi,Pulitzer,2021,Jhumpa Lahiri,London,9841000
+447,448,The Accidental Malay,http://dbpedia.org/resource/The_Accidental_Malay,Pulitzer,2022,Geraldine Brooks (writer),Sydney,5557233
+448,449,Moral Minefields: How Sociologists Debate Good Science,http://dbpedia.org/resource/Moral_Minefields:_How_Sociologists_Debate_Good_Science,Booker,2023,Salman Rushdie,Mumbai,12442373
+449,450,LIFE. Hollywood,http://dbpedia.org/resource/LIFE._Hollywood,Booker,2024,Marlon James (novelist),Jamaica,2824913
+450,451,Barabbas (novel),http://dbpedia.org/resource/Barabbas_(novel),Pulitzer,1950,Unknown,Unknown,Unknown
+451,452,Hansuli Banker Upakatha (novel),http://dbpedia.org/resource/Hansuli_Banker_Upakatha_(novel),Pulitzer,1951,John Cheever,"Quincy, Massachusetts",101636
+452,453,Thousand Cranes,http://dbpedia.org/resource/Thousand_Cranes,Pulitzer,1952,Bernard Malamud,Brooklyn,2736074
+453,454,In the Castle of My Skin,http://dbpedia.org/resource/In_the_Castle_of_My_Skin,Pulitzer,1953,Eudora Welty,"Jackson, Mississippi",153701
+454,455,The Descendants of Cain,http://dbpedia.org/resource/The_Descendants_of_Cain,Pulitzer,1954,John Cheever,"Quincy, Massachusetts",101636
+455,456,When the Robbers Came to Cardamom Town,http://dbpedia.org/resource/When_the_Robbers_Came_to_Cardamom_Town,Pulitzer,1955,John Updike,"Reading, Pennsylvania",95112
+456,457,The Settlers (novel),http://dbpedia.org/resource/The_Settlers_(novel),Pulitzer,1956,Edwin O'Connor,"Providence, Rhode Island",190934
+457,458,The Doubtful Guest,http://dbpedia.org/resource/The_Doubtful_Guest,Pulitzer,1957,John Cheever,"Quincy, Massachusetts",101636
+458,459,The Hunt for Kimathi,http://dbpedia.org/resource/The_Hunt_for_Kimathi,Booker,1958,Nadine Gordimer,"Springs, South Africa",121610
+459,460,The Road to Agra,http://dbpedia.org/resource/The_Road_to_Agra,Pulitzer,1959,Philip Roth,"Newark, New Jersey",311549
+460,461,The Annotated Alice,http://dbpedia.org/resource/The_Annotated_Alice,Pulitzer,1960,William Styron,"Newport News, Virginia",186247
+461,462,The Curious Sofa,http://dbpedia.org/resource/The_Curious_Sofa,Pulitzer,1961,John Cheever,"Quincy, Massachusetts",101636
+462,463,Raymond Chandler Speaking,http://dbpedia.org/resource/Raymond_Chandler_Speaking,Pulitzer,1962,Philip Roth,"Newark, New Jersey",311549
+463,464,Devet fantov in eno dekle,http://dbpedia.org/resource/Devet_fantov_in_eno_dekle,Pulitzer,1963,John Updike,"Reading, Pennsylvania",95112
+464,465,Animal Machines,http://dbpedia.org/resource/Animal_Machines,Pulitzer,1964,John Cheever,"Quincy, Massachusetts",101636
+465,466,The Secrets of the Wild Wood,http://dbpedia.org/resource/The_Secrets_of_the_Wild_Wood,Pulitzer,1965,Cormac McCarthy,"Providence, Rhode Island",190934
+466,467,Seven Come Infinity,http://dbpedia.org/resource/Seven_Come_Infinity,Pulitzer,1966,John Cheever,"Quincy, Massachusetts",101636
+467,468,The Ruined Map,http://dbpedia.org/resource/The_Ruined_Map,Pulitzer,1967,Philip Roth,"Newark, New Jersey",311549
+468,469,The Day of the Dinosaur,http://dbpedia.org/resource/The_Day_of_the_Dinosaur,Booker,1968,Kingsley Amis,Clapham,48478
+469,470,The Kingdom and the Power,http://dbpedia.org/resource/The_Kingdom_and_the_Power,Pulitzer,1969,Philip Roth,"Newark, New Jersey",311549
+470,471,Old Ben,http://dbpedia.org/resource/Old_Ben,Booker,1970,Nadine Gordimer,"Springs, South Africa",121610
+471,472,Making Peace,http://dbpedia.org/resource/Making_Peace,Pulitzer,1971,Allen Drury,Houston,2304580
+472,473,The Giant Jam Sandwich,http://dbpedia.org/resource/The_Giant_Jam_Sandwich,Booker,1972,John Berger,London,9841000
+473,474,Festivals (book),http://dbpedia.org/resource/Festivals_(book),Booker,1973,Penelope Lively,Cairo,9801536
+474,475,The Hearing Trumpet,http://dbpedia.org/resource/The_Hearing_Trumpet,Pulitzer,1974,William Faulkner,"New Albany, Mississippi",7626
+475,476,Virgil Finlay: An Astrology Sketchbook,http://dbpedia.org/resource/Virgil_Finlay:_An_Astrology_Sketchbook,Pulitzer,1975,Philip Roth,"Newark, New Jersey",311549
+476,477,For Money or Love,http://dbpedia.org/resource/For_Money_or_Love,Pulitzer,1976,Unknown,Unknown,Unknown
+477,478,Callahan's Crosstime Saloon,http://dbpedia.org/resource/Callahan's_Crosstime_Saloon,Pulitzer,1977,John Updike,"Reading, Pennsylvania",95112
+478,479,The English Gentleman,http://dbpedia.org/resource/The_English_Gentleman,Pulitzer,1978,James A. Michener,"Doylestown, Pennsylvania",8300
+479,480,The Eiffel Tower and Other Mythologies,http://dbpedia.org/resource/The_Eiffel_Tower_and_Other_Mythologies,Booker,1979,Thomas Keneally,Sydney,5557233
+480,481,Women of Algiers in Their Apartment,http://dbpedia.org/resource/Women_of_Algiers_in_Their_Apartment,Pulitzer,1980,Eudora Welty,"Jackson, Mississippi",153701
+481,482,Aik Din,http://dbpedia.org/resource/Aik_Din,Booker,1981,Ben Okri,Minna,304113
+482,483,A Novel about Human Destiny,http://dbpedia.org/resource/A_Novel_about_Human_Destiny,Booker,1982,Thomas Keneally,Sydney,5557233
+483,484,The Desert Rose,http://dbpedia.org/resource/The_Desert_Rose,Booker,1983,Salman Rushdie,Mumbai,12442373
+484,485,The Birthing of Hannibal Valdez,http://dbpedia.org/resource/The_Birthing_of_Hannibal_Valdez,Pulitzer,1984,John Updike,"Reading, Pennsylvania",95112
+485,486,Medea: Harlan's World,http://dbpedia.org/resource/Medea:_Harlan's_World,Booker,1985,Margaret Atwood,Ottawa,1017449
+486,487,How Institutions Think,http://dbpedia.org/resource/How_Institutions_Think,Pulitzer,1986,Allen Drury,Houston,2304580
+487,488,The Boozer Challenge,http://dbpedia.org/resource/The_Boozer_Challenge,Booker,1987,Salman Rushdie,Mumbai,12442373
+488,489,Rise Up Singing,http://dbpedia.org/resource/Rise_Up_Singing,Pulitzer,1988,Jane Smiley,Los Angeles,3898747
+489,490,Monty Python's Flying Circus: Just the Words,http://dbpedia.org/resource/Monty_Python's_Flying_Circus:_Just_the_Words,Pulitzer,1989,Oscar Hijuelos,New York City,8804190
+490,491,Man After Man,http://dbpedia.org/resource/Man_After_Man,Booker,1990,Salman Rushdie,Mumbai,12442373
+491,492,Star Trek: The Next Generation Technical Manual,http://dbpedia.org/resource/Star_Trek:_The_Next_Generation_Technical_Manual,Pulitzer,1991,Jane Smiley,Los Angeles,3898747
+492,493,Vaskilintu,http://dbpedia.org/resource/Vaskilintu,Pulitzer,1992,Edward P. Jones,"Washington, D.C.",689545
+493,494,Der Rote Ritter,http://dbpedia.org/resource/Der_Rote_Ritter,Pulitzer,1993,Philip Roth,"Newark, New Jersey",311549
+494,495,The Star Trek Encyclopedia,http://dbpedia.org/resource/The_Star_Trek_Encyclopedia,Booker,1994,Hilary Mantel,Glossop,17825
+495,496,The Discontinuity Guide,http://dbpedia.org/resource/The_Discontinuity_Guide,Pulitzer,1995,Jane Smiley,Los Angeles,3898747
+496,497,A Smile in the Mind,http://dbpedia.org/resource/A_Smile_in_the_Mind,Booker,1996,Graham Swift,United Kingdom,68265209
+497,498,The Dragonslayer's Apprentice,http://dbpedia.org/resource/The_Dragonslayer's_Apprentice,Pulitzer,1997,Philip Roth,"Newark, New Jersey",311549
+498,499,The Bondmaid,http://dbpedia.org/resource/The_Bondmaid,Pulitzer,1998,Michael Cunningham,Cincinnati,309317
+499,500,The Headless Bust,http://dbpedia.org/resource/The_Headless_Bust,Booker,1999,Iris Murdoch,Ireland,7185600
