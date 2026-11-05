@@ -1,1 +1,29 @@
-I'll research this systematically. "Dianetics: The Modern Science of Mental Health" was published in 1950 by L. Ron Hubbard. I need to find Booker Prize or Pulitzer Prize winners who also published a book in 1950.Now
+Now I have sufficient information to compile the answer. Let me summarize my findings:
+
+**"Dianetics: The Modern Science of Mental Health"** was published in **1950** by L. Ron Hubbard.
+
+I need to find Pulitzer Prize or Booker Prize winners who also published a book in 1950. The Booker Prize didn't exist until 1969, so only Pulitzer Prize winners are relevant here.
+
+Key findings:
+- **P.H. Newby** — Won the first Booker Prize (1969) for *Something to Answer For*, and published *The Young May Moon* in 1950. Born in Crowborough, Sussex, England. Crowborough population ~21,688 (2021 census).
+- **Robert Penn Warren** — Won Pulitzer Prize for Fiction (1947) for *All the King's Men* and poetry Pulitzers in 1958 & 1979. Published *World Enough and Time* in 1950. Born in Guthrie, Kentucky (population ~1,330).
+- **A.B. Guthrie Jr.** — Won the 1950 Pulitzer Prize for Fiction for *The Way West* (published 1949). No confirmed book published in 1950 itself — his next novel after *The Way West* was *These Thousand Hills* (1956). So he does **not** qualify under condition (b).
+- **Gwendolyn Brooks** — Won the 1950 Pulitzer for Poetry for *Annie Allen* (published 1949). No new book by her confirmed in 1950.
+
+---
+
+ANSWER:
+Publication year: 1950
+P. H. Newby | Crowborough, Sussex, England | 21688
+Robert Penn Warren | Guthrie, Kentucky | 1330
+
+**Sources:**
+- [P. H. Newby – Wikipedia](https://en.wikipedia.org/wiki/P._H._Newby)
+- [Crowborough – Wikipedia](https://en.wikipedia.org/wiki/Crowborough)
+- [Robert Penn Warren – Wikipedia](https://en.wikipedia.org/wiki/Robert_Penn_Warren)
+- [Guthrie, Kentucky – Wikipedia](https://en.wikipedia.org/wiki/Guthrie,_Kentucky)
+- [1950 Pulitzer Prize – Wikipedia](https://en.wikipedia.org/wiki/1950_Pulitzer_Prize)
+- [A. B. Guthrie Jr. – Wikipedia](https://en.wikipedia.org/wiki/A._B._Guthrie_Jr.)
+- [The Way West – Wikipedia](https://en.wikipedia.org/wiki/The_Way_West)
+- [Gwendolyn Brooks – Poetry Foundation](https://www.poetryfoundation.org/bio/gwendolyn-brooks)
+- [Booker Prize winners list – Wikipedia](https://en.wikipedia.org/wiki/List_of_winners_and_nominated_authors_of_the_Booker_Prize)

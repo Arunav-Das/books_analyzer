@@ -468,3 +468,26 @@
 2026-11-05 07:33:27,200 - INFO - Processing 2/500 queries (0 already done)  strategy=flat_conjunctive  rag_tier=year_list_only  model=claude-sonnet-4-6  backend=claude_code
 2026-11-05 07:33:27,200 - INFO - [1/500] Q_ID=1 'Dianetics: The Modern Science of Mental Health' year=1950
 2026-11-05 07:33:57,845 - INFO -   [claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG1_TITLES_THOFF_WEB_T30_q1] streaming 31s: text=213 chars  thinking=0 chars
+2026-11-05 07:34:27,890 - INFO -   [claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG1_TITLES_THOFF_WEB_T30_q1] streaming 61s: text=1287 chars  thinking=0 chars
+2026-11-05 07:34:36,416 - INFO -   OK 69.21s  status=ok  [rows_parsed/rows=2]  authors=2  year 1950 vs src 1950 OK  text_chars=2137  thinking_chars=0  usage={'input_tokens': 10, 'cache_creation_input_tokens': 18785, 'cache_read_input_tokens': 77935, 'output_tokens': 1777, 'output_tokens_details': {'thinking_tokens': 0}, 'server_tool_use': {'web_search_requests': 0, 'web_fetch_requests': 0}, 'service_tier': 'standard', 'cache_creation': {'ephemeral_1h_input_tokens': 18785, 'ephemeral_5m_input_tokens': 0}, 'inference_geo': 'global', 'iterations': [{'input_tokens': 1, 'output_tokens': 703, 'cache_read_input_tokens': 18235, 'cache_creation_input_tokens': 2045, 'cache_creation': {'ephemeral_5m_input_tokens': 0, 'ephemeral_1h_input_tokens': 2045}, 'type': 'message'}], 'speed': 'standard', 'fallback_credit': None}  cost_usd=0.33896919999999997
+2026-11-05 07:34:36,417 - INFO - Saved 1 records -> claude_code_book_strategies/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG1_TITLES_THOFF_WEB_T30/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG1_TITLES_THOFF_WEB_T30.json
+2026-11-05 07:34:36,417 - INFO - [2/500] Q_ID=2 'Speak, Memory' year=1951
+2026-11-05 07:35:09,074 - INFO -   [claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG1_TITLES_THOFF_WEB_T30_q2] streaming 33s: text=182 chars  thinking=0 chars
+2026-11-05 07:35:36,014 - INFO -   OK 59.60s  status=ok  [rows_parsed/rows=4]  authors=4  year 1951 vs src 1951 OK  text_chars=2170  thinking_chars=0  usage={'input_tokens': 8, 'cache_creation_input_tokens': 13832, 'cache_read_input_tokens': 42969, 'output_tokens': 1600, 'output_tokens_details': {'thinking_tokens': 0}, 'server_tool_use': {'web_search_requests': 0, 'web_fetch_requests': 0}, 'service_tier': 'standard', 'cache_creation': {'ephemeral_1h_input_tokens': 13832, 'ephemeral_5m_input_tokens': 0}, 'inference_geo': 'global', 'iterations': [{'input_tokens': 1, 'output_tokens': 754, 'cache_read_input_tokens': 13901, 'cache_creation_input_tokens': 1426, 'cache_creation': {'ephemeral_5m_input_tokens': 0, 'ephemeral_1h_input_tokens': 1426}, 'type': 'message'}], 'speed': 'standard', 'fallback_credit': None}  cost_usd=0.23818869999999998
+2026-11-05 07:35:36,014 - INFO - Saved 2 records -> claude_code_book_strategies/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG1_TITLES_THOFF_WEB_T30/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG1_TITLES_THOFF_WEB_T30.json
+2026-11-05 07:35:36,015 - INFO - Saved 2 records -> claude_code_book_strategies/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG1_TITLES_THOFF_WEB_T30/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_RAG1_TITLES_THOFF_WEB_T30.json
+2026-11-05 07:35:36,015 - INFO - ──────────────────────────────────────────────────────────────────
+2026-11-05 07:35:36,015 - INFO - RUN SUMMARY  records=2  parse outcome={'rows_parsed': 2}  refusal-contradicts-scaffold=0  scored vs GT=2/2  median recall=0.333  median precision=0.125
+2026-11-05 07:35:36,015 - INFO - ──────────────────────────────────────────────────────────────────
+2026-11-05 07:35:36,298 - INFO - === run started: book_analyzer_inf.py --model claude-sonnet-4-6 --strategy flat_conjunctive --rag_tier titles_authors --thinking off --tools_mode web --max_turns 30 --max_queries 2 --max_new_tokens 3000 --timeout 600 --no-resume --no_analysis (script version 2026-11-05.1-books-claude-code) ===
+2026-11-05 07:35:36,319 - INFO - ReferenceStore loaded 878 rows from 'writers_books_by_year.csv' spanning 92 years.
+2026-11-05 07:35:36,395 - INFO - GroundTruthStore loaded 3078 rows from 'df_books_modified.csv' spanning 500 distinct S.No entries (1938 fully-populated, 201 marked NO RESULT).
+2026-11-05 07:35:36,396 - INFO - FewShotExemplarStore: 486 usable S.No entries; primary exemplar S.No=133 ('Flights (novel)', 13 rows).
+2026-11-05 07:35:36,396 - INFO - ClaudeCodeClient ready  alias=claude-sonnet-4-6  model=claude-sonnet-4-6  bin=/opt/node22/bin/claude  max_output_tokens=3000  max_thinking_tokens=0  thinking=off  tools_mode=web  max_turns=30  system_mode=neutral
+2026-11-05 07:35:36,396 - INFO - Validating Claude Code access  alias=claude-sonnet-4-6  model=claude-sonnet-4-6 ...
+2026-11-05 07:35:39,672 - INFO - Validation OK - response: 'OK'
+2026-11-05 07:35:39,672 - INFO - No existing results file found. Starting fresh.
+2026-11-05 07:35:39,673 - INFO - Loading source: source_books_writers.csv
+2026-11-05 07:35:39,677 - INFO - Loaded 500 rows from source.
+2026-11-05 07:35:39,677 - INFO - Processing 2/500 queries (0 already done)  strategy=flat_conjunctive  rag_tier=titles_authors  model=claude-sonnet-4-6  backend=claude_code
+2026-11-05 07:35:39,678 - INFO - [1/500] Q_ID=1 'Dianetics: The Modern Science of Mental Health' year=1950
