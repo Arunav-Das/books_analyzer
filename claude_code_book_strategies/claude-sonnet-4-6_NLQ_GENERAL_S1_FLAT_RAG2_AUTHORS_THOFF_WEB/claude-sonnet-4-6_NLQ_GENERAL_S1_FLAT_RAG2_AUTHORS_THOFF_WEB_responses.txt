@@ -1,0 +1,76 @@
+===== Query_ID 1 | Dianetics: The Modern Science of Mental Health =====
+Now I have all the information needed. Let me compile the findings.
+
+**Summary of findings:**
+
+- **"Dianetics: The Modern Science of Mental Health"** was published in **1950** by L. Ron Hubbard.
+
+**Pulitzer Prize winners with books published in 1950:**
+1. **Ernest Hemingway** – published *Across the River and into the Trees* (1950); won Pulitzer Prize for Fiction in 1953 for *The Old Man and the Sea*. Born in **Oak Park, Illinois** (population ~54,583 per 2020 census).
+2. **MacKinlay Kantor** – published *Lee and Grant at Appomattox* (1950); won Pulitzer Prize for Fiction in 1956 for *Andersonville*. Born in **Webster City, Iowa** (population ~7,825).
+3. **Conrad Richter** – published *The Town* (1950), which itself **won the 1951 Pulitzer Prize for Fiction**. Born in **Pine Grove, Pennsylvania** (population ~2,054 per 2020 census).
+
+**Booker Prize winners with books published in 1950:**
+4. **P.H. Newby** – published *The Young May Moon* (1950); won the first Booker Prize in 1969 for *Something to Answer For*. Born in **Crowborough, Sussex, England** (population ~21,688).
+
+Gwendolyn Brooks won the 1950 Pulitzer Prize for Poetry for *Annie Allen*, but that book was published in **1949**, not 1950 — so she does not meet condition (b).
+
+The retrieved evidence names three authors with 1950 books — Ernest Hemingway, MacKinlay Kantor, and Conrad Richter — all of whom also won Pulitzer Prizes.
+
+---
+
+ANSWER:
+Publication year: 1950
+Ernest Hemingway | Oak Park, Illinois | 54583
+MacKinlay Kantor | Webster City, Iowa | 7825
+Conrad Richter | Pine Grove, Pennsylvania | 2054
+P. H. Newby | Crowborough, Sussex, England | 21688
+
+Sources:
+- [MacKinlay Kantor - Wikipedia](https://Www.Wikipedia.org/wiki/MacKinlay_Kantor)
+- [Conrad Richter - Wikipedia](https://en.wikipedia.org/wiki/Conrad_Richter)
+- [P. H. Newby - Wikipedia](https://en.wikipedia.org/wiki/P._H._Newby)
+- [Gwendolyn Brooks - Wikipedia](https://en.wikipedia.org/wiki/Gwendolyn_Brooks)
+- [Oak Park, Illinois - Wikipedia](https://en.wikipedia.com/wiki/Oak_Park,_IL)
+- [Webster City, Iowa - Wikipedia](https://en.wikipedia.org/wiki/Webster_City,_Iowa)
+- [Pine Grove, Schuylkill County, Pennsylvania - Wikipedia](https://wikipedia.com/wiki/Pine_Grove,_Schuylkill_County,_Pennsylvania)
+- [Crowborough - Wikipedia](https://en.wikipedia.org/wiki/Crowborough)
+- [1950 Pulitzer Prize](https://cavac.at/cavacopedia/1950%20Pulitzer%20Prize)
+
+===== Query_ID 2 | Speak, Memory =====
+Now I have all the information needed. Let me compile the answer.
+
+**Summary of findings:**
+
+- "Speak, Memory" by Vladimir Nabokov was published in **1951**.
+- The retrieved evidence lists authors who published books in 1951: Norman Mailer, William Styron, William Faulkner, Herman Wouk, and James Agee.
+- **Prize-winner status:**
+  - **Norman Mailer** – Won **two Pulitzer Prizes** (1969 for *The Armies of the Night*; 1980 for *The Executioner's Song*). Published *Barbary Shore* in 1951. ✅
+  - **William Styron** – Won the **Pulitzer Prize** in 1968 for *The Confessions of Nat Turner*. Published *Lie Down in Darkness* in 1951. ✅
+  - **William Faulkner** – Won the **Pulitzer Prize** twice (1955 for *A Fable*; 1963 for *The Reivers*). Published *Requiem for a Nun* in 1951. ✅
+  - **Herman Wouk** – Won the **Pulitzer Prize** in 1952 for *The Caine Mutiny*. Published *The Caine Mutiny* in 1951. ✅
+  - **James Agee** – Won the **Pulitzer Prize** in 1958 (posthumously) for *A Death in the Family*. Published *The Morning Watch* in 1951. ✅
+
+All five authors in the evidence block are Pulitzer Prize winners and all published books in 1951.
+
+---
+
+ANSWER:
+Publication year: 1951
+Norman Mailer | Long Branch, New Jersey | 33321
+William Styron | Newport News, Virginia | 183230
+William Faulkner | New Albany, Mississippi | 7754
+Herman Wouk | The Bronx, New York City | 1410000
+James Agee | Knoxville, Tennessee | 190740
+
+Sources:
+- [Norman Mailer – Wikipedia](https://en.wikipedia.org/wiki/Norman_Mailer)
+- [William Styron – Wikipedia](https://en.wikipedia.org/wiki/William_Styron)
+- [William Faulkner – Wikipedia](https://en.wikipedia.org/wiki/William_Faulkner)
+- [Herman Wouk – Pulitzer.org memoriam](https://www.pulitzer.org/news/memoriam-herman-wouk-1915-2019)
+- [James Agee – Wikipedia](https://en.wikipedia.org/wiki/James_Agee)
+- [Long Branch, NJ population – CityPopulation.de](https://citypopulation.de/en/usa/newjersey/admin/monmouth/3402541310__long_branch/)
+- [Newport News, VA population – CityPopulation.de](https://www.citypopulation.de/en/usa/virginia/newport_news/5156000__newport_news/)
+- [New Albany, MS population – HomeTownLocator](https://mississippi.hometownlocator.com/ms/union/new-albany.cfm)
+- [Bronx population – USAFacts](https://usafacts.org/answers/how-many-people-live-in-the-us/county/bronx-county-ny/)
+- [Knoxville, TN population – HomeTownLocator](https://tennessee.hometownlocator.com/tn/knox/knoxville.cfm)

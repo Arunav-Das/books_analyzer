@@ -39,3 +39,34 @@ Sources:
 - [1950 Pulitzer Prize – Wikipedia](https://en.wikipedia.org/wiki/1950_Pulitzer_Prize)
 - [Pulitzer Prize winners by year 1950 – pulitzer.org](https://www.pulitzer.org/prize-winners-by-year/1950)
 - [A. B. Guthrie Jr. – Wikipedia](https://en.wikipedia.org/wiki/A._B._Guthrie_Jr.)
+
+===== Query_ID 2 | Speak, Memory =====
+Now I have solid data. Let me compile my findings:
+
+**"Speak, Memory"** by Vladimir Nabokov was published in **1951**.
+
+From the retrieved evidence, the books published in 1951 include:
+- *The Caine Mutiny* by **Herman Wouk** → won the Pulitzer Prize for Fiction (1952, for a book published in 1951)
+- *Lie Down in Darkness* by **William Styron** → Styron later won the Pulitzer Prize for *The Confessions of Nat Turner* (1968)
+
+Both authors satisfy condition (a) — Pulitzer Prize winners — AND condition (b) — published a book in 1951.
+
+**Herman Wouk**: Born in the Bronx, New York. The Bronx population ≈ 1,418,207 (commonly cited figure; ~1.41 million).
+
+**William Styron**: Born in Newport News, Virginia. Newport News population ≈ 183,230.
+
+---
+
+ANSWER:
+Publication year: 1951
+Herman Wouk | The Bronx, New York | 1418207
+William Styron | Newport News, Virginia | 183230
+
+Sources:
+- [Herman Wouk - Wikipedia](https://en.wikipedia.org/wiki/Herman_Wouk)
+- [The Caine Mutiny wins the Pulitzer Prize - Goodreads](https://www.goodreads.com/author_blog_posts/20389978-the-caine-mutiny-wins-the-pulitzer-prize)
+- [Herman Wouk - Pulitzer.org](https://www.pulitzer.org/winners/herman-wouk)
+- [William Styron - Wikipedia](https://en.wikipedia.org/wiki/William_Styron)
+- [Lie Down in Darkness (novel) - Wikipedia](https://en.wikipedia.org/wiki/Lie_Down_in_Darkness_(novel))
+- [Bronx County Population - USAFacts](https://usafacts.org/data/topics/people-society/population-and-demographics/our-changing-population/state/new-york/county/bronx-county)
+- [Newport News Population - USAFacts](https://usafacts.org/answers/how-many-people-live-in-the-us/county/newport-news-independent-city-va/)
