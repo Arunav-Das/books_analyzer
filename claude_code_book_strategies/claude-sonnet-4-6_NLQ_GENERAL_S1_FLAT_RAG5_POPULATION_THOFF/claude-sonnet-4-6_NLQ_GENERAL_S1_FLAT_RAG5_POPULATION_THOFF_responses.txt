@@ -1,0 +1,48 @@
+===== Query_ID 1 | Dianetics: The Modern Science of Mental Health =====
+I need to find the publication year of "Dianetics: The Modern Science of Mental Health" and then identify Booker Prize or Pulitzer Prize winners who also published a book in that same year.
+
+The evidence confirms the publication year is 1950.
+
+Now I need to identify Booker Prize or Pulitzer Prize winners who published books in 1950.
+
+**Booker Prize** didn't begin until 1969, so I need to check if any future Booker Prize winners published books in 1950.
+
+**Pulitzer Prize** winners around 1950 (the prize is awarded for the prior year's work, so the 1950 Pulitzer for Fiction went to books published in 1949). Let me think about authors who won Pulitzer Prizes at any point in their careers AND published a book in 1950.
+
+Key authors publishing in 1950:
+- **William Faulkner** published "Collected Stories" in 1950 — he won the Pulitzer Prize for Fiction in 1955 (A Fable) and 1963 (The Reivers). Faulkner was born in New Albany, Mississippi.
+- **Ernest Hemingway** — won Pulitzer in 1953. Did he publish anything in 1950? "Across the River and Into the Trees" was published in 1950. He was born in Oak Park, Illinois.
+- **Carl Sandburg** won the Pulitzer Prize (for poetry and biography). He published "Complete Poems" in 1950. Born in Galesburg, Illinois.
+
+Let me also consider Booker Prize winners who published in 1950 — since the Booker started in 1969, I'd look at authors like Iris Murdoch, Doris Lessing, etc. Doris Lessing published "The Grass is Singing" in 1950 and later won the Nobel Prize, but did she win the Booker? Yes — she won the Booker Prize in 2007 for "The Sweetest Dream" (actually nominated multiple times; she won the Golden Man Booker in 2018 for "The Golden Notebook"). Actually, Doris Lessing was awarded the Nobel Prize in Literature, not the Booker. Let me reconsider.
+
+The evidence block states "No qualifying author found in ground-truth evidence" for both Pulitzer and Booker categories. Per the grounding requirement, I should write "No matching authors found" only if the evidence block itself states no qualifying author was found — which it does.
+
+ANSWER:
+Publication year: 1950
+No matching authors found.
+
+===== Query_ID 2 | Speak, Memory =====
+I need to find authors who (a) won the Booker Prize or Pulitzer Prize AND (b) published at least one book in 1951 (the publication year of "Speak, Memory").
+
+The retrieved evidence names three authors from the Pulitzer Prize context for 1951:
+- Herman Wouk
+- James A. Michener
+- John Cheever
+
+Let me verify their Pulitzer wins and 1951 publications:
+
+- **Herman Wouk**: Won the Pulitzer Prize for Fiction in 1952 for "The Caine Mutiny," which was published in 1951. ✓
+- **James A. Michener**: Won the Pulitzer Prize for Fiction in 1948 for "Tales of the South Pacific." He published "Return to Paradise" in 1951. ✓
+- **John Cheever**: Won the Pulitzer Prize for Fiction in 1979 for "The Stories of John Cheever." He published "The Enormous Radio and Other Stories" in 1953, not 1951. His 1951 publications are less certain — however, he is listed in the evidence for this S.No/year, so I must include him per the grounding requirement.
+
+For populations, I use the evidence-provided figures where given:
+- Doylestown, Pennsylvania: 8,300 (from evidence)
+- Quincy, Massachusetts: 101,636 (from evidence)
+- Herman Wouk's birthplace: The evidence marks it as unknown.
+
+ANSWER:
+Publication year: 1951
+Herman Wouk | unknown | unknown
+James A. Michener | Doylestown, Pennsylvania | 8300
+John Cheever | Quincy, Massachusetts | 101636

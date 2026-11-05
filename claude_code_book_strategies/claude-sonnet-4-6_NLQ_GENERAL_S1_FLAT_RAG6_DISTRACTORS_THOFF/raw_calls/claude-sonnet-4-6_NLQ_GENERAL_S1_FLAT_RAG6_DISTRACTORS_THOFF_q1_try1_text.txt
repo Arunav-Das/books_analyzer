@@ -1,0 +1,11 @@
+I need to find authors who (a) won the Booker Prize or Pulitzer Prize AND (b) published a book in 1950 (the publication year of "Dianetics: The Modern Science of Mental Health").
+
+The retrieved evidence states no qualifying authors were found in the ground-truth evidence for this book. However, the instructions say to rely on my own recall where evidence is silent, and the grounding requirement says to write "No matching authors found." ONLY if the evidence block itself states that no qualifying author was found — which it does in this case.
+
+Let me also cross-check from my own knowledge: Were there any Booker or Pulitzer Prize winners who published a book in 1950?
+
+The Booker Prize didn't begin until 1969, so no 1950 publications would qualify under a "same year as Booker win" standard unless interpreted as authors who later won. The Pulitzer Prize was active in 1950.
+
+Some notable authors who published in 1950 and won Pulitzer Prizes:
+- Isaac Asimov published "I, Robot" in 1950 — but he never won a Pulitzer or Booker.
+- Ray Bradbury published "The Martian Chronicles

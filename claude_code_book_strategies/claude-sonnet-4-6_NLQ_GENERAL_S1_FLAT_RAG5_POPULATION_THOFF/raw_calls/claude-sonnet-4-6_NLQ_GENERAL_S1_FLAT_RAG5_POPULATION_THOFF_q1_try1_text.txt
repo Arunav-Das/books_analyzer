@@ -13,4 +13,10 @@ Key authors publishing in 1950:
 - **Ernest Hemingway** — won Pulitzer in 1953. Did he publish anything in 1950? "Across the River and Into the Trees" was published in 1950. He was born in Oak Park, Illinois.
 - **Carl Sandburg** won the Pulitzer Prize (for poetry and biography). He published "Complete Poems" in 1950. Born in Galesburg, Illinois.
 
-Let me also consider Booker Prize winners who published in 1950 — since the Booker started in 1969, I'd look at authors
+Let me also consider Booker Prize winners who published in 1950 — since the Booker started in 1969, I'd look at authors like Iris Murdoch, Doris Lessing, etc. Doris Lessing published "The Grass is Singing" in 1950 and later won the Nobel Prize, but did she win the Booker? Yes — she won the Booker Prize in 2007 for "The Sweetest Dream" (actually nominated multiple times; she won the Golden Man Booker in 2018 for "The Golden Notebook"). Actually, Doris Lessing was awarded the Nobel Prize in Literature, not the Booker. Let me reconsider.
+
+The evidence block states "No qualifying author found in ground-truth evidence" for both Pulitzer and Booker categories. Per the grounding requirement, I should write "No matching authors found" only if the evidence block itself states no qualifying author was found — which it does.
+
+ANSWER:
+Publication year: 1950
+No matching authors found.

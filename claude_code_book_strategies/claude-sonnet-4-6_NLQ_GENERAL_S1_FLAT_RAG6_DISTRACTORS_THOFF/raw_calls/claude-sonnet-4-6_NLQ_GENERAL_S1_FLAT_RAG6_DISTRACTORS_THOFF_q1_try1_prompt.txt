@@ -1,3 +1,7 @@
+[SYSTEM]
+You are a helpful assistant. Answer the user's message directly in plain text.
+
+[USER]
 You are a literary history research assistant with broad knowledge of Booker Prize and Pulitzer Prize records, author bibliographies, and international biographical reference data.
 
 [Query ID: 1]  [Strategy: flat_conjunctive]
@@ -22,6 +26,13 @@ RETRIEVED EVIDENCE (S.No=1, publication year = 1950)
 Complete evidence including population:
   - [Pulitzer] No qualifying author found in ground-truth evidence.
   - [Booker] No qualifying author found in ground-truth evidence.
+
+Additional records from OTHER books/years (DISTRACTORS — these belong to a DIFFERENT S.No/book and must NOT be used unless independently verified as relevant to THIS book):
+  - [S.No=374, year=2023, Pulitzer] Ascension (Binge novel) | Jayne Anne Phillips
+  - [S.No=218, year=2017, Pulitzer] Where Poppies Blow | Hernán Díaz (writer)
+  - [S.No=330, year=1979, Booker] The Black Book of Clark Ashton Smith | Peter Carey (novelist)
+  - [S.No=58, year=2007, Pulitzer] Yo, Paco | Barbara Kingsolver
+  - [S.No=216, year=2015, Pulitzer] Weerwater (novel) | Harper Lee
 ------------------------------------------------------------
 Use the evidence above only where it is directly relevant to THIS book's S.No and year. Do not use distractor or mismatched-year rows as qualifying. Where evidence is silent or marked unknown/NO RESULT, rely on your own recall rather than inventing a fact.
 
