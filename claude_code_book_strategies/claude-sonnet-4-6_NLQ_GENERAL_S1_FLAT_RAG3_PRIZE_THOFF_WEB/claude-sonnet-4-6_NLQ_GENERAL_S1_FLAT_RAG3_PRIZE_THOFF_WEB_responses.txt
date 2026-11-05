@@ -1,0 +1,72 @@
+===== Query_ID 1 | Dianetics: The Modern Science of Mental Health =====
+Now I have all the information needed. Let me also confirm that Ernest Hemingway, MacKinlay Kantor, and Conrad Richter were all Pulitzer Prize winners.
+
+- **Ernest Hemingway** — Won the Pulitzer Prize for Fiction in 1953 (*The Old Man and the Sea*) and published *Across the River and into the Trees* in 1950. Birthplace: Oak Park, Illinois.
+- **MacKinlay Kantor** — Won the Pulitzer Prize for Fiction in 1956 (*Andersonville*) and published *Lee and Grant at Appomattox* in 1950. Birthplace: Webster City, Iowa.
+- **Conrad Richter** — Won the Pulitzer Prize for Fiction in 1951 (*The Town*, published 1950). Birthplace: Pine Grove, Pennsylvania.
+
+The retrieved evidence directly names all three authors as prize-associated and with 1950 publications. The Booker Prize did not exist in 1950 (it began in 1969), so no Booker Prize winners published in 1950 qualify under that prize's history.
+
+---
+
+ANSWER:
+Publication year: 1950
+Ernest Hemingway | Oak Park, Illinois | 54583
+MacKinlay Kantor | Webster City, Iowa | 7825
+Conrad Richter | Pine Grove, Pennsylvania | 2054
+
+Sources:
+- [Across the River and into the Trees – Wikipedia](https://en.wikipedia.org/wiki/Across_the_River_and_into_the_Trees)
+- [MacKinlay Kantor – Wikipedia](https://Www.Wikipedia.org/wiki/MacKinlay_Kantor)
+- [Lee and Grant at Appomattox – Wikipedia](https://en.wikipedia.org/wiki/Lee_and_Grant_at_Appomattox)
+- [Conrad Richter – Wikipedia](https://en.wikipedia.org/wiki/Conrad_Richter)
+- [The Town (Richter novel) – Wikipedia](https://en.wikipedia.org/wiki/The_Town_(Richter_novel))
+- [Oak Park, Illinois – Wikipedia](https://en.wikipedia.com/wiki/Oak_Park,_IL)
+- [Webster City, Iowa – Wikipedia](https://en.wikipedia.org/wiki/Webster_City,_Iowa)
+- [Pine Grove, Schuylkill County, Pennsylvania – Wikipedia](https://wikipedia.com/wiki/Pine_Grove,_Schuylkill_County,_Pennsylvania)
+- [Pulitzer Prize Winners by Year 1950](https://www.pulitzer.org/prize-winners-by-year/1950)
+- [List of Booker Prize winners – Wikipedia](https://en.wikipedia.org/wiki/List_of_winners_and_nominated_authors_of_the_Booker_Prize)
+
+===== Query_ID 2 | Speak, Memory =====
+Now I have all the information I need. Let me verify which of the 5 authors in the retrieved evidence are confirmed Pulitzer/Booker Prize winners:
+
+1. **Norman Mailer** – Won Pulitzer Prize (1969 for *The Armies of the Night*, 1980 for *The Executioner's Song*) ✅ — Published *Barbary Shore* in 1951 ✅
+2. **William Styron** – Need to check Pulitzer/Booker status
+3. **William Faulkner** – Won Pulitzer Prize (1955 for *A Fable*, 1963 for *The Reivers*) ✅ — Published *Requiem for a Nun* in 1951 ✅
+4. **Herman Wouk** – Won Pulitzer Prize (1952 for *The Caine Mutiny*, published 1951) ✅ — *The Caine Mutiny* published 1951 ✅
+5. **James Agee** – Need to check; he won Pulitzer posthumously for *A Death in the Family* (1958)
+
+William Styron won the Pulitzer Prize in 1968 for *The Confessions of Nat Turner*. James Agee won the Pulitzer Prize posthumously in 1958 for *A Death in the Family*.
+
+All 5 authors in the RETRIEVED EVIDENCE block are listed as prize_source=Pulitzer, and all are indeed confirmed Pulitzer Prize winners. The grounding requirement says I must output one row for each named author.
+
+Now let me compile the population figures:
+- **Long Branch, NJ** (Mailer): ~31,667 (2020 Census)
+- **Newport News, VA** (Styron): ~186,247 (2020 Census)
+- **New Albany, MS** (Faulkner): ~7,626 (2020 Census)
+- **The Bronx, NY** (Wouk): ~1,472,654 (2020 Census)
+- **Knoxville, TN** (Agee): ~190,740 (2020 Census)
+
+ANSWER:
+Publication year: 1951
+Norman Mailer | Long Branch, New Jersey | 31667
+William Styron | Newport News, Virginia | 186247
+William Faulkner | New Albany, Mississippi | 7626
+Herman Wouk | The Bronx, New York City | 1472654
+James Agee | Knoxville, Tennessee | 190740
+
+Sources:
+- [Speak, Memory – Wikipedia](https://en.wikipedia.com/wiki/Speak,_Memory)
+- [Norman Mailer – Wikipedia](https://en.wikipedia.org/wiki/Norman_Mailer)
+- [On This Day in History: Norman Mailer – Brooklyn Eagle](https://brooklyneagle.com/articles/2012/01/31/on-this-day-in-history-january-27-nice-jewish-boy-from-brooklyn/)
+- [William Styron – Wikipedia](https://wikipedia.com/wiki/William_Styron)
+- [William Faulkner – Britannica](https://britannica.com/question/Where-is-William-Faulkner-from)
+- [New Albany, Mississippi – The Birthplace of William Faulkner](https://hottytoddy.com/2013/07/17/new-albany-miss-the-birthplace-of-william-faulkner)
+- [Herman Wouk – Wikipedia](https://en.wikipedia.org/wiki/Herman_Wouk)
+- [Herman Wouk, Whose 'The Caine Mutiny' Won Pulitzer, Dies at 103 – Bloomberg](https://www.bloombergquint.com/onweb/herman-wouk-whose-the-caine-mutiny-won-pulitzer-dies-at-103)
+- [James Agee – Wikipedia](https://en.wikipedia.org/wiki/James_Agee)
+- [Long Branch, NJ – Census QuickFacts](https://census.gov/quickfacts/fact/table/longbranchcitynewjersey/PST045223)
+- [Newport News, Virginia – Wikipedia](https://en.wikipedia.com/wiki/Newport_News,_Virginia)
+- [New Albany, Mississippi – Census QuickFacts](https://census.gov/quickfacts/fact/table/newalbanycitymississippi/PST045223)
+- [The Bronx – City Population](https://citypopulation.de/en/usa/newyorkcity/36005__bronx/)
+- [Knoxville, Tennessee – Census QuickFacts](https://census.gov/quickfacts/fact/table/knoxvillecitytennessee/PST045223)
