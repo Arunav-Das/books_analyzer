@@ -65,6 +65,7 @@ SCRIPT_VERSION = "2026-11-05.1-books-claude-code"
 # CONSTANTS - Claude models only
 # ---------------------------------------------------------------------------
 FAMILY = "claude"
+WEB_DEFAULT_MAX_TURNS = 10
 MODEL_REGISTRY: Dict[str, str] = {
     "claude-opus-4-8":   "claude-opus-4-8",
     "claude-opus-4-7":   "claude-opus-4-7",
@@ -1306,7 +1307,8 @@ def _completion_tokens(usage: Any) -> float:
 class ClaudeCodeClient:
     def __init__(self, model_alias: str = DEFAULT_MODEL_ALIAS, max_new_tokens: int = GENERATION_MAX_NEW_TOKENS,
                  system_mode: str = "neutral", claude_bin: str = "claude", timeout: int = REQUEST_TIMEOUT,
-                 max_thinking_tokens: Optional[int] = None):
+                 max_thinking_tokens: Optional[int] = None, thinking: str = "default",
+                 tools_mode: str = "none", max_turns: Optional[int] = None):
         if model_alias not in MODEL_REGISTRY:
             raise ValueError(f"Unknown model alias '{model_alias}'")
         found = shutil.which(claude_bin)
@@ -1316,6 +1318,11 @@ class ClaudeCodeClient:
         self.model_alias, self.model_id, self.family = model_alias, MODEL_REGISTRY[model_alias], FAMILY
         self.max_tokens = int(max_new_tokens)
         self.max_thinking_tokens = max_thinking_tokens
+        self.thinking = thinking                     # default | off (MAX_THINKING_TOKENS=0) | low..max (--effort)
+        if thinking == "off":
+            self.max_thinking_tokens = 0
+        self.tools_mode = tools_mode                 # none | web (WebSearch + WebFetch)
+        self.max_turns = int(max_turns) if max_turns else (WEB_DEFAULT_MAX_TURNS if tools_mode == "web" else 1)
         self.system_mode_requested = system_mode
         self.system_text: Optional[str] = NEUTRAL_SYSTEM if system_mode == "neutral" else None
         self.system_native = True
@@ -1325,7 +1332,8 @@ class ClaudeCodeClient:
         self.workdir = tempfile.mkdtemp(prefix="cc_book_")       # empty cwd: no CLAUDE.md / repo context is loaded
         atexit.register(shutil.rmtree, self.workdir, True)
         logger.info(f"ClaudeCodeClient ready  alias={model_alias}  model={self.model_id}  bin={self.bin}  "
-                    f"max_output_tokens={self.max_tokens}  max_thinking_tokens={max_thinking_tokens}  system_mode={system_mode}")
+                    f"max_output_tokens={self.max_tokens}  max_thinking_tokens={self.max_thinking_tokens}  thinking={thinking}  "
+                    f"tools_mode={tools_mode}  max_turns={self.max_turns}  system_mode={system_mode}")
 
     @property
     def system_mode(self) -> str:
@@ -1345,6 +1353,7 @@ class ClaudeCodeClient:
         p_in.write_text(user_text, encoding="utf-8")
         text_parts: List[str] = []
         assistant_text, think_chars = "", 0
+        tool_uses: List[str] = []
         result_evt: Optional[Dict[str, Any]] = None
         timed_out = {"v": False}
         t0 = time.perf_counter()
@@ -1381,6 +1390,8 @@ class ClaudeCodeClient:
                         for b in (evt.get("message") or {}).get("content") or []:
                             if isinstance(b, dict) and b.get("type") == "text":
                                 assistant_text += b.get("text", "")
+                            elif isinstance(b, dict) and b.get("type") in ("tool_use", "server_tool_use"):
+                                tool_uses.append(str(b.get("name")))
                     elif et == "result":
                         result_evt = evt
                     now = time.perf_counter()
@@ -1392,6 +1403,9 @@ class ClaudeCodeClient:
             finally:
                 watchdog.cancel()
         text = "".join(text_parts) or assistant_text
+        if self.tools_mode != "none" and result_evt and not result_evt.get("is_error") and result_evt.get("result"):
+            text = str(result_evt.get("result"))         # multi-turn: keep only the FINAL answer (stream has interim text)
+            p_text.write_text(text, encoding="utf-8")
         if not text and result_evt and not result_evt.get("is_error"):
             text = str(result_evt.get("result") or "")
         if text and not text_parts:
@@ -1402,7 +1416,7 @@ class ClaudeCodeClient:
             p_in.unlink()
         except OSError:
             pass
-        return {"text": text, "thinking_chars": think_chars, "result_evt": result_evt, "returncode": proc.returncode,
+        return {"text": text, "thinking_chars": think_chars, "tool_uses": tool_uses, "result_evt": result_evt, "returncode": proc.returncode,
                 "stderr": stderr_text, "timed_out": timed_out["v"], "latency": time.perf_counter() - t0,
                 "hit_cap": bool(re.search(r"output token maximum", blob, re.I)),
                 "files": [str(x) for x in (p_prompt, p_jsonl, p_text, p_err)]}
@@ -1415,7 +1429,14 @@ class ClaudeCodeClient:
             native = bool(sysmsg and self.system_native)
             user_text = (sysmsg + "\n\n" + prompt) if (sysmsg and not self.system_native) else prompt
             cmd = [self.bin, "-p", "--model", self.model_id, "--output-format", "stream-json", "--verbose",
-                   "--include-partial-messages", "--tools", "", "--max-turns", "1"]
+                   "--include-partial-messages"]
+            if self.tools_mode == "web":
+                cmd += ["--tools", "WebSearch,WebFetch", "--allowedTools", "WebSearch", "WebFetch"]
+            else:
+                cmd += ["--tools", ""]
+            cmd += ["--max-turns", str(self.max_turns)]
+            if self.thinking not in ("default", "off"):
+                cmd += ["--effort", self.thinking]
             if native:
                 cmd += ["--system-prompt", sysmsg]
             env = dict(os.environ, CLAUDE_CODE_MAX_OUTPUT_TOKENS=str(mt))
@@ -1427,7 +1448,9 @@ class ClaudeCodeClient:
             usage = evt.get("usage") if isinstance(evt.get("usage"), dict) else None
             base = {"raw_response": text, "response": text, "latency_sec": round(r["latency"], 3), "usage": usage,
                     "cost_usd": evt.get("total_cost_usd"), "max_tokens_sent": mt, "system_mode": self.system_mode,
-                    "thinking_chars": r["thinking_chars"], "text_chars": len(text), "raw_files": r["files"]}
+                    "thinking_chars": r["thinking_chars"], "text_chars": len(text), "raw_files": r["files"],
+                    "tool_calls": r["tool_uses"], "n_tool_calls": len(r["tool_uses"]), "thinking": self.thinking,
+                    "tools_mode": self.tools_mode, "max_turns": self.max_turns}
             if r["hit_cap"]:       # deterministic: do NOT retry; keep the partial text and flag it
                 logger.warning(f"  [{self.call_label}] hit the {mt}-token output cap after {r['latency']:.0f}s "
                                f"(text={len(text)} chars, thinking={r['thinking_chars']} chars). Not retried. Raw: {r['files'][1]}")
@@ -1516,6 +1539,8 @@ class BookAuthorAnalyser:
         self.model_slug = model_name_to_slug(self.model_id)
         extra = f"_{RAG_TIER_SUFFIX[rag_tier]}" if rag_tier != RAG_TIER_NO_EVIDENCE else ""
         sysdef = "_SYSDEF" if client.system_mode_requested == "default" else ""
+        sysdef += {"default": "", "off": "_THOFF"}.get(client.thinking, f"_EFF{client.thinking.upper()}")
+        sysdef += "_WEB" if client.tools_mode == "web" else ""
         flags = ("_NOSCAF" if not recall_scaffold else "") + ("_NOFEW" if fewshot_store is None else "")
         self.suffix = f"{MODE_SUFFIX[self.mode]}_{STRATEGY_SUFFIX[strategy]}{extra}{flags}{sysdef}"
         self.output_dir = OUTPUT_ROOT / f"{self.model_slug}_{self.suffix}"
@@ -1656,6 +1681,8 @@ class BookAuthorAnalyser:
                     "Generated_Response": raw, "generation_status": res["status"], "finish_reason": res["finish_reason"],
                     "max_tokens_sent": res["max_tokens_sent"], "usage": res["usage"], "cost_usd_reported": res.get("cost_usd"),
                     "thinking_chars": res.get("thinking_chars"), "text_chars": res.get("text_chars"),
+                    "thinking": res.get("thinking"), "tools_mode": res.get("tools_mode"), "max_turns": res.get("max_turns"),
+                    "tool_calls": res.get("tool_calls"), "n_tool_calls": res.get("n_tool_calls"),
                     "raw_files": res.get("raw_files"), "generation_time_seconds": res["latency_sec"],
                     "processing_timestamp": datetime.now().isoformat()})
                 if self.store_prompts:
@@ -1828,6 +1855,8 @@ def evaluate_record(rec: Dict[str, Any], gt_store: Optional[GroundTruthStore]) -
         "empty": rec.get("generation_status") == ST_EMPTY, "degenerate": bool(rec.get("Degenerate_Flag")),
         "latency": rec.get("generation_time_seconds"), "completion_tokens": _completion_tokens(rec.get("usage")),
         "text_chars": rec.get("text_chars"), "thinking_chars": rec.get("thinking_chars"), "cost_usd": rec.get("cost_usd_reported"),
+        "thinking": rec.get("thinking", "default"), "tools_mode": rec.get("tools_mode", "none"),
+        "n_tool_calls": rec.get("n_tool_calls"),
         "year_parsed": yp, "source_year": src_year, "year_ok": (yp == src_year) if (yp and src_year) else np.nan,
         "outcome": "error" if is_err else diag.get("outcome", ""), "refusal_contradiction": bool(diag.get("refusal_contradicts_scaffold")),
         "scaffold_candidates": diag.get("scaffold_candidate_count", 0) or 0,
@@ -2080,6 +2109,12 @@ def main() -> int:
     p.add_argument("--timeout", type=int, default=REQUEST_TIMEOUT, help="seconds allowed per `claude -p` call")
     p.add_argument("--max_thinking_tokens", type=int, default=None,
                    help="sets MAX_THINKING_TOKENS for the call (0 = try to disable thinking); default: untouched")
+    p.add_argument("--thinking", choices=["default", "off", "low", "medium", "high", "xhigh", "max"], default="default",
+                   help="off: MAX_THINKING_TOKENS=0; low..max: passes --effort <level>; default: untouched")
+    p.add_argument("--tools_mode", choices=["none", "web"], default="none",
+                   help="none: --tools '' (default); web: WebSearch + WebFetch enabled and pre-approved")
+    p.add_argument("--max_turns", type=int, default=None,
+                   help=f"--max-turns per call (default 1; {WEB_DEFAULT_MAX_TURNS} with --tools_mode web)")
     p.add_argument("--system_mode", choices=["neutral", "default"], default="neutral",
                    help="neutral: a short neutral --system-prompt (default); default: no flag, Claude Code's own system prompt")
     p.add_argument("--max_new_tokens", type=int, default=GENERATION_MAX_NEW_TOKENS, help="output-token cap per call")
@@ -2138,6 +2173,7 @@ def main() -> int:
     print(f"  Reference file   : {REFERENCE_FILE}")
     print(f"  Ground truth file: {GROUND_TRUTH_FILE}")
     print(f"  System mode      : {args.system_mode}")
+    print(f"  Thinking         : {args.thinking}   Tools: {args.tools_mode}   Max turns: {args.max_turns or 'auto'}")
     print(f"  Resume           : {'OFF (--no-resume)' if args.no_resume else 'ON (default)'}")
     print(f"  Max new tokens   : {args.max_new_tokens} per call; max thinking tokens: {args.max_thinking_tokens}; timeout {args.timeout}s")
     print(f"  Max queries      : {args.max_queries or 'all'}")
@@ -2176,7 +2212,8 @@ def main() -> int:
         print(f"\n{'#' * 72}\n  MODEL [{m_idx}/{len(aliases)}] {alias}\n{'#' * 72}")
         try:
             client = ClaudeCodeClient(model_alias=alias, max_new_tokens=args.max_new_tokens, system_mode=args.system_mode,
-                                      claude_bin=args.claude_bin, timeout=args.timeout, max_thinking_tokens=args.max_thinking_tokens)
+                                      claude_bin=args.claude_bin, timeout=args.timeout, max_thinking_tokens=args.max_thinking_tokens,
+                                      thinking=args.thinking, tools_mode=args.tools_mode, max_turns=args.max_turns)
             client.raw_dir = root / "raw_calls"
             client.validate_access()
         except Exception as e:
