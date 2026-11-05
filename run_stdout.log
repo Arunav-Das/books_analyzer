@@ -832,3 +832,6 @@ BOOK AUTHOR ANALYSER - CLAUDE CODE   (script version 2026-11-05.1-books-claude-c
 2026-11-05 07:12:37,284 - WARNING - claude exit=1 attempt 1/3: ' ' (raw: claude_code_book_strategies/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_THOFF_WEB/raw_calls/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_THOFF_WEB_q1_try1_events.jsonl) - retry in 5s
 2026-11-05 07:13:12,335 - INFO -   [claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_THOFF_WEB_q1] streaming 30s: text=154 chars  thinking=0 chars
 2026-11-05 07:13:43,958 - INFO -   [claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_THOFF_WEB_q1] streaming 62s: text=154 chars  thinking=0 chars
+2026-11-05 07:14:09,844 - WARNING - claude exit=1 attempt 2/3: ' ' (raw: claude_code_book_strategies/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_THOFF_WEB/raw_calls/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_THOFF_WEB_q1_try2_events.jsonl) - retry in 10s
+2026-11-05 07:14:49,873 - INFO -   [claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_THOFF_WEB_q1] streaming 30s: text=359 chars  thinking=0 chars
+2026-11-05 07:15:22,712 - INFO -   [claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_THOFF_WEB_q1] streaming 63s: text=511 chars  thinking=0 chars

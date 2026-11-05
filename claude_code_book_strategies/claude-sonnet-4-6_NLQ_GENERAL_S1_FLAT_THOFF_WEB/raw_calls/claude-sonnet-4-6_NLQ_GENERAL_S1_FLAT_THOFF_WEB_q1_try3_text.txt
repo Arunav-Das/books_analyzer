@@ -1,0 +1,67 @@
+I'll research this systematically.Good. The publication year is 1950. Now let me search for Booker and Pulitzer prize winners who published books in 1950.Now I have enough to work with. Let me search for specific prize winners who published books in 1950.Now let me check on more prize winners who may have published books in 1950, and get birthplace details.Now I have sufficient information to compile the answer. Let me also quickly check on a few more Pulitzer/Booker winners who may have published in 1950.I now have all the information I need. Let me compile the full answer.
+
+---
+
+## Working
+
+**YEAR:** 1950 — confident. *Dianetics: The Modern Science of Mental Health* by L. Ron Hubbard was first published May 9, 1950, by Hermitage House.
+
+---
+
+**PRIZE WINNERS** (career-wide Booker or Pulitzer winners):
+
+William Faulkner
+Ernest Hemingway
+John Steinbeck
+Pearl S. Buck
+Upton Sinclair
+Conrad Richter
+A. B. Guthrie Jr.
+James Michener
+V. S. Naipaul
+P. H. Newby
+Bernice Rubens
+Penelope Lively
+
+---
+
+**CO-YEAR CHECK:**
+
+- William Faulkner - yes (*Collected Stories of William Faulkner*, Random House, 1950; also received Nobel Prize in 1950)
+- Ernest Hemingway - yes (*Across the River and into the Trees*, 1950)
+- John Steinbeck - yes (*Burning Bright*, Viking Press, October 1950)
+- Pearl S. Buck - yes (*The Child Who Never Grew*, John Day, 1950; *One Bright Day*, John Day, 1950)
+- Upton Sinclair - yes (*Another Pamela*, Viking, 1950; *The Enemy Had It Too*, Viking, 1950)
+- Conrad Richter - yes (*The Town*, published April 24, 1950, which then won the 1951 Pulitzer)
+- A. B. Guthrie Jr. - no (*The Way West* was published 1949; no confirmed new book in 1950)
+- James Michener - no (*Return to Paradise* was published April 23, 1951, not 1950)
+- V. S. Naipaul - no (first book published 1957)
+- P. H. Newby - yes (he published prolifically in the late 1940s–early 1950s; *The Young May Moon* was published in 1950)
+- Bernice Rubens - no (first book published 1960)
+- Penelope Lively - no (first book published 1970)
+
+---
+
+**REFUSAL GATE:** Multiple candidates are marked `yes`, so they must all appear in the ANSWER section.
+
+---
+
+ANSWER:
+Publication year: 1950
+William Faulkner | New Albany, Mississippi | 7626
+Ernest Hemingway | Oak Park, Illinois | 54583
+John Steinbeck | Salinas, California | 163542
+Pearl S. Buck | Hillsboro, West Virginia | 232
+Upton Sinclair | Baltimore, Maryland | 585708
+Conrad Richter | Pine Grove, Pennsylvania | 2118
+P. H. Newby | Crowborough, East Sussex | unknown
+
+---
+
+Sources:
+- [Dianetics: The Modern Science of Mental Health – Wikipedia](https://en.wikipedia.org/wiki/Dianetics:_The_Modern_Science_of_Mental_Health)
+- [List of winners and nominated authors of the Booker Prize – Wikipedia](https://en.wikipedia.org/wiki/List_of_winners_and_nominated_authors_of_the_Booker_Prize)
+- [Pulitzer Prize for Fiction – Wikipedia](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction)
+- [Collected Stories of William Faulkner – Wikipedia](https://en.wikipedia.org/wiki/Collected_Stories_of_William_Faulkner)
+- [Ernest Hemingway – Across the River and Into the Trees – First UK Edition 1950](https://johnatkinsonbooks.co.uk/book/hemingway-ernest-across-the-river-and-into-the-trees-first-uk-edition-1950/)
+- [Burning Bright – Wikipedia
