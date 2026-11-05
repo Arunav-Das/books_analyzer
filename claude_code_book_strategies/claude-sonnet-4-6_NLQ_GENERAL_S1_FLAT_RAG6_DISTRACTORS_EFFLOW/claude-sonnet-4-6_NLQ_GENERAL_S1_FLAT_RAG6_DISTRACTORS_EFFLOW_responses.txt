@@ -2,3 +2,10 @@
 ANSWER:
 Publication year: 1950
 No matching authors found.
+
+===== Query_ID 2 | Speak, Memory =====
+ANSWER:
+Publication year: 1951
+Herman Wouk | unknown | unknown
+James A. Michener | Doylestown, Pennsylvania | 8300
+John Cheever | Quincy, Massachusetts | 101636
