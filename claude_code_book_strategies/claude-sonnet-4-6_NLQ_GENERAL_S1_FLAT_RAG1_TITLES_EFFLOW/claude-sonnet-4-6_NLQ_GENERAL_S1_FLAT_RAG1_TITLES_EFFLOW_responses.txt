@@ -4,3 +4,12 @@ Publication year: 1950
 Ernest Hemingway | Oak Park, Illinois | 52000
 Conrad Richter | Pine Grove, Pennsylvania | 2000
 MacKinlay Kantor | Webster City, Iowa | 8000
+
+===== Query_ID 2 | Speak, Memory =====
+ANSWER:
+Publication year: 1951
+Norman Mailer | Long Branch, New Jersey | 30000
+William Styron | Newport News, Virginia | 180000
+William Faulkner | New Albany, Mississippi | 8000
+Herman Wouk | New York City (Bronx), New York | 8336817
+James Agee | Knoxville, Tennessee | 190740
