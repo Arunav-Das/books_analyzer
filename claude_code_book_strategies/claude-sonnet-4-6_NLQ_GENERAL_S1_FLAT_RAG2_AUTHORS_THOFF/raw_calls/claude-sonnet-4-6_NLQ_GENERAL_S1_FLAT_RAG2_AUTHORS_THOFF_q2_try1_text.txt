@@ -1,0 +1,33 @@
+I need to find authors who (a) have won the Booker Prize or Pulitzer Prize AND (b) published a book in 1951 (the publication year of "Speak, Memory").
+
+The retrieved evidence lists these authors with books published in 1951:
+- Norman Mailer (Barbary Shore)
+- William Styron (Lie Down in Darkness)
+- William Faulkner (Requiem for a Nun)
+- Herman Wouk (The Caine Mutiny)
+- James Agee (The Morning Watch)
+
+Now let me check which of these won the Booker or Pulitzer Prize:
+
+**Norman Mailer**: Won the Pulitzer Prize twice — for "The Armies of the Night" (1969) and "The Executioner's Song" (1980). ✓
+- Born in Long Branch, New Jersey. Population of Long Branch: approximately 31,000.
+
+**William Styron**: Won the Pulitzer Prize for "The Confessions of Nat Turner" (1968). ✓
+- Born in Newport News, Virginia. Population: approximately 186,000.
+
+**William Faulkner**: Won the Pulitzer Prize for "A Fable" (1955) and "The Reivers" (1963). ✓
+- Born in New Albany, Mississippi. Population: approximately 9,000.
+
+**Herman Wouk**: Won the Pulitzer Prize for "The Caine Mutiny" (1952). ✓
+- Born in New York City, New York. Population: approximately 8,336,817.
+
+**James Agee**: Won the Pulitzer Prize posthumously for "A Death in the Family" (1958). ✓
+- Born in Knoxville, Tennessee. Population: approximately 190,000.
+
+ANSWER:
+Publication year: 1951
+Norman Mailer | Long Branch, New Jersey | 31000
+William Styron | Newport News, Virginia | 186000
+William Faulkner | New Albany, Mississippi | 9000
+Herman Wouk | New York City, New York | 8336817
+James Agee | Knoxville, Tennessee | 190000

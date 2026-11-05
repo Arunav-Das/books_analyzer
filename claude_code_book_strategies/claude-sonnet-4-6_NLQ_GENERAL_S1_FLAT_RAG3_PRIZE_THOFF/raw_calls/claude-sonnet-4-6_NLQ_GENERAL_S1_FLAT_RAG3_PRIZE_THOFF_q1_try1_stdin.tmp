@@ -19,10 +19,10 @@ Notice that the answer contains actual author rows. Produce an answer of the sam
 
 RETRIEVED EVIDENCE (S.No=1, publication year = 1950)
 ------------------------------------------------------------
-Titles published in this year (source: reference index):
-  - Across the River and into the Trees
-  - Lee and Grant at Appomattox
-  - The Town (Richter novel)
+Titles, authors, and prize provenance for this year:
+  - Across the River and into the Trees | Ernest Hemingway | prize_source=Pulitzer
+  - Lee and Grant at Appomattox | MacKinlay Kantor | prize_source=Pulitzer
+  - The Town (Richter novel) | Conrad Richter | prize_source=Pulitzer
 ------------------------------------------------------------
 Use the evidence above only where it is directly relevant to THIS book's S.No and year. Do not use distractor or mismatched-year rows as qualifying. Where evidence is silent or marked unknown/NO RESULT, rely on your own recall rather than inventing a fact.
 
