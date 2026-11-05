@@ -1,0 +1,76 @@
+I'll work through this systematically.
+
+## YEAR
+
+"Speak, Memory" by Vladimir Nabokov was first published in book form in **1951** (as "Conclusive Evidence" in the US, then revised and retitled "Speak, Memory" in 1966). The original book publication year is **1951**. `uncertain` — the 1966 revised edition complicates this. I'll use **1951** as the primary publication year, since that's when the memoir first appeared in book form.
+
+---
+
+## PRIZE WINNERS
+
+(Authors who have ever won the Booker Prize or Pulitzer Prize — career-wide)
+
+1. William Faulkner
+2. Ernest Hemingway
+3. John Steinbeck
+4. James Jones
+5. Herman Wouk
+6. Nicholas Monsarrat
+7. Rachel Carson
+8. Marianne Moore
+9. Carl Sandburg
+10. James Jones
+11. Langston Hughes
+12. Graham Greene
+13. Anthony Powell
+
+---
+
+## CO-YEAR CHECK
+
+Checking who published a book in **1951**:
+
+- William Faulkner - yes (*Requiem for a Nun*, 1951)
+- Ernest Hemingway - no (no major book in 1951)
+- John Steinbeck - no (no book in 1951)
+- James Jones - yes (*From Here to Eternity*, 1951)
+- Herman Wouk - yes (*The Caine Mutiny*, 1951)
+- Nicholas Monsarrat - yes (*The Cruel Sea*, 1951)
+- Rachel Carson - yes (*The Sea Around Us*, 1951)
+- Marianne Moore - yes (*Collected Poems*, 1951)
+- Carl Sandburg - no (no book in 1951)
+- Langston Hughes - unsure
+- Graham Greene - yes (*The End of the Affair*, 1951)
+- Anthony Powell - no
+
+Now checking prize credentials:
+
+- **William Faulkner** — Pulitzer Prize winner (1955 for *A Fable*) ✓
+- **James Jones** — National Book Award winner, but NOT a Pulitzer or Booker winner — remove
+- **Herman Wouk** — Pulitzer Prize winner (1952 for *The Caine Mutiny*) ✓
+- **Nicholas Monsarrat** — NOT a Pulitzer or Booker winner — remove
+- **Rachel Carson** — NOT a Pulitzer Prize winner (National Book Award) — remove
+- **Marianne Moore** — Pulitzer Prize winner (1952 for *Collected Poems*) ✓
+- **Graham Greene** — NOT a Pulitzer or Booker winner (Booker Prize didn't exist until 1969) — remove
+- **Langston Hughes** — no Pulitzer or Booker — remove
+
+Refined CO-YEAR CHECK (prize winners only, with 1951 books):
+
+- William Faulkner - yes (*Requiem for a Nun*, 1951)
+- Herman Wouk - yes (*The Caine Mutiny*, 1951)
+- Marianne Moore - yes (*Collected Poems*, 1951)
+
+Additional prize winners to check for 1951:
+
+- Isaac Bashevis Singer - no (his major English works came later)
+- Saul Bellow - no (1951 book? *The Adventures of Augie March* was 1953)
+- John Updike - no (too early in career)
+- Bernard Malamud - no (debut 1952)
+
+---
+
+ANSWER:
+Publication year: 1951
+William Faulkner | New Albany, Mississippi | 7000
+Herman Wouk | New York City, New York | 8336817
+Marianne Moore | Kirkwood, Missouri | 27540

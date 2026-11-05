@@ -1,0 +1,27 @@
+I need to find the publication year of "Dianetics: The Modern Science of Mental Health" and then identify Booker Prize or Pulitzer Prize winners who also published a book in that same year.
+
+**Step 1: Publication year**
+"Dianetics: The Modern Science of Mental Health" by L. Ron Hubbard was published in 1950. The retrieved evidence confirms S.No=1 with publication year = 1950.
+
+**Step 2: Identify Booker/Pulitzer Prize winners who published a book in 1950**
+
+Let me think through notable prize winners and their 1950 publications:
+
+- **William Faulkner** – Pulitzer Prize winner (A Fable, 1955; The Reivers, 1963). In 1950, he published "Collected Stories of William Faulkner." ✓
+- **Ernest Hemingway** – Pulitzer Prize winner (The Old Man and the Sea, 1953). In 1950, he published "Across the River and into the Trees." ✓ (This title is explicitly listed in the retrieved evidence for 1950.)
+- **MacKinlay Kantor** – Pulitzer Prize winner (Andersonville, 1956). In 1950, he published "Lee and Grant at Appomattox." ✓ (This title is explicitly listed in the retrieved evidence for 1950.)
+- **Conrad Richter** – Pulitzer Prize winner (The Town, 1951 Pulitzer). "The Town (Richter novel)" is listed in the evidence for 1950. ✓
+
+Now birthplaces and populations:
+
+- **Ernest Hemingway** – born in Oak Park, Illinois, USA. Population of Oak Park: approximately 52,000–55,000.
+- **William Faulkner** – born in New Albany, Mississippi, USA. Population of New Albany: approximately 8,000–9,000.
+- **MacKinlay Kantor** – born in Webster City, Iowa, USA. Population of Webster City: approximately 8,000.
+- **Conrad Richter** – born in Pine Grove, Pennsylvania, USA. Population of Pine Grove: approximately 2,000.
+
+ANSWER:
+Publication year: 1950
+Ernest Hemingway | Oak Park, Illinois | 52000
+William Faulkner | New Albany, Mississippi | 8000
+MacKinlay Kantor | Webster City, Iowa | 8000
+Conrad Richter | Pine Grove, Pennsylvania | 2000
