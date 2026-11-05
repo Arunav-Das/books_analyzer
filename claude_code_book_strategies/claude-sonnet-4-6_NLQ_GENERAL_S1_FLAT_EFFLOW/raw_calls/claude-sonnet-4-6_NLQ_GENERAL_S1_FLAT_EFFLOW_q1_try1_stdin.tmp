@@ -17,27 +17,18 @@ Junot Díaz | Santo Domingo | 1029110
 
 Notice that the answer contains actual author rows. Produce an answer of the same shape for the target book below.
 
-RETRIEVED EVIDENCE (S.No=1, publication year = 1950)
-------------------------------------------------------------
-Complete evidence including population:
-  - [Pulitzer] No qualifying author found in ground-truth evidence.
-  - [Booker] No qualifying author found in ground-truth evidence.
-
-Additional records from OTHER books/years (DISTRACTORS — these belong to a DIFFERENT S.No/book and must NOT be used unless independently verified as relevant to THIS book):
-  - [S.No=374, year=2023, Pulitzer] Ascension (Binge novel) | Jayne Anne Phillips
-  - [S.No=218, year=2017, Pulitzer] Where Poppies Blow | Hernán Díaz (writer)
-  - [S.No=330, year=1979, Booker] The Black Book of Clark Ashton Smith | Peter Carey (novelist)
-  - [S.No=58, year=2007, Pulitzer] Yo, Paco | Barbara Kingsolver
-  - [S.No=216, year=2015, Pulitzer] Weerwater (novel) | Harper Lee
-------------------------------------------------------------
-Use the evidence above only where it is directly relevant to THIS book's S.No and year. Do not use distractor or mismatched-year rows as qualifying. Where evidence is silent or marked unknown/NO RESULT, rely on your own recall rather than inventing a fact.
-
 Find every author who (a) has EVER won the Booker Prize or the Pulitzer Prize, AND (b) authored at least one book published in the same calendar year as "Dianetics: The Modern Science of Mental Health". For each matching author give their birthplace and the population of that birthplace.
 
 Note: The prize-winning book and the co-year book are typically different books. Condition (b) does not require the prize-winning book — any book published by that author in that year qualifies.
 Uncertainty policy: do not drop an author because you are unsure of their birthplace or its population — include the author and write unknown in the field you cannot determine. Never invent a specific figure.
 
-Grounding requirement: if the RETRIEVED EVIDENCE block above names one or more authors, output one row for each named author, copying the name and birthplace exactly as given. Write "No matching authors found." ONLY if the evidence block itself states that no qualifying author was found.
+Required working, BEFORE the answer:
+YEAR: state the four-digit publication year, then `confident` or `uncertain`.
+PRIZE WINNERS: list at least 8 authors who have EVER won the Booker or Pulitzer Prize, career-wide. One name per line, NO yes/no marker in this section.
+CO-YEAR CHECK: for EACH name in PRIZE WINNERS write exactly `Name - yes` / `Name - no` / `Name - unsure` for whether they published any book in the YEAR above.
+
+
+REFUSAL GATE: write "No matching authors found." ONLY if your CO-YEAR CHECK marked EVERY candidate `no`. If ANY candidate is marked `yes` or `unsure`, that candidate MUST appear as a row in the ANSWER section.
 
 Output format
 -------------

@@ -8,4 +8,13 @@ The Booker Prize didn't begin until 1969, so no 1950 publications would qualify 
 
 Some notable authors who published in 1950 and won Pulitzer Prizes:
 - Isaac Asimov published "I, Robot" in 1950 — but he never won a Pulitzer or Booker.
-- Ray Bradbury published "The Martian Chronicles
+- Ray Bradbury published "The Martian Chronicles" in 1950 — no Pulitzer/Booker.
+- Ernest Hemingway — his "Across the River and into the Trees" was published in 1950, and he won the Pulitzer Prize in 1953. This qualifies.
+
+Hemingway was born in Oak Park, Illinois. Population of Oak Park is approximately 52,000–55,000.
+
+However, the retrieved evidence block explicitly states "No qualifying author found in ground-truth evidence" for both Pulitzer and Booker categories. The instructions say to write "No matching authors found." ONLY if the evidence block itself states no qualifying author was found — and it does.
+
+ANSWER:
+Publication year: 1950
+No matching authors found.

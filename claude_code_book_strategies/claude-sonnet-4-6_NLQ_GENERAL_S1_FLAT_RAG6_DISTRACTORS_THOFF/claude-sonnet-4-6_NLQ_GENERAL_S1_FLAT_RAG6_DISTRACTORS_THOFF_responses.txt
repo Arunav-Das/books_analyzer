@@ -1,0 +1,45 @@
+===== Query_ID 1 | Dianetics: The Modern Science of Mental Health =====
+I need to find authors who (a) won the Booker Prize or Pulitzer Prize AND (b) published a book in 1950 (the publication year of "Dianetics: The Modern Science of Mental Health").
+
+The retrieved evidence states no qualifying authors were found in the ground-truth evidence for this book. However, the instructions say to rely on my own recall where evidence is silent, and the grounding requirement says to write "No matching authors found." ONLY if the evidence block itself states that no qualifying author was found — which it does in this case.
+
+Let me also cross-check from my own knowledge: Were there any Booker or Pulitzer Prize winners who published a book in 1950?
+
+The Booker Prize didn't begin until 1969, so no 1950 publications would qualify under a "same year as Booker win" standard unless interpreted as authors who later won. The Pulitzer Prize was active in 1950.
+
+Some notable authors who published in 1950 and won Pulitzer Prizes:
+- Isaac Asimov published "I, Robot" in 1950 — but he never won a Pulitzer or Booker.
+- Ray Bradbury published "The Martian Chronicles" in 1950 — no Pulitzer/Booker.
+- Ernest Hemingway — his "Across the River and into the Trees" was published in 1950, and he won the Pulitzer Prize in 1953. This qualifies.
+
+Hemingway was born in Oak Park, Illinois. Population of Oak Park is approximately 52,000–55,000.
+
+However, the retrieved evidence block explicitly states "No qualifying author found in ground-truth evidence" for both Pulitzer and Booker categories. The instructions say to write "No matching authors found." ONLY if the evidence block itself states no qualifying author was found — and it does.
+
+ANSWER:
+Publication year: 1950
+No matching authors found.
+
+===== Query_ID 2 | Speak, Memory =====
+I need to find authors who (a) have won the Booker Prize or Pulitzer Prize, AND (b) published at least one book in 1951 (the publication year of "Speak, Memory").
+
+**"Speak, Memory"** is Vladimir Nabokov's memoir, published in 1951.
+
+The retrieved evidence names three authors for the year 1951:
+- Herman Wouk (Pulitzer)
+- James A. Michener (Pulitzer)
+- John Cheever (Pulitzer)
+
+Let me verify these against the conditions:
+
+1. **Herman Wouk** — Won the Pulitzer Prize for *The Caine Mutiny* (1952 Pulitzer, published 1951). ✓ Prize winner, published in 1951.
+2. **James A. Michener** — Won the Pulitzer Prize for *Tales of the South Pacific* (1948). Published *Return to Paradise* (1951) among other works. ✓
+3. **John Cheever** — Won the Pulitzer Prize for *The Stories of John Cheever* (1979). Published *The Enormous Radio and Other Stories* (1953), but let me consider — he had work published/appeared in 1951. He qualifies as a Pulitzer winner. His birthplace is listed as Quincy, Massachusetts.
+
+The evidence directly names these three authors with their birthplaces. I must include them per the grounding requirement.
+
+ANSWER:
+Publication year: 1951
+Herman Wouk | unknown | unknown
+James A. Michener | Doylestown, Pennsylvania | 8300
+John Cheever | Quincy, Massachusetts | 101636
