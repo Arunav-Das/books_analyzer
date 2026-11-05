@@ -432,3 +432,60 @@ BOOK AUTHOR ANALYSER - CLAUDE CODE   (script version 2026-11-05.1-books-claude-c
 2026-11-05 07:08:41,721 - INFO - Loaded 500 rows from source.
 2026-11-05 07:08:41,721 - INFO - Processing 2/500 queries (0 already done)  strategy=flat_conjunctive  rag_tier=no_evidence  model=claude-sonnet-4-6  backend=claude_code
 2026-11-05 07:08:41,722 - INFO - [1/500] Q_ID=1 'Dianetics: The Modern Science of Mental Health' year=1950
+2026-11-05 07:09:00,454 - INFO -   OK 18.73s  status=ok  [rows_parsed/rows=5]  authors=5  year 1950 vs src 1950 OK  text_chars=883  thinking_chars=0  usage={'input_tokens': 3, 'cache_creation_input_tokens': 1750, 'cache_read_input_tokens': 0, 'output_tokens': 1179, 'output_tokens_details': {'thinking_tokens': 861}, 'server_tool_use': {'web_search_requests': 0, 'web_fetch_requests': 0}, 'service_tier': 'standard', 'cache_creation': {'ephemeral_1h_input_tokens': 1750, 'ephemeral_5m_input_tokens': 0}, 'inference_geo': 'global', 'iterations': [{'input_tokens': 3, 'output_tokens': 1179, 'cache_read_input_tokens': 0, 'cache_creation_input_tokens': 1750, 'cache_creation': {'ephemeral_5m_input_tokens': 0, 'ephemeral_1h_input_tokens': 1750}, 'type': 'message'}], 'speed': 'standard', 'fallback_credit': None}  cost_usd=0.028193999999999997
+2026-11-05 07:09:00,455 - INFO - Saved 1 records -> claude_code_book_strategies/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_EFFLOW/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_EFFLOW.json
+2026-11-05 07:09:00,455 - INFO - [2/500] Q_ID=2 'Speak, Memory' year=1951
+2026-11-05 07:09:22,386 - INFO -   OK 21.93s  status=ok  [rows_parsed/rows=4]  authors=4  year 1951 vs src 1951 OK  text_chars=1316  thinking_chars=0  usage={'input_tokens': 3, 'cache_creation_input_tokens': 1738, 'cache_read_input_tokens': 0, 'output_tokens': 1353, 'output_tokens_details': {'thinking_tokens': 900}, 'server_tool_use': {'web_search_requests': 0, 'web_fetch_requests': 0}, 'service_tier': 'standard', 'cache_creation': {'ephemeral_1h_input_tokens': 1738, 'ephemeral_5m_input_tokens': 0}, 'inference_geo': 'global', 'iterations': [{'input_tokens': 3, 'output_tokens': 1353, 'cache_read_input_tokens': 0, 'cache_creation_input_tokens': 1738, 'cache_creation': {'ephemeral_5m_input_tokens': 0, 'ephemeral_1h_input_tokens': 1738}, 'type': 'message'}], 'speed': 'standard', 'fallback_credit': None}  cost_usd=0.030732
+2026-11-05 07:09:22,386 - INFO - Saved 2 records -> claude_code_book_strategies/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_EFFLOW/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_EFFLOW.json
+2026-11-05 07:09:22,387 - INFO - Saved 2 records -> claude_code_book_strategies/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_EFFLOW/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_EFFLOW.json
+2026-11-05 07:09:22,387 - INFO - ──────────────────────────────────────────────────────────────────
+2026-11-05 07:09:22,387 - INFO - RUN SUMMARY  records=2  parse outcome={'rows_parsed': 2}  refusal-contradicts-scaffold=0  scored vs GT=2/2  median recall=0.333  median precision=0.125
+2026-11-05 07:09:22,387 - INFO - ──────────────────────────────────────────────────────────────────
+  done: total=2 success=2 errors=0 with-rows=2 time=0:00:40.666621  -> claude_code_book_strategies/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_EFFLOW/claude-sonnet-4-6_NLQ_GENERAL_S1_FLAT_EFFLOW.json
+
+========================================================================
+ALL RUNS COMPLETE
+  Total wall-clock time : 0:00:44.114278
+  Output root           : claude_code_book_strategies
+========================================================================
+################ EXIT 0 thinking=low tools=none rag_tier=no_evidence  2026-11-05T07:09:22+00:00 ################
+################ CELL thinking=low tools=none rag_tier=year_list_only  2026-11-05T07:09:22+00:00 ################
+2026-11-05 07:09:22,682 - INFO - === run started: book_analyzer_inf.py --model claude-sonnet-4-6 --strategy flat_conjunctive --rag_tier year_list_only --thinking low --tools_mode none --max_queries 2 --max_new_tokens 3000 --timeout 600 --no-resume --no_analysis (script version 2026-11-05.1-books-claude-code) ===
+========================================================================
+BOOK AUTHOR ANALYSER - CLAUDE CODE   (script version 2026-11-05.1-books-claude-code)
+========================================================================
+  Models (1) : claude-sonnet-4-6
+  Strategy(ies)    : flat_conjunctive
+  RAG tier         : year_list_only  (S1 only)
+  Recall scaffold  : ON (S1, no evidence)   Few-shot exemplar: ON
+  Source file      : source_books_writers.csv
+  Reference file   : writers_books_by_year.csv
+  Ground truth file: df_books_modified.csv
+  System mode      : neutral
+  Thinking         : low   Tools: none   Max turns: auto
+  Resume           : OFF (--no-resume)
+  Max new tokens   : 3000 per call; max thinking tokens: None; timeout 600s
+  Max queries      : 2
+  Prize criterion  : Booker Prize OR Pulitzer Prize
+  Output root      : claude_code_book_strategies   (log: claude_code_book_strategies/run.log; raw events: <cell dir>/raw_calls)
+========================================================================
+2026-11-05 07:09:22,704 - INFO - ReferenceStore loaded 878 rows from 'writers_books_by_year.csv' spanning 92 years.
+2026-11-05 07:09:22,786 - INFO - GroundTruthStore loaded 3078 rows from 'df_books_modified.csv' spanning 500 distinct S.No entries (1938 fully-populated, 201 marked NO RESULT).
+2026-11-05 07:09:22,787 - INFO - FewShotExemplarStore: 486 usable S.No entries; primary exemplar S.No=133 ('Flights (novel)', 13 rows).
+
+########################################################################
+  MODEL [1/1] claude-sonnet-4-6
+########################################################################
+2026-11-05 07:09:22,787 - INFO - ClaudeCodeClient ready  alias=claude-sonnet-4-6  model=claude-sonnet-4-6  bin=/opt/node22/bin/claude  max_output_tokens=3000  max_thinking_tokens=None  thinking=low  tools_mode=none  max_turns=1  system_mode=neutral
+2026-11-05 07:09:22,787 - INFO - Validating Claude Code access  alias=claude-sonnet-4-6  model=claude-sonnet-4-6 ...
+2026-11-05 07:09:25,675 - INFO - Validation OK - response: 'OK'
+
+------------------------------------------------------------------------
+  claude-sonnet-4-6 | flat_conjunctive (S1_FLAT) | RAG: year_list_only
+  Hint: Apply all conditions simultaneously in a single pass.
+------------------------------------------------------------------------
+2026-11-05 07:09:25,676 - INFO - No existing results file found. Starting fresh.
+2026-11-05 07:09:25,676 - INFO - Loading source: source_books_writers.csv
+2026-11-05 07:09:25,680 - INFO - Loaded 500 rows from source.
+2026-11-05 07:09:25,681 - INFO - Processing 2/500 queries (0 already done)  strategy=flat_conjunctive  rag_tier=year_list_only  model=claude-sonnet-4-6  backend=claude_code
+2026-11-05 07:09:25,681 - INFO - [1/500] Q_ID=1 'Dianetics: The Modern Science of Mental Health' year=1950

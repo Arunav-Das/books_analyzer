@@ -1,0 +1,74 @@
+===== Query_ID 1 | Dianetics: The Modern Science of Mental Health =====
+YEAR: 1950, confident
+
+PRIZE WINNERS:
+William Faulkner
+Robert Penn Warren
+John Hersey
+Carl Sandburg
+Gwendolyn Brooks
+Norman Mailer
+James Michener
+John Updike
+
+CO-YEAR CHECK:
+William Faulkner - yes (Collected Stories of William Faulkner, 1950)
+Robert Penn Warren - yes (World Enough and Time, 1950)
+John Hersey - yes (The Wall, 1950)
+Carl Sandburg - yes (Complete Poems, 1950)
+Gwendolyn Brooks - no (Annie Allen was 1949; no major publication in 1950)
+Norman Mailer - no (Barbary Shore was 1951)
+James Michener - unsure (Return to Paradise may be 1951; The Fires of Spring was 1949)
+John Updike - no (debut came later)
+
+ANSWER:
+Publication year: 1950
+William Faulkner | New Albany, Mississippi | 7,000
+Robert Penn Warren | Guthrie, Kentucky | 1,500
+John Hersey | Tianjin, China | 14000000
+Carl Sandburg | Galesburg, Illinois | 31,000
+James Michener | New York City, New York | 8336817
+
+===== Query_ID 2 | Speak, Memory =====
+YEAR: "Speak, Memory" by Vladimir Nabokov was first published in 1951 (UK title "Speak, Memory"; US title "Conclusive Evidence"). A revised version appeared in 1966. The original publication year is **1951** — uncertain (some sources cite 1951, others treat 1966 as the canonical edition).
+
+I will work with **1951** as the primary year (the first book-form publication).
+
+---
+
+PRIZE WINNERS:
+
+William Faulkner
+Herman Wouk
+Marianne Moore
+Carl Sandburg
+Ernest Hemingway
+John Hersey
+James Michener
+Archibald MacLeish
+Robert Penn Warren
+Shirley Ann Grau
+
+---
+
+CO-YEAR CHECK:
+
+William Faulkner - yes (Requiem for a Nun, 1951)
+Herman Wouk - yes (The Caine Mutiny, 1951)
+Marianne Moore - yes (Collected Poems, 1951)
+Carl Sandburg - no (Complete Poems was 1950)
+Ernest Hemingway - no (The Old Man and the Sea was 1952)
+John Hersey - no (The Wall was 1950)
+James Michener - unsure (Return to Paradise, 1951 — yes, published 1951)
+Archibald MacLeish - unsure (Collected Poems 1917–1952 appeared 1952)
+Robert Penn Warren - no (major works don't align to 1951)
+Shirley Ann Grau - no (debuted later)
+
+---
+
+ANSWER:
+Publication year: 1951
+William Faulkner | New Albany, Mississippi | 8,000
+Herman Wouk | New York City, New York | 8300000
+Marianne Moore | Kirkwood, Missouri | 27000
+James Michener | Doylestown, Pennsylvania | 8400
